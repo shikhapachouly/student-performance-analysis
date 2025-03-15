@@ -11,9 +11,9 @@ from reportlab.lib.utils import ImageReader
 from PIL import Image
 
 
-def create_image_folder(folder_name="image"):
+def create_image_folder(folder_name="images"):
     """
-    Create an image folder if it doesn't exist.
+    Create an images folder if it doesn't exist.
     """
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
@@ -22,7 +22,7 @@ def create_image_folder(folder_name="image"):
         print(f"Folder '{folder_name}' already exists.")
 
 
-def collate_images_to_pdf(image_folder="image", output_pdf="EDA_Collated.pdf"):
+def collate_images_to_pdf(image_folder="images", output_pdf="EDA_Collated.pdf"):
     """
     Collate all PNG images in the specified folder into a single PDF.
 
@@ -33,7 +33,7 @@ def collate_images_to_pdf(image_folder="image", output_pdf="EDA_Collated.pdf"):
     output_pdf : str
         The name of the output PDF file.
     """
-    # Get list of image files sorted alphabetically
+    # Get list of images files sorted alphabetically
     image_files = sorted([file for file in os.listdir(image_folder) if file.endswith('.png')])
 
     if not image_files:
@@ -49,7 +49,7 @@ def collate_images_to_pdf(image_folder="image", output_pdf="EDA_Collated.pdf"):
     for img_file in image_files:
         img_path = os.path.join(image_folder, img_file)
         try:
-            # Open the image to get its size
+            # Open the images to get its size
             with Image.open(img_path) as img:
                 img_width, img_height = img.size
                 aspect = img_height / float(img_width)
@@ -71,11 +71,11 @@ def collate_images_to_pdf(image_folder="image", output_pdf="EDA_Collated.pdf"):
                     display_width = available_width
                     display_height = display_width * aspect
 
-                # Center the image
+                # Center the images
                 x = (a4_width - display_width) / 2
                 y = (a4_height - display_height) / 2
 
-                # Add image to PDF
+                # Add images to PDF
                 c.drawImage(ImageReader(img_path), x, y, width=display_width, height=display_height)
                 c.showPage()
                 print(f"Added '{img_file}' to '{output_pdf}'.")
@@ -136,8 +136,8 @@ def exploratory_analysis(csv_filename="your_data.csv"):
        Feel free to modify figure sizes, color palettes, and chart types as desired.
     """
 
-    # Create image folder
-    image_folder = "image"
+    # Create images folder
+    image_folder = "images"
     create_image_folder(image_folder)
 
     # --------------------------------------------------------------------------
@@ -640,7 +640,7 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     # --------------------------------------------------------------------------
     # End of EDA
     # --------------------------------------------------------------------------
-    print("Exploratory Data Analysis Complete. Plots have been generated and saved in the 'image' folder.")
+    print("Exploratory Data Analysis Complete. Plots have been generated and saved in the 'images' folder.")
 
 # Example usage:
-exploratory_analysis("..\dataset\student-dataset.csv")
+exploratory_analysis("./dataset/student-dataset.csv")
