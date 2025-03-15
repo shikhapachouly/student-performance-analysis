@@ -11,9 +11,9 @@ from reportlab.lib.utils import ImageReader
 from PIL import Image
 
 
-def create_image_folder(folder_name="images"):
+def create_image_folder(folder_name="image"):
     """
-    Create an images folder if it doesn't exist.
+    Create an image folder if it doesn't exist.
     """
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
@@ -22,7 +22,7 @@ def create_image_folder(folder_name="images"):
         print(f"Folder '{folder_name}' already exists.")
 
 
-def collate_images_to_pdf(image_folder="images", output_pdf="EDA_Collated.pdf"):
+def collate_images_to_pdf(image_folder="image", output_pdf="EDA_Collated.pdf"):
     """
     Collate all PNG images in the specified folder into a single PDF.
 
@@ -33,7 +33,7 @@ def collate_images_to_pdf(image_folder="images", output_pdf="EDA_Collated.pdf"):
     output_pdf : str
         The name of the output PDF file.
     """
-    # Get list of images files sorted alphabetically
+    # Get list of image files sorted alphabetically
     image_files = sorted([file for file in os.listdir(image_folder) if file.endswith('.png')])
 
     if not image_files:
@@ -49,7 +49,7 @@ def collate_images_to_pdf(image_folder="images", output_pdf="EDA_Collated.pdf"):
     for img_file in image_files:
         img_path = os.path.join(image_folder, img_file)
         try:
-            # Open the images to get its size
+            # Open the image to get its size
             with Image.open(img_path) as img:
                 img_width, img_height = img.size
                 aspect = img_height / float(img_width)
@@ -71,11 +71,11 @@ def collate_images_to_pdf(image_folder="images", output_pdf="EDA_Collated.pdf"):
                     display_width = available_width
                     display_height = display_width * aspect
 
-                # Center the images
+                # Center the image
                 x = (a4_width - display_width) / 2
                 y = (a4_height - display_height) / 2
 
-                # Add images to PDF
+                # Add image to PDF
                 c.drawImage(ImageReader(img_path), x, y, width=display_width, height=display_height)
                 c.showPage()
                 print(f"Added '{img_file}' to '{output_pdf}'.")
@@ -102,23 +102,27 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     ------
     1. This script assumes the CSV contains at least these columns:
        [
-         "Timestamp", "Username", "NameOfStudent", "GenderOfStudent", "AgeGroupOfStudent",
-         "NameOfInstitute", "ResidentialArea", "10thPercentage", "12thPercentage",
-         "AggregateCGPATillCurrentSemester", "CurrentBacklogSubjects", "AttendedNurserySchool",
-         "ReasonForChoosingCollege", "EngineeringCourseBranch", "ReasonForChoosingCourse",
-         "MothersEducationStatus", "MothersJobStatus", "FathersEducationStatus",
-         "FathersJobStatus", "CurrentGuardian", "FamilySize", "ParentalRelationshipStatus",
-         "FamilyRelationshipQualityScale1to5", "FamilyIncome", "InternetAccessAtHome",
-         "ModeOfTransport", "TravelTimeForCommute", "DailyStudyTime",
-         "InstituteProvidesExtracurricularCourses", "ParticipatedInWorkshopsSeminars",
-         "CommunityServiceVolunteering", "CommunicationSkillsScale1to5",
-         "LeadershipQualitiesScale1to5", "TeamworkSkillsScale1to5", "CompletedInternships",
-         "InternshipPaymentStatusPaidFree", "CompletedProjects", "PeerGroupQualityScale1to5",
-         "TimeManagementScale1to5", "CurrentHealthStatusScale1to5", "StressFrequencyScale1to5",
-         "CopingMechanismsForStress", "HobbiesAndInterests", "SocializingFrequencyScale1to5",
-         "InARomanticRelationship", "FamilyMotivatesExtraClasses", "AttendingPaidClasses",
-         "PlacementStatusEmployerIfYes", "InterestInHigherEducation", "AlcoholConsumption",
-         "Smoking", "OtherAddictions"
+         "timestamp", "email", "student_name", "gender", "age_group",
+         "institute_name", "residential_area", "percentage_10th", "Diploma",
+         "education_path", "percentage_12th", "cgpa", "backlog",
+         "attended_nursery", "reason_college", "engineering_branch",
+         "reason_course", "mother_education_status", "mother_job_status",
+         "father_education_status", "father_job_status", "guardian",
+         "family_size", "parental_relationship_status",
+         "family_relationship_quality", "family_income",
+         "internet_access_home", "transport_mode", "travel_time",
+         "daily_study_time", "extracurricular_courses",
+         "attended_workshops", "community_service",
+         "communication_skills", "leadership_skills",
+         "teamwork_skills", "internships_completed",
+         "projects_completed", "peer_group_quality",
+         "time_management", "health_status", "stress_frequency",
+         "stress_coping_mechanisms", "hobbies_interests",
+         "friends_outing_frequency", "romantic_relationship",
+         "family_motivation", "paid_classes",
+         "placement_status", "higher_education_interest",
+         "alcohol_consumption", "smoking", "other_addictions",
+         "internship_payment_status"
        ]
     2. Make sure to install the following libraries before running:
          - pandas
@@ -132,8 +136,8 @@ def exploratory_analysis(csv_filename="your_data.csv"):
        Feel free to modify figure sizes, color palettes, and chart types as desired.
     """
 
-    # Create images folder
-    image_folder = "images"
+    # Create image folder
+    image_folder = "image"
     create_image_folder(image_folder)
 
     # --------------------------------------------------------------------------
@@ -154,7 +158,7 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     #    (Adjust these steps based on your actual needs.)
     # --------------------------------------------------------------------------
     # Remove obvious unique identifiers, if not relevant to analysis
-    cols_to_drop = ["Timestamp", "Username", "NameOfStudent"]
+    cols_to_drop = ["timestamp", "email", "student_name"]
     existing_cols_to_drop = [col for col in cols_to_drop if col in df.columns]
     if existing_cols_to_drop:
         df.drop(columns=existing_cols_to_drop, inplace=True)
@@ -163,14 +167,14 @@ def exploratory_analysis(csv_filename="your_data.csv"):
         print("No columns dropped. Columns to drop not found in the dataset.")
 
     # Remove 'Other' from gender
-    if "GenderOfStudent" in df.columns:
+    if "gender" in df.columns:
         initial_count = df.shape[0]
-        df = df[df["GenderOfStudent"].str.lower() != "other"]
+        df = df[df["gender"].str.lower() != "other"]
         final_count = df.shape[0]
         removed = initial_count - final_count
         print(f"Removed {removed} rows with 'Other' gender.")
     else:
-        print("Column 'GenderOfStudent' not found in the dataset.")
+        print("Column 'gender' not found in the dataset.")
 
     # Handle missing values with forward fill
     df = df.ffill()
@@ -179,7 +183,7 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     # Convert percentages to numeric if they have % signs (example).
     # This depends on how your CSV stores them; some rows might be "94%" or just "94".
     # Here’s a generic approach:
-    percentage_cols = ["10thPercentage", "12thPercentage"]
+    percentage_cols = ["percentage_10th", "percentage_12th"]
     for percentage_col in percentage_cols:
         if percentage_col in df.columns:
             # Remove % sign if present
@@ -196,53 +200,50 @@ def exploratory_analysis(csv_filename="your_data.csv"):
             print(f"Column '{percentage_col}' not found in the dataset.")
 
     # Convert CGPA to float if stored as string
-    if "AggregateCGPATillCurrentSemester" in df.columns:
-        df["AggregateCGPATillCurrentSemester"] = pd.to_numeric(df["AggregateCGPATillCurrentSemester"], errors="coerce")
-        if df["AggregateCGPATillCurrentSemester"].isnull().any():
-            mean_cgpa = df["AggregateCGPATillCurrentSemester"].mean()
-            df["AggregateCGPATillCurrentSemester"] = df["AggregateCGPATillCurrentSemester"].fillna(mean_cgpa)
-            print(f"Filled NaN values in 'AggregateCGPATillCurrentSemester' with mean: {mean_cgpa:.2f}")
-        print("Converted 'AggregateCGPATillCurrentSemester' to numeric.")
+    if "cgpa" in df.columns:
+        df["cgpa"] = pd.to_numeric(df["cgpa"], errors="coerce")
+        if df["cgpa"].isnull().any():
+            mean_cgpa = df["cgpa"].mean()
+            df["cgpa"] = df["cgpa"].fillna(mean_cgpa)
+            print(f"Filled NaN values in 'cgpa' with mean: {mean_cgpa:.2f}")
+        print("Converted 'cgpa' to numeric.")
 
         # ----------- Scaling CGPA to 1-10 Scale ----------- #
         # Check the current range of CGPA
-        cgpa_min = df["AggregateCGPATillCurrentSemester"].min()
-        cgpa_max = df["AggregateCGPATillCurrentSemester"].max()
+        cgpa_min = df["cgpa"].min()
+        cgpa_max = df["cgpa"].max()
         print(f"Original CGPA range: Min = {cgpa_min}, Max = {cgpa_max}")
 
         # Initialize MinMaxScaler to scale CGPA to 1-10
         scaler = MinMaxScaler(feature_range=(1, 10))
-        df["cgpa_scaled"] = scaler.fit_transform(df[["AggregateCGPATillCurrentSemester"]])
-        print("Scaled 'AggregateCGPATillCurrentSemester' to 'cgpa_scaled' with range 1-10.")
+        df["cgpa_scaled"] = scaler.fit_transform(df[["cgpa"]])
+        print("Scaled 'cgpa' to 'cgpa_scaled' with range 1-10.")
 
         # Optionally, round the scaled CGPA to two decimal places
         df["cgpa_scaled"] = df["cgpa_scaled"].round(2)
         print("Rounded 'cgpa_scaled' to two decimal places.")
     else:
-        print("Column 'AggregateCGPATillCurrentSemester' not found in the dataset.")
+        print("Column 'cgpa' not found in the dataset.")
 
     # --------------------------------------------------------------------------
     # 3. Identify and Encode Categorical Columns
     # --------------------------------------------------------------------------
     # Define all columns that are categorical
     categorical_cols = [
-        "GenderOfStudent", "AgeGroupOfStudent", "NameOfInstitute", "ResidentialArea",
-        "CurrentBacklogSubjects", "AttendedNurserySchool", "ReasonForChoosingCollege",
-        "EngineeringCourseBranch", "ReasonForChoosingCourse", "MothersEducationStatus",
-        "MothersJobStatus", "FathersEducationStatus", "FathersJobStatus", "CurrentGuardian",
-        "FamilySize", "ParentalRelationshipStatus", "FamilyRelationshipQualityScale1to5",
-        "FamilyIncome", "InternetAccessAtHome", "ModeOfTransport", "TravelTimeForCommute",
-        "DailyStudyTime", "InstituteProvidesExtracurricularCourses",
-        "ParticipatedInWorkshopsSeminars", "CommunityServiceVolunteering",
-        "CommunicationSkillsScale1to5", "LeadershipQualitiesScale1to5",
-        "TeamworkSkillsScale1to5", "CompletedInternships", "CompletedProjects",
-        "PeerGroupQualityScale1to5", "TimeManagementScale1to5",
-        "CurrentHealthStatusScale1to5", "StressFrequencyScale1to5",
-        "CopingMechanismsForStress", "HobbiesAndInterests",
-        "SocializingFrequencyScale1to5", "InARomanticRelationship",
-        "FamilyMotivatesExtraClasses", "AttendingPaidClasses",
-        "PlacementStatusEmployerIfYes", "InterestInHigherEducation",
-        "AlcoholConsumption", "Smoking", "OtherAddictions", "InternshipPaymentStatusPaidFree"
+        "gender", "age_group", "institute_name", "residential_area", "Diploma",
+        "education_path", "backlog", "attended_nursery", "reason_college", "engineering_branch",
+        "reason_course", "mother_education_status", "mother_job_status",
+        "father_education_status", "father_job_status", "guardian", "family_size",
+        "parental_relationship_status", "family_relationship_quality", "family_income",
+        "internet_access_home", "transport_mode", "travel_time", "daily_study_time",
+        "extracurricular_courses", "attended_workshops", "community_service",
+        "communication_skills", "leadership_skills", "teamwork_skills",
+        "internships_completed", "projects_completed", "peer_group_quality",
+        "time_management", "health_status", "stress_frequency",
+        "stress_coping_mechanisms", "hobbies_interests", "friends_outing_frequency",
+        "romantic_relationship", "family_motivation", "paid_classes",
+        "placement_status", "higher_education_interest", "alcohol_consumption",
+        "smoking", "other_addictions", "internship_payment_status"
     ]
 
     # Ensure that all categorical columns exist in the dataframe
@@ -253,7 +254,7 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     # Numeric columns are those not in categorical_cols and are of numeric dtype
     numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
     # Remove percentage columns, 'cgpa', and 'cgpa_scaled' from numeric_cols to avoid duplication
-    numeric_cols = [col for col in numeric_cols if col not in percentage_cols + ["AggregateCGPATillCurrentSemester", "cgpa_scaled"]]
+    numeric_cols = [col for col in numeric_cols if col not in percentage_cols + ["cgpa", "cgpa_scaled"]]
     print(f"Numeric columns identified: {numeric_cols}")
 
     # Initialize a dictionary to store label encoders for each column
@@ -261,8 +262,8 @@ def exploratory_analysis(csv_filename="your_data.csv"):
 
     # Convert binary categorical columns (Yes/No) to numeric (1/0) in new encoded columns
     binary_cols = [
-        "CurrentBacklogSubjects", "AttendedNurserySchool", "InternetAccessAtHome",
-        "AlcoholConsumption", "Smoking", "OtherAddictions"
+        "backlog", "attended_nursery", "internet_access_home",
+        "alcohol_consumption", "smoking", "other_addictions"
     ]
     binary_existing_cols = [col for col in binary_cols if col in df.columns]
     for col in binary_existing_cols:
@@ -340,19 +341,21 @@ def exploratory_analysis(csv_filename="your_data.csv"):
 
     # --------------------------------------------------------------------------
     # 6. Bar Charts for Categorical Variables
-    #    (Example: Gender, Residential Area, Placement Status, Engineering Branch)
+    #    (Example: Gender, Residential Area, Placement Status, Diploma, Education Path)
     # --------------------------------------------------------------------------
     bar_chart_cols = [
-        "GenderOfStudent",
-        "ResidentialArea",
-        "PlacementStatusEmployerIfYes",
-        "EngineeringCourseBranch",
-        "FamilyIncome",
-        "CurrentGuardian",
-        "ModeOfTransport",
-        "DailyStudyTime",
-        "ReasonForChoosingCourse",
-        "ReasonForChoosingCollege"
+        "gender",
+        "residential_area",
+        "placement_status",
+        "engineering_branch",
+        "family_income",
+        "guardian",
+        "transport_mode",
+        "daily_study_time",
+        "reason_course",
+        "reason_college",
+        "Diploma",  # Added the 'Diploma' column
+        "education_path"  # Added the 'education_path' column
     ]
     bar_chart_existing_cols = [col for col in bar_chart_cols if col in df.columns]
     for col in bar_chart_existing_cols:
@@ -371,14 +374,15 @@ def exploratory_analysis(csv_filename="your_data.csv"):
 
     # --------------------------------------------------------------------------
     # 7. Box Plots: Numeric vs. Categorical
-    #    (Example: CGPA by Gender, CGPA by Residential Area, CGPA by Engineering Branch)
+    #    (Example: CGPA by Gender, CGPA by Residential Area, CGPA by Diploma, CGPA by Education Path)
     # --------------------------------------------------------------------------
     box_plot_comparisons = [
-        ("cgpa_scaled", "GenderOfStudent"),
-        ("cgpa_scaled", "ResidentialArea"),
-        ("10thPercentage", "GenderOfStudent"),
-        ("12thPercentage", "GenderOfStudent"),
-        ("cgpa_scaled", "EngineeringCourseBranch")
+        ("cgpa_scaled", "gender"),  # Use 'cgpa_scaled' instead of 'cgpa'
+        ("cgpa_scaled", "residential_area"),
+        ("percentage_10th", "gender"),
+        ("percentage_12th", "gender"),
+        ("cgpa_scaled", "Diploma"),  # Added comparison with 'Diploma'
+        ("cgpa_scaled", "education_path")  # Added comparison with 'education_path'
     ]
     for numeric_feature, cat_feature in box_plot_comparisons:
         if numeric_feature in df.columns and cat_feature in df.columns:
@@ -405,15 +409,15 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     # 8. Scatter Plot: Relationship between 10th, 12th percentages and CGPA
     #    (Colored by Gender or Residential Area)
     # --------------------------------------------------------------------------
-    if all(col in df.columns for col in ["10thPercentage", "12thPercentage", "cgpa_scaled"]):
-        hue_col = "GenderOfStudent" if "GenderOfStudent" in df.columns else None
+    if all(col in df.columns for col in ["percentage_10th", "percentage_12th", "cgpa_scaled"]):
+        hue_col = "gender" if "gender" in df.columns else None
         palette = "coolwarm" if hue_col else "viridis"
 
         # Scatter plot for 10th Percentage vs. CGPA
         plt.figure(figsize=(10, 6))
         sns.scatterplot(
             data=df,
-            x="10thPercentage",
+            x="percentage_10th",
             y="cgpa_scaled",
             hue=hue_col,
             palette=palette,
@@ -429,14 +433,14 @@ def exploratory_analysis(csv_filename="your_data.csv"):
         plt.tight_layout()
         save_path = os.path.join(image_folder, "scatter_10th_percentage_vs_cgpa_scaled.png")
         plt.savefig(save_path)
-        print(f"Saved scatter plot for '10thPercentage' vs. 'cgpa_scaled' as '{save_path}'.")
+        print(f"Saved scatter plot for 'percentage_10th' vs. 'cgpa_scaled' as '{save_path}'.")
         plt.close()
 
         # Scatter plot for 12th Percentage vs. CGPA
         plt.figure(figsize=(10, 6))
         sns.scatterplot(
             data=df,
-            x="12thPercentage",
+            x="percentage_12th",
             y="cgpa_scaled",
             hue=hue_col,
             palette=palette,
@@ -452,7 +456,7 @@ def exploratory_analysis(csv_filename="your_data.csv"):
         plt.tight_layout()
         save_path = os.path.join(image_folder, "scatter_12th_percentage_vs_cgpa_scaled.png")
         plt.savefig(save_path)
-        print(f"Saved scatter plot for '12thPercentage' vs. 'cgpa_scaled' as '{save_path}'.")
+        print(f"Saved scatter plot for 'percentage_12th' vs. 'cgpa_scaled' as '{save_path}'.")
         plt.close()
     else:
         print("Required columns for scatter plots not found.")
@@ -486,9 +490,9 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     # 10. Pair Plot to See Relationships Between Important Numeric Variables
     # --------------------------------------------------------------------------
     # Example with: 10th percentage, 12th percentage, CGPA (scaled), and daily_study_time if numeric
-    interesting_cols = ["10thPercentage", "12thPercentage", "cgpa_scaled"]
-    if "DailyStudyTime" in df.columns and pd.api.types.is_numeric_dtype(df["DailyStudyTime"]):
-        interesting_cols.append("DailyStudyTime")
+    interesting_cols = ["percentage_10th", "percentage_12th", "cgpa_scaled"]
+    if "daily_study_time" in df.columns and pd.api.types.is_numeric_dtype(df["daily_study_time"]):
+        interesting_cols.append("daily_study_time")
     existing_interesting_cols = [col for col in interesting_cols if
                                  col in df.columns and pd.api.types.is_numeric_dtype(df[col])]
 
@@ -514,7 +518,7 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     # 11. Additional Plots (Examples)
     # --------------------------------------------------------------------------
     # Example: Count of Students with Backlogs
-    backlog_col = "CurrentBacklogSubjects_encoded"  # Use encoded backlog
+    backlog_col = "backlog_encoded"  # Use encoded backlog
     if backlog_col in df.columns:
         plt.figure(figsize=(6, 4))
         sns.countplot(data=df, x=backlog_col, palette="Set3")
@@ -530,11 +534,11 @@ def exploratory_analysis(csv_filename="your_data.csv"):
         print(f"Column '{backlog_col}' not found for backlog count plot.")
 
     # Example: Relationship between Family Income and CGPA
-    if "FamilyIncome" in df.columns and "cgpa_scaled" in df.columns:
+    if "family_income" in df.columns and "cgpa_scaled" in df.columns:
         plt.figure(figsize=(12, 6))
         sns.boxplot(
             data=df,
-            x="FamilyIncome",
+            x="family_income",
             y="cgpa_scaled",
             palette="Pastel1"
         )
@@ -550,43 +554,83 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     else:
         print("Required columns for CGPA (Scaled) by family income plot not found.")
 
-    # Example: Distribution of Engineering Course Branch
-    branch_col = "EngineeringCourseBranch"
-    if branch_col in df.columns:
+    # Example: Distribution of Diploma
+    diploma_col = "Diploma"
+    if diploma_col in df.columns:
         plt.figure(figsize=(8, 5))
-        sns.countplot(data=df, x=branch_col, palette="Set2")
-        plt.title("Distribution of Engineering Course Branches")
-        plt.xlabel("Engineering Course Branch")
+        sns.countplot(data=df, x=diploma_col, palette="Set2")
+        plt.title("Distribution of Diploma Holders")
+        plt.xlabel("Diploma Status")
         plt.ylabel("Count")
         plt.xticks(rotation=30, ha="right")
         plt.tight_layout()
-        save_path = os.path.join(image_folder, "distribution_engineering_branch.png")
+        save_path = os.path.join(image_folder, "distribution_diploma.png")
         plt.savefig(save_path)
-        print(f"Saved engineering branch distribution plot as '{save_path}'.")
+        print(f"Saved diploma distribution plot as '{save_path}'.")
         plt.close()
     else:
-        print(f"Column '{branch_col}' not found for distribution plot.")
+        print(f"Column '{diploma_col}' not found for distribution plot.")
 
-    # Example: CGPA by Engineering Course Branch
-    if branch_col in df.columns and "cgpa_scaled" in df.columns:
+    # Example: CGPA by Diploma Status
+    if diploma_col in df.columns and "cgpa_scaled" in df.columns:
         plt.figure(figsize=(12, 6))
         sns.boxplot(
             data=df,
-            x=branch_col,
+            x=diploma_col,
             y="cgpa_scaled",
             palette="Set3"
         )
-        plt.title("CGPA (Scaled) by Engineering Course Branch")
-        plt.xlabel("Engineering Course Branch")
+        plt.title("CGPA (Scaled) by Diploma Status")
+        plt.xlabel("Diploma Status")
         plt.ylabel("CGPA (Scaled)")
         plt.xticks(rotation=30, ha="right")
         plt.tight_layout()
-        save_path = os.path.join(image_folder, "cgpa_scaled_by_engineering_branch.png")
+        save_path = os.path.join(image_folder, "cgpa_scaled_by_diploma.png")
         plt.savefig(save_path)
-        print(f"Saved CGPA (Scaled) by engineering branch box plot as '{save_path}'.")
+        print(f"Saved CGPA (Scaled) by diploma status box plot as '{save_path}'.")
         plt.close()
     else:
-        print("Required columns for CGPA (Scaled) by engineering branch plot not found.")
+        print("Required columns for CGPA (Scaled) by diploma status plot not found.")
+
+    # Example: Distribution of Education Path
+    education_path_col = "education_path"
+    if education_path_col in df.columns:
+        plt.figure(figsize=(8, 5))
+        sns.countplot(data=df, x=education_path_col, palette="Set2")
+        plt.title("Distribution of Education Path")
+        plt.xlabel("Education Path")
+        plt.ylabel("Count")
+        plt.xticks(rotation=30, ha="right")
+        plt.tight_layout()
+        save_path = os.path.join(image_folder, "distribution_education_path.png")
+        plt.savefig(save_path)
+        print(f"Saved education path distribution plot as '{save_path}'.")
+        plt.close()
+    else:
+        print(f"Column '{education_path_col}' not found for distribution plot.")
+
+    # Example: CGPA by Education Path
+    if education_path_col in df.columns and "cgpa_scaled" in df.columns:
+        plt.figure(figsize=(12, 6))
+        sns.boxplot(
+            data=df,
+            x=education_path_col,
+            y="cgpa_scaled",
+            palette="Set3"
+        )
+        plt.title("CGPA (Scaled) by Education Path")
+        plt.xlabel("Education Path")
+        plt.ylabel("CGPA (Scaled)")
+        plt.xticks(rotation=30, ha="right")
+        plt.tight_layout()
+        save_path = os.path.join(image_folder, "cgpa_scaled_by_education_path.png")
+        plt.savefig(save_path)
+        print(f"Saved CGPA (Scaled) by education path box plot as '{save_path}'.")
+        plt.close()
+    else:
+        print("Required columns for CGPA (Scaled) by education path plot not found.")
+
+    # Add more plots as needed following the same structure...
 
     # --------------------------------------------------------------------------
     # 12. Collate All Images into a Single PDF
@@ -596,7 +640,7 @@ def exploratory_analysis(csv_filename="your_data.csv"):
     # --------------------------------------------------------------------------
     # End of EDA
     # --------------------------------------------------------------------------
-    print("Exploratory Data Analysis Complete. Plots have been generated and saved in the 'images' folder.")
+    print("Exploratory Data Analysis Complete. Plots have been generated and saved in the 'image' folder.")
 
 # Example usage:
-exploratory_analysis('dataset/student-dataset.csv')
+exploratory_analysis("..\dataset\student-dataset.csv")
