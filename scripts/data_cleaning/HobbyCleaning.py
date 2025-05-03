@@ -110,8 +110,8 @@ def categorize_hobby(text):
 
 
 def main():
-    input_file = "./column_data_csv/HobbiesAndInterests.csv"
-    output_file = "./column_data_csv/HobbiesAndInterests_cleaned.csv"
+    input_file = "../../dataset/columnwise_data_cleaning/raw_data/HobbiesAndInterests.csv"
+    output_file = "../../dataset/columnwise_data_cleaning/cleaned_data/HobbiesAndInterests_cleaned.csv"
 
     try:
         df = pd.read_csv(input_file, keep_default_na=False)

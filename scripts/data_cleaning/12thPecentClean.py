@@ -97,6 +97,6 @@ def process_csv(input_file, output_file):
         writer.writerows(cleaned_data)
 
 # Usage
-input_file = './column_data_csv/12thPercentage.csv'
-output_file = './column_data_csv/Cleaned12thPercentage.csv'
+input_file = '../../dataset/columnwise_data_cleaning/raw_data/12thPercentage.csv'
+output_file = '../../dataset/columnwise_data_cleaning/cleaned_data/Cleaned12thPercentage.csv'
 process_csv(input_file, output_file)

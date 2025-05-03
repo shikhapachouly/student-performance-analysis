@@ -115,7 +115,7 @@ def standardize_branch(branch):
 def main():
     # Load the CSV file into a DataFrame.
     # Replace the file path with your CSV file location.
-    input_file = "./column_data_csv/EngineeringCourseBranch.csv"
+    input_file = "../../dataset/columnwise_data_cleaning/raw_data/EngineeringCourseBranch.csv"
     try:
         df = pd.read_csv(input_file)
     except Exception as e:
@@ -135,7 +135,7 @@ def main():
     print(df.head(20))
 
     # Save the cleaned DataFrame to a new CSV file.
-    output_file = "./column_data_csv/EngineeringCourseBranch_cleaned.csv"
+    output_file = "../../dataset/columnwise_data_cleaning/cleaned_data/EngineeringCourseBranch_cleaned.csv"
     try:
         df.to_csv(output_file, index=False)
         print(f"Cleaned data saved to {output_file}")

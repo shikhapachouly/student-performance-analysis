@@ -110,7 +110,7 @@ def process_csv(input_csv_filename, output_csv_filename):
 
 
 # Example Usage
-input_file = "./column_data_csv/instittue_name.csv"  # Replace with your input CSV file name
-output_file = "./column_data_csv/institute_name_cleaned.csv"  # Replace with your desired output CSV file name
+input_file = "../../dataset/columnwise_data_cleaning/raw_data/instittue_name.csv"  # Replace with your input CSV file name
+output_file = "../../dataset/columnwise_data_cleaning/cleaned_data/institute_name_cleaned.csv"  # Replace with your desired output CSV file name
 
 process_csv(input_file, output_file)

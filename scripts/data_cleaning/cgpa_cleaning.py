@@ -127,6 +127,6 @@ def process_csv(input_file, output_file):
         print("Error writing CSV:", e)
 
 if __name__ == "__main__":
-    input_csv = "./column_data_csv/AggregateCGPATillCurrentSemester.csv"
-    output_csv = "./column_data_csv/AggregateCGPATillCurrentSemester_cleaned.csv"
+    input_csv = "./columnwise_data_cleaning/AggregateCGPATillCurrentSemester.csv"
+    output_csv = "./columnwise_data_cleaning/AggregateCGPATillCurrentSemester_cleaned.csv"
     process_csv(input_csv, output_csv)

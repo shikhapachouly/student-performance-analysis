@@ -16,8 +16,8 @@ def clean_internship_payment(value):
 
 
 def main():
-    input_file = "./column_data_csv/InternshipPaymentStatusPaidFree.csv"
-    output_file = "./column_data_csv/InternshipPaymentStatusPaidFree_Cleaned.csv"
+    input_file = "../../dataset/columnwise_data_cleaning/raw_data/InternshipPaymentStatusPaidFree.csv"
+    output_file = "../../dataset/columnwise_data_cleaning/cleaned_data/InternshipPaymentStatusPaidFree_Cleaned.csv"
 
     # Configure pandas to show all rows/columns
     pd.set_option('display.max_rows', None)

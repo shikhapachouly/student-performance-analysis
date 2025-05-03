@@ -45,9 +45,9 @@ def clean_and_process_data(csv_file):
     df[column_name] = df[column_name].round(2)
 
     # Write the cleaned DataFrame to a new CSV file
-    df.to_csv('./column_data_csv/10th_percent_clean_data.csv', index=False)
+    df.to_csv('./columnwise_data_cleaning/10th_percent_clean_data.csv', index=False)
 
     print("Cleaned data written to clean_data.csv")
 
 # Example usage:
-clean_and_process_data('./column_data_csv/10th_percent.csv') # Replace 'your_input_file.csv' with the actual path to your CSV file
+clean_and_process_data('../../dataset/columnwise_data_cleaning/raw_data/10th_percent.csv') # Replace 'your_input_file.csv' with the actual path to your CSV file

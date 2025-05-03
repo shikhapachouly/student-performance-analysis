@@ -43,8 +43,8 @@ def map_placement_status(val):
 
 def main():
     # Define input and output file paths.
-    input_file = "./column_data_csv/placement.csv"
-    output_file = "./column_data_csv/placement_clean.csv"
+    input_file = "../../dataset/columnwise_data_cleaning/raw_data/placement.csv"
+    output_file = "../../dataset/columnwise_data_cleaning/cleaned_data/placement_clean.csv"
 
     # Read the CSV file.
     # Using skip_blank_lines=False ensures that no lines are skipped, even if they are empty.
