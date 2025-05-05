@@ -1,0 +1,1379 @@
+OriginalRow,OriginalText,CleanText,MatchedCategories,FinalCategory
+2,None,none,,None (explicit none match)
+3,Soccer . Chess,soccer   chess,Sports (soccer),Sports (soccer)
+4,Maths,maths,Education & Study (math),Education & Study (math)
+5,Reading books Data Science Singing classical songs ,reading books data science singing classical songs,"Music & Dance (singing), Reading & Writing (read)","Music & Dance (singing), Reading & Writing (read)"
+6,Swimming Painting Cooking Travelling ,swimming painting cooking travelling,"Sports (swim), Arts & Crafts (painting), Travel & Adventure (travel), Cooking & Baking (cook)","Arts & Crafts (painting), Cooking & Baking (cook), Sports (swim), Travel & Adventure (travel)"
+7,Reading and interests is in study of economics  business and finance ,reading and interests is in study of economics  business and finance,"Reading & Writing (read), Business & Finance (business), Education & Study (study)","Business & Finance (business), Education & Study (study), Reading & Writing (read)"
+8,I like to read . I like to visit new places. ,i like to read   i like to visit new places,"Reading & Writing (read), Design (new)","Design (new), Reading & Writing (read)"
+9,Doodling,doodling,Arts & Crafts (doodling),Arts & Crafts (doodling)
+10,Reading and Drawing ,reading and drawing,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+11,Gym coding,gym coding,"Technology & Coding (coding), Fitness & Gym (gym)","Fitness & Gym (gym), Technology & Coding (coding)"
+12,I like to play cricket to study,i like to play cricket to study,"Sports (cricket), Education & Study (study)","Education & Study (study), Sports (cricket)"
+13,Playing badminton and reading books ,playing badminton and reading books,"Sports (badminton), Reading & Writing (read)","Reading & Writing (read), Sports (badminton)"
+14,Volleyball keeping up with the current technological trends,volleyball keeping up with the current technological trends,"Sports (volley), Technology & Coding (tech)","Sports (volley), Technology & Coding (tech)"
+15,Cooking food any sports ,cooking food any sports,"Sports (sport), Cooking & Baking (cook)","Cooking & Baking (cook), Sports (sport)"
+16,Listen music,listen music,Music & Dance (music),Music & Dance (music)
+17,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+18,Beatboxing,beatboxing,"Sports (boxing), Music & Dance (beatboxing)","Music & Dance (beatboxing), Sports (boxing)"
+19,Chess ,chess,Sports (chess),Sports (chess)
+20,Interests : Working out at the gym.,interests   working out at the gym,Fitness & Gym (gym),Fitness & Gym (gym)
+21,Watching movies,watching movies,Entertainment (movie),Entertainment (movie)
+22,Sports ,sports,Sports (sport),Sports (sport)
+23,Cricket ,cricket,Sports (cricket),Sports (cricket)
+24,Art study related astronomy travelling ,art study related astronomy travelling,"Arts & Crafts (art), Travel & Adventure (travel), Education & Study (study), Occult & Astrology (astronomy)","Arts & Crafts (art), Education & Study (study), Occult & Astrology (astronomy), Travel & Adventure (travel)"
+25,Cars automobiles sports,cars automobiles sports,"Sports (sport), Automotive & Racing (car)","Automotive & Racing (car), Sports (sport)"
+26,Trekking traveling and interested in learning geography and current affairs,trekking traveling and interested in learning geography and current affairs,"Reading & Writing (learn), Travel & Adventure (travel), Education & Study (learning)","Education & Study (learning), Reading & Writing (learn), Travel & Adventure (travel)"
+27,Singing and listening eng poetries,singing and listening eng poetries,"Music & Dance (singing), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (singing)"
+28,competitive gaming (ESPORTS)  music ,competitive gaming  esports   music,"Sports (sport), Music & Dance (music), Gaming (gaming)","Gaming (gaming), Music & Dance (music), Sports (sport)"
+29,Gaming bike riding swimming ,gaming bike riding swimming,"Sports (swim), Gaming (gaming), Automotive & Racing (bike)","Automotive & Racing (bike), Gaming (gaming), Sports (swim)"
+30,Bike riding and trekking ,bike riding and trekking,"Travel & Adventure (trek), Automotive & Racing (bike)","Automotive & Racing (bike), Travel & Adventure (trek)"
+31,Painting crocheting reading,painting crocheting reading,"Arts & Crafts (painting), Reading & Writing (read)","Arts & Crafts (painting), Reading & Writing (read)"
+32,Painting,painting,Arts & Crafts (painting),Arts & Crafts (painting)
+33,My hobby is to travel new places which are covered by Nature Cooking new dishes learning various languages solving puzzles writing diary regularly playing badminton etc ,my hobby is to travel new places which are covered by nature cooking new dishes learning various languages solving puzzles writing diary regularly playing badminton etc,"Sports (badminton), Reading & Writing (writing), Travel & Adventure (travel), Cooking & Baking (cook), Design (new), Education & Study (learning)","Cooking & Baking (cook), Design (new), Education & Study (learning), Reading & Writing (writing), Sports (badminton), Travel & Adventure (travel)"
+34,Drawing playing outdoor games,drawing playing outdoor games,"Arts & Crafts (drawing), Gaming (game)","Arts & Crafts (drawing), Gaming (game)"
+35,Table tennis Swimming ,table tennis swimming,Sports (tennis),Sports (tennis)
+36,Football Swimming ,football swimming,Sports (football),Sports (football)
+37,I like to write poetry and sometimes sing,i like to write poetry and sometimes sing,Reading & Writing (poetry),Reading & Writing (poetry)
+38,Volleyball  Football ,volleyball  football,Sports (football),Sports (football)
+39,Travelling dancing ,travelling dancing,"Music & Dance (dancing), Travel & Adventure (travel)","Music & Dance (dancing), Travel & Adventure (travel)"
+40,Calisthenics sketching  dancing,calisthenics sketching  dancing,"Arts & Crafts (sketching), Music & Dance (dancing)","Arts & Crafts (sketching), Music & Dance (dancing)"
+41,Playing football listening podcast organizing events,playing football listening podcast organizing events,"Sports (football), Social & Volunteering (event), Mind & Wellness (listening)","Mind & Wellness (listening), Social & Volunteering (event), Sports (football)"
+42,Playing badminton,playing badminton,Sports (badminton),Sports (badminton)
+43,I am a professional graphic designer. Being a graphic designer is my hobby,i am a professional graphic designer  being a graphic designer is my hobby,Design (design),Design (design)
+44,Hobby - playing games  watching movies. Intrests - learning new skills,hobby   playing games  watching movies  intrests   learning new skills,"Reading & Writing (learn), Gaming (game), Design (new), Education & Study (learning), Entertainment (movie)","Design (new), Education & Study (learning), Entertainment (movie), Gaming (game), Reading & Writing (learn)"
+45,Painting diy,painting diy,"Arts & Crafts (painting), Cooking & Baking (diy)","Arts & Crafts (painting), Cooking & Baking (diy)"
+46,Walking reading ,walking reading,"Reading & Writing (read), Fitness & Gym (walking)","Fitness & Gym (walking), Reading & Writing (read)"
+47,Cookingdancingdrawing,cookingdancingdrawing,"Arts & Crafts (drawing), Music & Dance (dancing), Cooking & Baking (cook)","Arts & Crafts (drawing), Cooking & Baking (cook), Music & Dance (dancing)"
+48,Painting reading cooking dancing,painting reading cooking dancing,"Arts & Crafts (painting), Music & Dance (dancing), Reading & Writing (read), Cooking & Baking (cook)","Arts & Crafts (painting), Cooking & Baking (cook), Music & Dance (dancing), Reading & Writing (read)"
+49,Playing Football ,playing football,Sports (football),Sports (football)
+50,Gym,gym,Fitness & Gym (gym),Fitness & Gym (gym)
+51,playing cricket gym coding ,playing cricket gym coding,"Sports (cricket), Technology & Coding (coding), Fitness & Gym (gym)","Fitness & Gym (gym), Sports (cricket), Technology & Coding (coding)"
+52,Traveling reading Helping,traveling reading helping,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+53,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+54,Travelling exploring foodie living life,travelling exploring foodie living life,"Travel & Adventure (travel), Cooking & Baking (food)","Cooking & Baking (food), Travel & Adventure (travel)"
+55,Playing fluteguitar solo travelling,playing fluteguitar solo travelling,"Music & Dance (guitar), Travel & Adventure (travel)","Music & Dance (guitar), Travel & Adventure (travel)"
+56,No,no,,None (explicit none match)
+57,Dancing Exploring new things and travelling ,dancing exploring new things and travelling,"Music & Dance (dancing), Travel & Adventure (travel), Design (new)","Design (new), Music & Dance (dancing), Travel & Adventure (travel)"
+58,Singing travelling dancing  learning new skills ,singing travelling dancing  learning new skills,"Music & Dance (singing), Reading & Writing (learn), Travel & Adventure (travel), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Music & Dance (singing), Reading & Writing (learn), Travel & Adventure (travel)"
+59,Learning new skills ,learning new skills,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+60,Read books,read books,Reading & Writing (read),Reading & Writing (read)
+61,No,no,,None (explicit none match)
+62,My hoobies are playing outdoor games like football cricket badminton kho kho  kabbadi and indoor games like chess caroom board pool . I aslo like to read  books based mythology autobiography and novel's too.  Languages prefessed hindi marathi and english . I also like do social work  and  currently did social work  with Rss ( Rastriya Swayamsevak Sangh ) being a swayamsevak since childhood. I also like to explore new thing .,my hoobies are playing outdoor games like football cricket badminton kho kho  kabbadi and indoor games like chess caroom board pool   i aslo like to read  books based mythology autobiography and novel s too   languages prefessed hindi marathi and english   i also like do social work  and  currently did social work  with rss   rastriya swayamsevak sangh   being a swayamsevak since childhood  i also like to explore new thing,"Sports (chess), Reading & Writing (read), Gaming (game), Social & Volunteering (social), Design (new), Education & Study (language), Automotive & Racing (car)","Automotive & Racing (car), Design (new), Education & Study (language), Gaming (game), Reading & Writing (read), Social & Volunteering (social), Sports (chess)"
+63,Dancing journaling ,dancing journaling,Music & Dance (dancing),Music & Dance (dancing)
+64,Dancing computing with people collection of articles ,dancing computing with people collection of articles,"Arts & Crafts (art), Music & Dance (dancing), Technology & Coding (computing)","Arts & Crafts (art), Music & Dance (dancing), Technology & Coding (computing)"
+65,Travelling swimming,travelling swimming,"Sports (swim), Travel & Adventure (travel)","Sports (swim), Travel & Adventure (travel)"
+66,Singing ,singing,Music & Dance (singing),Music & Dance (singing)
+67,Football,football,Sports (football),Sports (football)
+68,Trekking and I am interested in coding ,trekking and i am interested in coding,"Travel & Adventure (trek), Technology & Coding (coding)","Technology & Coding (coding), Travel & Adventure (trek)"
+69,Playing Cricket ,playing cricket,Sports (cricket),Sports (cricket)
+70,Cricket,cricket,Sports (cricket),Sports (cricket)
+71,Cricket ,cricket,Sports (cricket),Sports (cricket)
+72,Gaming,gaming,Gaming (gaming),Gaming (gaming)
+73,Playing cricket reading books mission gadkottreking,playing cricket reading books mission gadkottreking,"Sports (cricket), Reading & Writing (read), Travel & Adventure (trek)","Reading & Writing (read), Sports (cricket), Travel & Adventure (trek)"
+74,Sketching and writing ,sketching and writing,"Arts & Crafts (sketching), Reading & Writing (writing)","Arts & Crafts (sketching), Reading & Writing (writing)"
+75,Table tennis ,table tennis,Sports (tennis),Sports (tennis)
+76,Acting cooking,acting cooking,"Arts & Crafts (acting), Cooking & Baking (cook)","Arts & Crafts (acting), Cooking & Baking (cook)"
+77,Gaming,gaming,Gaming (gaming),Gaming (gaming)
+78,. ,,,None (explicit none match)
+79,Coding ,coding,Technology & Coding (coding),Technology & Coding (coding)
+80,Football drawing online games coding ,football drawing online games coding,"Sports (football), Arts & Crafts (drawing), Technology & Coding (coding), Gaming (game)","Arts & Crafts (drawing), Gaming (game), Sports (football), Technology & Coding (coding)"
+81,Learning new skills sketching and painting,learning new skills sketching and painting,"Arts & Crafts (painting), Reading & Writing (learn), Design (new), Education & Study (learning)","Arts & Crafts (painting), Design (new), Education & Study (learning), Reading & Writing (learn)"
+82,Playing outdoor games Swimming Reading ,playing outdoor games swimming reading,"Sports (swim), Reading & Writing (read), Gaming (game)","Gaming (game), Reading & Writing (read), Sports (swim)"
+83,All types of sportsGymreading financehistorical and political books or blogslearning new technologies and understanding working of different industries,all types of sportsgymreading financehistorical and political books or blogslearning new technologies and understanding working of different industries,"Sports (sport), Reading & Writing (read), Technology & Coding (tech), Fitness & Gym (gym), Design (new), Business & Finance (finance), Education & Study (learning)","Business & Finance (finance), Design (new), Education & Study (learning), Fitness & Gym (gym), Reading & Writing (read), Sports (sport), Technology & Coding (tech)"
+84,Singing and coding,singing and coding,"Music & Dance (singing), Technology & Coding (coding)","Music & Dance (singing), Technology & Coding (coding)"
+85,Reading coding ,reading coding,"Reading & Writing (read), Technology & Coding (coding)","Reading & Writing (read), Technology & Coding (coding)"
+86,Anime football cricket movie ,anime football cricket movie,"Sports (cricket), Entertainment (movie)","Entertainment (movie), Sports (cricket)"
+87,Chess Basketball listening to music,chess basketball listening to music,"Sports (chess), Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Sports (chess)"
+88,Reading travelling,reading travelling,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+89,Dancing and reading ,dancing and reading,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+90,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+91,Cooking Reading Novels,cooking reading novels,"Reading & Writing (read), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read)"
+92,Sketching and playing games,sketching and playing games,"Arts & Crafts (sketching), Gaming (game)","Arts & Crafts (sketching), Gaming (game)"
+93,Cooking dancing,cooking dancing,"Music & Dance (dancing), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (dancing)"
+94,Listening to music watching movies.,listening to music watching movies,"Music & Dance (music), Entertainment (movie), Mind & Wellness (listening)","Entertainment (movie), Mind & Wellness (listening), Music & Dance (music)"
+95,Travel Collecting old coins Watching documenteries ,travel collecting old coins watching documenteries,"Travel & Adventure (travel), Entertainment (watching)","Entertainment (watching), Travel & Adventure (travel)"
+96,Guitar,guitar,Music & Dance (guitar),Music & Dance (guitar)
+97,Reading and playing ,reading and playing,Reading & Writing (read),Reading & Writing (read)
+98,Chess and dancing,chess and dancing,"Sports (chess), Music & Dance (dancing)","Music & Dance (dancing), Sports (chess)"
+99,producing music,producing music,Music & Dance (music),Music & Dance (music)
+100,None,none,,None (explicit none match)
+101,Playing Cricket,playing cricket,Sports (cricket),Sports (cricket)
+102,Basketball harmonium singing dancing,basketball harmonium singing dancing,"Sports (basketball), Music & Dance (singing)","Music & Dance (singing), Sports (basketball)"
+103,Playing Cricket ,playing cricket,Sports (cricket),Sports (cricket)
+104,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+105,Sports and cinema ,sports and cinema,"Sports (sport), Entertainment (cinema)","Entertainment (cinema), Sports (sport)"
+106,Sketching,sketching,Arts & Crafts (sketching),Arts & Crafts (sketching)
+107,Sports drawing dancing and I have interest in coding a d extracurricular activities,sports drawing dancing and i have interest in coding a d extracurricular activities,"Sports (sport), Arts & Crafts (drawing), Music & Dance (dancing), Technology & Coding (coding)","Arts & Crafts (drawing), Music & Dance (dancing), Sports (sport), Technology & Coding (coding)"
+108,Playing chess badminton online games travelling,playing chess badminton online games travelling,"Sports (chess), Travel & Adventure (travel), Gaming (game)","Gaming (game), Sports (chess), Travel & Adventure (travel)"
+109,Trading  poetry ,trading  poetry,"Reading & Writing (poetry), Business & Finance (trading)","Business & Finance (trading), Reading & Writing (poetry)"
+110,Football watching anime,football watching anime,"Sports (football), Entertainment (watching)","Entertainment (watching), Sports (football)"
+111,Riding studying swimming ,riding studying swimming,"Sports (swim), Education & Study (studying), Automotive & Racing (riding)","Automotive & Racing (riding), Education & Study (studying), Sports (swim)"
+112,Kdrama  reading books ,kdrama  reading books,Reading & Writing (read),Reading & Writing (read)
+113,Football,football,Sports (football),Sports (football)
+114,Martial Arts,martial arts,"Sports (martial arts), Arts & Crafts (art)","Arts & Crafts (art), Sports (martial arts)"
+115,Listening to music and playing video games ,listening to music and playing video games,"Music & Dance (music), Gaming (game), Mind & Wellness (listening)","Gaming (game), Mind & Wellness (listening), Music & Dance (music)"
+116,Photography Technological study ,photography technological study,"Technology & Coding (tech), Design (photography), Education & Study (study)","Design (photography), Education & Study (study), Technology & Coding (tech)"
+117,Singing ,singing,Music & Dance (singing),Music & Dance (singing)
+118,sports like badminton and skating,sports like badminton and skating,Sports (badminton),Sports (badminton)
+119,Reading story books & playing video games are my hobbies ,reading story books   playing video games are my hobbies,"Reading & Writing (read), Gaming (game)","Gaming (game), Reading & Writing (read)"
+120,Reading books articles sketching  study about space listening songs,reading books articles sketching  study about space listening songs,"Arts & Crafts (sketching), Music & Dance (song), Reading & Writing (read), Education & Study (study), Mind & Wellness (listening)","Arts & Crafts (sketching), Education & Study (study), Mind & Wellness (listening), Music & Dance (song), Reading & Writing (read)"
+121,Drawing and Coding,drawing and coding,"Arts & Crafts (drawing), Technology & Coding (coding)","Arts & Crafts (drawing), Technology & Coding (coding)"
+122,Basketball  sketching  cricket footballetc,basketball  sketching  cricket footballetc,"Sports (cricket), Arts & Crafts (sketching)","Arts & Crafts (sketching), Sports (cricket)"
+123,sketching sports outings ,sketching sports outings,"Sports (sport), Arts & Crafts (sketching)","Arts & Crafts (sketching), Sports (sport)"
+124,Music,music,Music & Dance (music),Music & Dance (music)
+125,Travelling Singing Cooking Swimming Playing Badminton.,travelling singing cooking swimming playing badminton,"Sports (badminton), Music & Dance (singing), Travel & Adventure (travel), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (singing), Sports (badminton), Travel & Adventure (travel)"
+126,Sports and music,sports and music,"Sports (sport), Music & Dance (music)","Music & Dance (music), Sports (sport)"
+127,Football Singing Gaming workout,football singing gaming workout,"Sports (football), Music & Dance (singing), Gaming (gaming), Fitness & Gym (workout)","Fitness & Gym (workout), Gaming (gaming), Music & Dance (singing), Sports (football)"
+128,Playing Football and guitar also drawing and listening to music ,playing football and guitar also drawing and listening to music,"Sports (football), Arts & Crafts (drawing), Music & Dance (music), Mind & Wellness (listening)","Arts & Crafts (drawing), Mind & Wellness (listening), Music & Dance (music), Sports (football)"
+129,Playing Badminton ,playing badminton,Sports (badminton),Sports (badminton)
+130,Hobbies: To play outdoor sports watch movies etc.      Interests: To run a Business.,hobbies  to play outdoor sports watch movies etc       interests  to run a business,"Sports (sport), Business & Finance (business), Entertainment (movie)","Business & Finance (business), Entertainment (movie), Sports (sport)"
+131,Playing cricket watching movies,playing cricket watching movies,"Sports (cricket), Entertainment (movie)","Entertainment (movie), Sports (cricket)"
+132,Getting knowledge about different businesses ,getting knowledge about different businesses,"Business & Finance (business), Education & Study (knowledge)","Business & Finance (business), Education & Study (knowledge)"
+133,Travelling,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+134,I like to read novels play badminton. I also enjoy painting.,i like to read novels play badminton  i also enjoy painting,"Sports (badminton), Arts & Crafts (painting), Reading & Writing (read)","Arts & Crafts (painting), Reading & Writing (read), Sports (badminton)"
+135,Dance (kathak class ) reading books ,dance  kathak class   reading books,"Music & Dance (dance), Reading & Writing (read)","Music & Dance (dance), Reading & Writing (read)"
+136,Chess Watching Mystery movies ,chess watching mystery movies,"Sports (chess), Entertainment (movie)","Entertainment (movie), Sports (chess)"
+137,Playing games playing basketball reading books,playing games playing basketball reading books,"Sports (basketball), Reading & Writing (read), Gaming (game)","Gaming (game), Reading & Writing (read), Sports (basketball)"
+138,Adventure trekking swimming reading vacation ,adventure trekking swimming reading vacation,"Sports (swim), Reading & Writing (read), Travel & Adventure (trek)","Reading & Writing (read), Sports (swim), Travel & Adventure (trek)"
+139,I play cricket as my hobby. Love reading books ,i play cricket as my hobby  love reading books,"Sports (cricket), Reading & Writing (read)","Reading & Writing (read), Sports (cricket)"
+140,Photography  swimming  trekking  painting and drawing  badminton  volleyball .,photography  swimming  trekking  painting and drawing  badminton  volleyball,"Sports (badminton), Arts & Crafts (drawing), Travel & Adventure (trek), Design (photography)","Arts & Crafts (drawing), Design (photography), Sports (badminton), Travel & Adventure (trek)"
+141,Playing tabla,playing tabla,Music & Dance (tabla),Music & Dance (tabla)
+142,Business case study,business case study,"Business & Finance (business), Education & Study (study)","Business & Finance (business), Education & Study (study)"
+143,Like to read and understand Geeta like to play badminton and football read and understand religious devotional songs.,like to read and understand geeta like to play badminton and football read and understand religious devotional songs,"Sports (football), Music & Dance (song), Reading & Writing (read)","Music & Dance (song), Reading & Writing (read), Sports (football)"
+144,Chess Gaming,chess gaming,"Sports (chess), Gaming (gaming)","Gaming (gaming), Sports (chess)"
+145,Football Calisthenics and Cycling,football calisthenics and cycling,Sports (football),Sports (football)
+146,Reading,reading,Reading & Writing (read),Reading & Writing (read)
+147,Driving car and sketching ,driving car and sketching,"Arts & Crafts (sketching), Travel & Adventure (driving), Automotive & Racing (car)","Arts & Crafts (sketching), Automotive & Racing (car), Travel & Adventure (driving)"
+148,Singing Reading Travelling Games Movies ,singing reading travelling games movies,"Music & Dance (singing), Reading & Writing (read), Travel & Adventure (travel), Gaming (game), Entertainment (movie)","Entertainment (movie), Gaming (game), Music & Dance (singing), Reading & Writing (read), Travel & Adventure (travel)"
+149,Design ,design,Design (design),Design (design)
+150,Tracking is my hobbies to visit various forts and mountains ,tracking is my hobbies to visit various forts and mountains,Travel & Adventure (tracking),Travel & Adventure (tracking)
+151,Entrepreneurship Cricket ,entrepreneurship cricket,"Sports (cricket), Business & Finance (entrepreneurship)","Business & Finance (entrepreneurship), Sports (cricket)"
+152,Listening to music,listening to music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+153,Playing Cricket and BGMI,playing cricket and bgmi,Sports (cricket),Sports (cricket)
+154,My hobby is learning new skillsalso i love singing.,my hobby is learning new skillsalso i love singing,"Music & Dance (singing), Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Music & Dance (singing), Reading & Writing (learn)"
+155,Sports in( cricket),sports in  cricket,Sports (cricket),Sports (cricket)
+156,Cricket Project work Chess.,cricket project work chess,"Sports (chess), Business & Finance (project)","Business & Finance (project), Sports (chess)"
+157,Teaching students outdoor activities yoga  dancing,teaching students outdoor activities yoga  dancing,"Music & Dance (dancing), Education & Study (teaching), Mind & Wellness (yoga)","Education & Study (teaching), Mind & Wellness (yoga), Music & Dance (dancing)"
+158,Cars,cars,Automotive & Racing (car),Automotive & Racing (car)
+159,Swimming ,swimming,Sports (swim),Sports (swim)
+160,Dancing ,dancing,Music & Dance (dancing),Music & Dance (dancing)
+161,Playing physical & video games driving bick raiding ,playing physical   video games driving bick raiding,"Travel & Adventure (driving), Gaming (game)","Gaming (game), Travel & Adventure (driving)"
+162,Bodybuilding Driving ,bodybuilding driving,"Travel & Adventure (driving), Fitness & Gym (bodybuilding)","Fitness & Gym (bodybuilding), Travel & Adventure (driving)"
+163,Design ,design,Design (design),Design (design)
+164,Musical instruments playing ,musical instruments playing,Music & Dance (music),Music & Dance (music)
+165,Cricket volleyball cooking  stock market Trekking travelling ,cricket volleyball cooking  stock market trekking travelling,"Sports (cricket), Travel & Adventure (travel), Cooking & Baking (cook), Business & Finance (stock market)","Business & Finance (stock market), Cooking & Baking (cook), Sports (cricket), Travel & Adventure (travel)"
+166,Working out hanging out with family and friends sports like cricketkabaddi Playing cards Video games.,working out hanging out with family and friends sports like cricketkabaddi playing cards video games,"Sports (cricket), Gaming (game), Automotive & Racing (car), Mind & Wellness (family)","Automotive & Racing (car), Gaming (game), Mind & Wellness (family), Sports (cricket)"
+167,Trekking,trekking,Travel & Adventure (trek),Travel & Adventure (trek)
+168,Interested in learning new skills ,interested in learning new skills,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+169,Car & Bike Driving ,car   bike driving,"Travel & Adventure (driving), Automotive & Racing (car)","Automotive & Racing (car), Travel & Adventure (driving)"
+170,Paintingbaking cooking art writingjournaling and writing dairy ,paintingbaking cooking art writingjournaling and writing dairy,"Arts & Crafts (painting), Reading & Writing (writing), Cooking & Baking (cook)","Arts & Crafts (painting), Cooking & Baking (cook), Reading & Writing (writing)"
+171,To learn new things,to learn new things,"Reading & Writing (learn), Design (new)","Design (new), Reading & Writing (learn)"
+172,Car knowledge  cricket badminton acting ,car knowledge  cricket badminton acting,"Sports (cricket), Arts & Crafts (acting), Education & Study (knowledge), Automotive & Racing (car)","Arts & Crafts (acting), Automotive & Racing (car), Education & Study (knowledge), Sports (cricket)"
+173,Gym for healthy physic,gym for healthy physic,Fitness & Gym (gym),Fitness & Gym (gym)
+174,Photography basketball,photography basketball,"Sports (basketball), Design (photography)","Design (photography), Sports (basketball)"
+175,Traveling and Football ,traveling and football,"Sports (football), Travel & Adventure (travel)","Sports (football), Travel & Adventure (travel)"
+176,Trekking reading travelling ,trekking reading travelling,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+177,Watching movies playing games,watching movies playing games,"Gaming (game), Entertainment (movie)","Entertainment (movie), Gaming (game)"
+178,Dancing reading books ,dancing reading books,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+179,Football eSports,football esports,"Sports (football), Gaming (esports)","Gaming (esports), Sports (football)"
+180,Travelling and Anime watching ,travelling and anime watching,"Travel & Adventure (travel), Entertainment (watching)","Entertainment (watching), Travel & Adventure (travel)"
+181,I Just Love CRICKET ðŸ,i just love cricket ðÿ,Sports (cricket),Sports (cricket)
+182,Sports dancing reading books,sports dancing reading books,"Sports (sport), Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read), Sports (sport)"
+183,I like Aerodesigning I like listening podcasts I like playing outdoor games,i like aerodesigning i like listening podcasts i like playing outdoor games,"Gaming (game), Design (design), Mind & Wellness (listening)","Design (design), Gaming (game), Mind & Wellness (listening)"
+184,Tracking ,tracking,Travel & Adventure (tracking),Travel & Adventure (tracking)
+185,Reading and Writing poetry ,reading and writing poetry,Reading & Writing (read),Reading & Writing (read)
+186,I am a tech enthusiast and really interested in Cyber Security field. I recently got selected at IIT Guwahati's Cyber Security Expert Mini Credit program and pursuing this degree from IIT Guwahati. I am also a Singer and love singing. Due to my strong leadership and management skills I have been elected as Vice-president of College's first Cyber Security Students Club Protocol which is a college level Club.,i am a tech enthusiast and really interested in cyber security field  i recently got selected at iit guwahati s cyber security expert mini credit program and pursuing this degree from iit guwahati  i am also a singer and love singing  due to my strong leadership and management skills i have been elected as vice president of college s first cyber security students club protocol which is a college level club,"Music & Dance (singing), Technology & Coding (tech)","Music & Dance (singing), Technology & Coding (tech)"
+187,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+188,Solving Rubics cube,solving rubics cube,Puzzles (cube),Puzzles (cube)
+189,Music ,music,Music & Dance (music),Music & Dance (music)
+190,There are many but kez hobbies is playing badminton and working for business ideas,there are many but kez hobbies is playing badminton and working for business ideas,"Sports (badminton), Business & Finance (business)","Business & Finance (business), Sports (badminton)"
+191,music and badminton ,music and badminton,"Sports (badminton), Music & Dance (music)","Music & Dance (music), Sports (badminton)"
+192,Reading organizing ,reading organizing,Reading & Writing (read),Reading & Writing (read)
+193,Playing team sports ,playing team sports,Sports (sport),Sports (sport)
+194,Gaming  Listening To Music ,gaming  listening to music,"Music & Dance (music), Gaming (gaming), Mind & Wellness (listening)","Gaming (gaming), Mind & Wellness (listening), Music & Dance (music)"
+195,Watching movies playing chess ,watching movies playing chess,"Sports (chess), Entertainment (movie)","Entertainment (movie), Sports (chess)"
+196,Trekking Reading books cycling ,trekking reading books cycling,"Reading & Writing (read), Travel & Adventure (trek)","Reading & Writing (read), Travel & Adventure (trek)"
+197,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+198,-,,,None (explicit none match)
+199,Playing games,playing games,Gaming (game),Gaming (game)
+200,playing cricket football etc,playing cricket football etc,Sports (cricket),Sports (cricket)
+201,Sports Drawing ,sports drawing,"Sports (sport), Arts & Crafts (drawing)","Arts & Crafts (drawing), Sports (sport)"
+202,Currently interested in learning stock marketing ,currently interested in learning stock marketing,"Reading & Writing (learn), Business & Finance (stock market), Education & Study (learning)","Business & Finance (stock market), Education & Study (learning), Reading & Writing (learn)"
+203,Swimming ,swimming,Sports (swim),Sports (swim)
+204,I interested in achiving good skills in mechanical field . I am interested to study softwares about mechanical engineering. ,i interested in achiving good skills in mechanical field   i am interested to study softwares about mechanical engineering,"Technology & Coding (software), Education & Study (study)","Education & Study (study), Technology & Coding (software)"
+205,Sports ,sports,Sports (sport),Sports (sport)
+206,SANDART Singing acting  drawing participate in dramas in cultural ,sandart singing acting  drawing participate in dramas in cultural,"Arts & Crafts (drawing), Music & Dance (singing)","Arts & Crafts (drawing), Music & Dance (singing)"
+207,Drawing Painting Art and Crafts Photography Exploring ,drawing painting art and crafts photography exploring,"Arts & Crafts (drawing), Travel & Adventure (exploring), Design (photography)","Arts & Crafts (drawing), Design (photography), Travel & Adventure (exploring)"
+208,Playing video games or cricket or maybe physical activities ,playing video games or cricket or maybe physical activities,"Sports (cricket), Gaming (game)","Gaming (game), Sports (cricket)"
+209,Driving treaking ,driving treaking,Travel & Adventure (driving),Travel & Adventure (driving)
+210,Cooking and aero modelling ,cooking and aero modelling,Cooking & Baking (cook),Cooking & Baking (cook)
+211,Cricket swimming,cricket swimming,Sports (cricket),Sports (cricket)
+212,Sports dance travelling trekking cooking ,sports dance travelling trekking cooking,"Sports (sport), Music & Dance (dance), Travel & Adventure (travel), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (dance), Sports (sport), Travel & Adventure (travel)"
+213,trekking travelling cooking and playing sports,trekking travelling cooking and playing sports,"Sports (sport), Travel & Adventure (travel), Cooking & Baking (cook)","Cooking & Baking (cook), Sports (sport), Travel & Adventure (travel)"
+214,Calligraphy lettering  drawing writing speaking  ,calligraphy lettering  drawing writing speaking,"Arts & Crafts (drawing), Reading & Writing (writing)","Arts & Crafts (drawing), Reading & Writing (writing)"
+215,Sports and exploring new places,sports and exploring new places,"Sports (sport), Travel & Adventure (exploring), Design (new)","Design (new), Sports (sport), Travel & Adventure (exploring)"
+216,I like to travel and I love to trek ,i like to travel and i love to trek,Travel & Adventure (travel),Travel & Adventure (travel)
+217,. ,,,None (explicit none match)
+218,Sports,sports,Sports (sport),Sports (sport)
+219,Hobbies - None Interests - Anime Foreign policy Geoplitics ,hobbies   none interests   anime foreign policy geoplitics,,None (no matches)
+220,sports ,sports,Sports (sport),Sports (sport)
+221,Doing workout ,doing workout,"Technology & Coding (doing), Fitness & Gym (workout)","Fitness & Gym (workout), Technology & Coding (doing)"
+222,Watch Movies ,watch movies,Entertainment (movie),Entertainment (movie)
+223,Dancing basic cooking,dancing basic cooking,"Music & Dance (dancing), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (dancing)"
+224,Reading books,reading books,Reading & Writing (read),Reading & Writing (read)
+225,Playing crickets travelling etc,playing crickets travelling etc,"Sports (cricket), Travel & Adventure (travel)","Sports (cricket), Travel & Adventure (travel)"
+226,Listening music reading ,listening music reading,"Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+227,exploring ,exploring,Travel & Adventure (exploring),Travel & Adventure (exploring)
+228,Football and anime ,football and anime,Sports (football),Sports (football)
+229,Sketchingart content creator editingdesignier,sketchingart content creator editingdesignier,"Arts & Crafts (sketching), Design (design)","Arts & Crafts (sketching), Design (design)"
+230,Watching YouTube ,watching youtube,Entertainment (youtube),Entertainment (youtube)
+231,Reading writing ,reading writing,Reading & Writing (read),Reading & Writing (read)
+232,Listening to music ,listening to music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+233,Working out Reading ,working out reading,Reading & Writing (read),Reading & Writing (read)
+234,Playing outdoor games ,playing outdoor games,Gaming (game),Gaming (game)
+235,Music,music,Music & Dance (music),Music & Dance (music)
+236,Cookingreading,cookingreading,"Reading & Writing (read), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read)"
+237,Watching Series Reading Books,watching series reading books,"Reading & Writing (read), Entertainment (watching)","Entertainment (watching), Reading & Writing (read)"
+238,Designing,designing,Design (design),Design (design)
+239,Music ,music,Music & Dance (music),Music & Dance (music)
+240,Car racing  hair care and skin care,car racing  hair care and skin care,Automotive & Racing (car),Automotive & Racing (car)
+241,Reading books and painting ,reading books and painting,"Arts & Crafts (painting), Reading & Writing (read)","Arts & Crafts (painting), Reading & Writing (read)"
+242,Sports ,sports,Sports (sport),Sports (sport)
+243,Sketching  reading ,sketching  reading,"Arts & Crafts (sketching), Reading & Writing (read)","Arts & Crafts (sketching), Reading & Writing (read)"
+244,Playing karateboxing aero modelling etc,playing karateboxing aero modelling etc,Sports (boxing),Sports (boxing)
+245,Watching Sports Drawing Cricket,watching sports drawing cricket,"Sports (cricket), Arts & Crafts (drawing), Entertainment (watching)","Arts & Crafts (drawing), Entertainment (watching), Sports (cricket)"
+246,Swimming cricket seating with friends relieves my stress,swimming cricket seating with friends relieves my stress,Sports (cricket),Sports (cricket)
+247,Playing Cricket ,playing cricket,Sports (cricket),Sports (cricket)
+248,Listening music  travelling ,listening music  travelling,"Music & Dance (music), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (travel)"
+249,Playing and Watching sport,playing and watching sport,"Sports (sport), Entertainment (watching)","Entertainment (watching), Sports (sport)"
+250,Playing Guitar  Listening to Songs ,playing guitar  listening to songs,"Music & Dance (guitar), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (guitar)"
+251,Playing kabadi dancing ,playing kabadi dancing,Music & Dance (dancing),Music & Dance (dancing)
+252,Music  reading  sketching ,music  reading  sketching,"Arts & Crafts (sketching), Music & Dance (music), Reading & Writing (read)","Arts & Crafts (sketching), Music & Dance (music), Reading & Writing (read)"
+253,Gym,gym,Fitness & Gym (gym),Fitness & Gym (gym)
+254,No,no,,None (explicit none match)
+255,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+256,ReadingSwimmingTrekking,readingswimmingtrekking,"Sports (swim), Reading & Writing (read), Travel & Adventure (trek)","Reading & Writing (read), Sports (swim), Travel & Adventure (trek)"
+257,Listening music playing football and play video games,listening music playing football and play video games,"Sports (football), Music & Dance (music), Gaming (game), Mind & Wellness (listening)","Gaming (game), Mind & Wellness (listening), Music & Dance (music), Sports (football)"
+258,Astronomy ,astronomy,Occult & Astrology (astronomy),Occult & Astrology (astronomy)
+259,Gym and civil designing,gym and civil designing,"Fitness & Gym (gym), Design (design)","Design (design), Fitness & Gym (gym)"
+260,Sports,sports,Sports (sport),Sports (sport)
+261,Singing ,singing,Music & Dance (singing),Music & Dance (singing)
+262,Good listener and motivated,good listener and motivated,Reading & Writing (listener),Reading & Writing (listener)
+263,No,no,,None (explicit none match)
+264,Cricket ,cricket,Sports (cricket),Sports (cricket)
+265,Acting ,acting,Arts & Crafts (acting),Arts & Crafts (acting)
+266,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+267,Cricket ,cricket,Sports (cricket),Sports (cricket)
+268,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+269,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+270,Art ,art,Arts & Crafts (art),Arts & Crafts (art)
+271,Sketching hangout with loved ones  etc ,sketching hangout with loved ones  etc,"Arts & Crafts (sketching), Mind & Wellness (loved)","Arts & Crafts (sketching), Mind & Wellness (loved)"
+272,Coding exploring watching movies,coding exploring watching movies,"Travel & Adventure (exploring), Technology & Coding (coding), Entertainment (movie)","Entertainment (movie), Technology & Coding (coding), Travel & Adventure (exploring)"
+273,Networking and sketching ,networking and sketching,"Arts & Crafts (sketching), Social & Volunteering (networking)","Arts & Crafts (sketching), Social & Volunteering (networking)"
+274,Playing online games exploring new business ideas exploring new things travelling farming,playing online games exploring new business ideas exploring new things travelling farming,"Travel & Adventure (travel), Gaming (game), Design (new), Business & Finance (business)","Business & Finance (business), Design (new), Gaming (game), Travel & Adventure (travel)"
+275,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+276,Drawing sketching reading,drawing sketching reading,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+277,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+278,Cricket Flute Gaming,cricket flute gaming,"Sports (cricket), Music & Dance (flute), Gaming (gaming)","Gaming (gaming), Music & Dance (flute), Sports (cricket)"
+279,I love cooking and eating. Also I'm interested in singing bollywood songs as well as classical ,i love cooking and eating  also i m interested in singing bollywood songs as well as classical,"Music & Dance (singing), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (singing)"
+280,Hobby is Dance and interest to know the new things or technologies ,hobby is dance and interest to know the new things or technologies,"Music & Dance (dance), Technology & Coding (tech), Design (new)","Design (new), Music & Dance (dance), Technology & Coding (tech)"
+281,Travelling reading novels ,travelling reading novels,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+282,Computer programming ,computer programming,Technology & Coding (programming),Technology & Coding (programming)
+283,Gaming,gaming,Gaming (gaming),Gaming (gaming)
+284,Watching and playing cricket Listening Music travelling ,watching and playing cricket listening music travelling,"Sports (cricket), Music & Dance (music), Travel & Adventure (travel), Entertainment (watching), Mind & Wellness (listening)","Entertainment (watching), Mind & Wellness (listening), Music & Dance (music), Sports (cricket), Travel & Adventure (travel)"
+285,Trekking and sports,trekking and sports,"Sports (sport), Travel & Adventure (trek)","Sports (sport), Travel & Adventure (trek)"
+286,Teaching ,teaching,Education & Study (teaching),Education & Study (teaching)
+287,Drawing Dancing ,drawing dancing,"Arts & Crafts (drawing), Music & Dance (dancing)","Arts & Crafts (drawing), Music & Dance (dancing)"
+288,Taekwondo ,taekwondo,Sports (taekwondo),Sports (taekwondo)
+289,Drawing art dance  badminton listening music,drawing art dance  badminton listening music,"Sports (badminton), Arts & Crafts (drawing), Music & Dance (music), Mind & Wellness (listening)","Arts & Crafts (drawing), Mind & Wellness (listening), Music & Dance (music), Sports (badminton)"
+290,Coding,coding,Technology & Coding (coding),Technology & Coding (coding)
+291,Playing cricket and treking ,playing cricket and treking,"Sports (cricket), Travel & Adventure (trek)","Sports (cricket), Travel & Adventure (trek)"
+292,Football photography ,football photography,"Sports (football), Design (photography)","Design (photography), Sports (football)"
+293,Reading and travelling ,reading and travelling,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+294,Playing tabla and chess,playing tabla and chess,"Sports (chess), Music & Dance (tabla)","Music & Dance (tabla), Sports (chess)"
+295,Playing Sports and Doing Adventures Activities ,playing sports and doing adventures activities,"Sports (sport), Travel & Adventure (adventure), Technology & Coding (doing)","Sports (sport), Technology & Coding (doing), Travel & Adventure (adventure)"
+296,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+297,Listening to music ,listening to music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+298,Travelling reading dancing adventures exploring new things ,travelling reading dancing adventures exploring new things,"Music & Dance (dancing), Reading & Writing (read), Travel & Adventure (travel), Design (new)","Design (new), Music & Dance (dancing), Reading & Writing (read), Travel & Adventure (travel)"
+299,Chess and gym,chess and gym,"Sports (chess), Fitness & Gym (gym)","Fitness & Gym (gym), Sports (chess)"
+300,Watching Cricket match,watching cricket match,"Sports (cricket), Entertainment (watching)","Entertainment (watching), Sports (cricket)"
+301,Networking community service learning language yoga cooking ,networking community service learning language yoga cooking,"Reading & Writing (learn), Cooking & Baking (cook), Social & Volunteering (community), Education & Study (learning), Mind & Wellness (yoga)","Cooking & Baking (cook), Education & Study (learning), Mind & Wellness (yoga), Reading & Writing (learn), Social & Volunteering (community)"
+302,Traveling and Driving,traveling and driving,Travel & Adventure (travel),Travel & Adventure (travel)
+303,Coding and drawing ,coding and drawing,"Arts & Crafts (drawing), Technology & Coding (coding)","Arts & Crafts (drawing), Technology & Coding (coding)"
+304,Movies  Sport,movies  sport,"Sports (sport), Entertainment (movie)","Entertainment (movie), Sports (sport)"
+305,Cooking ,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+306,Games projects development ,games projects development,"Gaming (game), Business & Finance (project)","Business & Finance (project), Gaming (game)"
+307,Singing songs,singing songs,Music & Dance (singing),Music & Dance (singing)
+308,Play games,play games,Gaming (game),Gaming (game)
+309,Playing ground games,playing ground games,Gaming (game),Gaming (game)
+310,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+311,Cricket Hiking & Movies,cricket hiking   movies,"Sports (cricket), Travel & Adventure (hiking), Entertainment (movie)","Entertainment (movie), Sports (cricket), Travel & Adventure (hiking)"
+312,Playing Cricket football and badminton rather than im car enthusiastic ,playing cricket football and badminton rather than im car enthusiastic,"Sports (cricket), Automotive & Racing (car)","Automotive & Racing (car), Sports (cricket)"
+313,Learning new languages ,learning new languages,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+314,Love to write stories  reading the books ,love to write stories  reading the books,Reading & Writing (read),Reading & Writing (read)
+315,Guitarist  cricket  driving ,guitarist  cricket  driving,"Sports (cricket), Music & Dance (guitar), Travel & Adventure (driving)","Music & Dance (guitar), Sports (cricket), Travel & Adventure (driving)"
+316,Drawing listening music ,drawing listening music,"Arts & Crafts (drawing), Music & Dance (music), Mind & Wellness (listening)","Arts & Crafts (drawing), Mind & Wellness (listening), Music & Dance (music)"
+317,Football video games music,football video games music,"Sports (football), Music & Dance (music), Gaming (game)","Gaming (game), Music & Dance (music), Sports (football)"
+318,Making project to solve real world problems ,making project to solve real world problems,Business & Finance (project),Business & Finance (project)
+319,Exploringteam work ,exploringteam work,Travel & Adventure (exploring),Travel & Adventure (exploring)
+320,Singing cricket ,singing cricket,"Sports (cricket), Music & Dance (singing)","Music & Dance (singing), Sports (cricket)"
+321,Listening song,listening song,"Music & Dance (song), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song)"
+322,Watching Movies Swimming Playing Games,watching movies swimming playing games,"Sports (swim), Gaming (game), Entertainment (movie)","Entertainment (movie), Gaming (game), Sports (swim)"
+323,sports: basketballcricket,sports  basketballcricket,Sports (cricket),Sports (cricket)
+324,Cooking ,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+325,Watching movie,watching movie,Entertainment (movie),Entertainment (movie)
+326,Love painting and travelling ,love painting and travelling,"Arts & Crafts (painting), Travel & Adventure (travel)","Arts & Crafts (painting), Travel & Adventure (travel)"
+327,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+328,Trekking and Travelling  also Football ,trekking and travelling  also football,"Sports (football), Travel & Adventure (travel)","Sports (football), Travel & Adventure (travel)"
+329,Cooking and traveling ,cooking and traveling,"Travel & Adventure (travel), Cooking & Baking (cook)","Cooking & Baking (cook), Travel & Adventure (travel)"
+330,Sketching travelling ,sketching travelling,"Arts & Crafts (sketching), Travel & Adventure (travel)","Arts & Crafts (sketching), Travel & Adventure (travel)"
+331,Playing football and doing workout ,playing football and doing workout,"Sports (football), Technology & Coding (doing), Fitness & Gym (workout)","Fitness & Gym (workout), Sports (football), Technology & Coding (doing)"
+332,Sudoku singing dancing.,sudoku singing dancing,Music & Dance (singing),Music & Dance (singing)
+333,Painting Swimming Sketching ,painting swimming sketching,"Sports (swim), Arts & Crafts (painting)","Arts & Crafts (painting), Sports (swim)"
+334,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+335,I like to travel .and listening the songs,i like to travel  and listening the songs,"Music & Dance (song), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song), Travel & Adventure (travel)"
+336,Outdoor activities and reading books,outdoor activities and reading books,Reading & Writing (read),Reading & Writing (read)
+337,Play cricket and kabbadi ,play cricket and kabbadi,Sports (cricket),Sports (cricket)
+338,To learn new things and cricket for physical fitness.,to learn new things and cricket for physical fitness,"Sports (cricket), Reading & Writing (learn), Fitness & Gym (fitness), Design (new)","Design (new), Fitness & Gym (fitness), Reading & Writing (learn), Sports (cricket)"
+339,Drawing mehndi  reading Book playing tennis and guitar ,drawing mehndi  reading book playing tennis and guitar,"Sports (tennis), Arts & Crafts (drawing), Music & Dance (guitar), Reading & Writing (read)","Arts & Crafts (drawing), Music & Dance (guitar), Reading & Writing (read), Sports (tennis)"
+340,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+341,Cooking travelling ,cooking travelling,"Travel & Adventure (travel), Cooking & Baking (cook)","Cooking & Baking (cook), Travel & Adventure (travel)"
+342,Reading Dancing ,reading dancing,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+343,Playing football ,playing football,Sports (football),Sports (football)
+344,Sleeping,sleeping,Mind & Wellness (sleep),Mind & Wellness (sleep)
+345,I'm into sports. Love playing badminton. Been a national skater and a state swimmer,i m into sports  love playing badminton  been a national skater and a state swimmer,Sports (badminton),Sports (badminton)
+346,Artcookingphotographytravelling ,artcookingphotographytravelling,"Arts & Crafts (art), Travel & Adventure (travel), Cooking & Baking (cook), Design (photography)","Arts & Crafts (art), Cooking & Baking (cook), Design (photography), Travel & Adventure (travel)"
+347,Adventure ,adventure,Travel & Adventure (adventure),Travel & Adventure (adventure)
+348,Watching movies ,watching movies,Entertainment (movie),Entertainment (movie)
+349,Read books ,read books,Reading & Writing (read),Reading & Writing (read)
+350,Reading books,reading books,Reading & Writing (read),Reading & Writing (read)
+351,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+352,I like to participate in activities also making new connections,i like to participate in activities also making new connections,"Arts & Crafts (art), Design (new)","Arts & Crafts (art), Design (new)"
+353,cookingtreking,cookingtreking,"Travel & Adventure (trek), Cooking & Baking (cook)","Cooking & Baking (cook), Travel & Adventure (trek)"
+354,Hiking ,hiking,Travel & Adventure (hiking),Travel & Adventure (hiking)
+355,Sketching ,sketching,Arts & Crafts (sketching),Arts & Crafts (sketching)
+356,Na,na,,None (explicit none match)
+357,Drawing reading ,drawing reading,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+358,Film making ,film making,Entertainment (film making),Entertainment (film making)
+359,Football & Gaming ,football   gaming,"Sports (football), Gaming (gaming)","Gaming (gaming), Sports (football)"
+360,Reading books,reading books,Reading & Writing (read),Reading & Writing (read)
+361,Cricket,cricket,Sports (cricket),Sports (cricket)
+362,None,none,,None (explicit none match)
+363,Learning new musical instruments ,learning new musical instruments,"Music & Dance (music), Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Music & Dance (music), Reading & Writing (learn)"
+364,Dancing Cricket Travel,dancing cricket travel,"Sports (cricket), Music & Dance (dancing), Travel & Adventure (travel)","Music & Dance (dancing), Sports (cricket), Travel & Adventure (travel)"
+365,Dancing playing basketball ,dancing playing basketball,"Sports (basketball), Music & Dance (dancing)","Music & Dance (dancing), Sports (basketball)"
+366,Learning new skills interested in software & coding languages dancing sports ,learning new skills interested in software   coding languages dancing sports,"Sports (sport), Music & Dance (dancing), Reading & Writing (learn), Technology & Coding (coding), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Music & Dance (dancing), Reading & Writing (learn), Sports (sport), Technology & Coding (coding)"
+367,Exploring new places ,exploring new places,"Travel & Adventure (exploring), Design (new)","Design (new), Travel & Adventure (exploring)"
+368,Listening music drawing,listening music drawing,"Arts & Crafts (drawing), Music & Dance (music), Mind & Wellness (listening)","Arts & Crafts (drawing), Mind & Wellness (listening), Music & Dance (music)"
+369,Trekking ,trekking,Travel & Adventure (trek),Travel & Adventure (trek)
+370,Playing and coding ,playing and coding,Technology & Coding (coding),Technology & Coding (coding)
+371,Playing cricket,playing cricket,Sports (cricket),Sports (cricket)
+372,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+373,Cricket ,cricket,Sports (cricket),Sports (cricket)
+374,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+375,Sketching dancing ,sketching dancing,"Arts & Crafts (sketching), Music & Dance (dancing)","Arts & Crafts (sketching), Music & Dance (dancing)"
+376,Playing chess and stock market research ,playing chess and stock market research,"Sports (chess), Business & Finance (stock market), Education & Study (research)","Business & Finance (stock market), Education & Study (research), Sports (chess)"
+377,Listening Music,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+378,Playing,playing,Sports (playing fallback),Sports (playing fallback)
+379,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+380,dance listening songs short walksmaking creative things learning about the things I don't know etc. ,dance listening songs short walksmaking creative things learning about the things i don t know etc,"Music & Dance (dance), Reading & Writing (learn), Education & Study (learning), Mind & Wellness (listening)","Education & Study (learning), Mind & Wellness (listening), Music & Dance (dance), Reading & Writing (learn)"
+381,Drawing and games,drawing and games,"Arts & Crafts (drawing), Gaming (game)","Arts & Crafts (drawing), Gaming (game)"
+382,Drawingsread newspapers playing mehendi ,drawingsread newspapers playing mehendi,"Arts & Crafts (drawing), Reading & Writing (read), Design (new)","Arts & Crafts (drawing), Design (new), Reading & Writing (read)"
+383,Reading Books,reading books,Reading & Writing (read),Reading & Writing (read)
+384,Playing games,playing games,Gaming (game),Gaming (game)
+385,Classical dance,classical dance,Music & Dance (dance),Music & Dance (dance)
+386,ESports,esports,"Sports (sport), Gaming (esports)","Gaming (esports), Sports (sport)"
+387,Art browsing ,art browsing,Arts & Crafts (art),Arts & Crafts (art)
+388,-,,,None (explicit none match)
+389,Painting watching movies,painting watching movies,"Arts & Crafts (painting), Entertainment (movie)","Arts & Crafts (painting), Entertainment (movie)"
+390,Drawing painting ,drawing painting,Arts & Crafts (drawing),Arts & Crafts (drawing)
+391,Reading,reading,Reading & Writing (read),Reading & Writing (read)
+392,Painting Singing listening to music,painting singing listening to music,"Arts & Crafts (painting), Music & Dance (music), Mind & Wellness (listening)","Arts & Crafts (painting), Mind & Wellness (listening), Music & Dance (music)"
+393,Dance ,dance,Music & Dance (dance),Music & Dance (dance)
+394,Studying people and society ,studying people and society,Education & Study (studying),Education & Study (studying)
+395,Playing sports,playing sports,Sports (sport),Sports (sport)
+396,Bike Riding   Rap Song  Farming ,bike riding   rap song  farming,"Music & Dance (song), Automotive & Racing (bike)","Automotive & Racing (bike), Music & Dance (song)"
+397,Cricket reading books chess,cricket reading books chess,"Sports (chess), Reading & Writing (read)","Reading & Writing (read), Sports (chess)"
+398,Painting music listening exploring new things ,painting music listening exploring new things,"Arts & Crafts (painting), Music & Dance (music), Travel & Adventure (exploring), Design (new), Mind & Wellness (listening)","Arts & Crafts (painting), Design (new), Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (exploring)"
+399,Writing ,writing,Reading & Writing (writing),Reading & Writing (writing)
+400,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+401,I love to dance sometimes ,i love to dance sometimes,Music & Dance (dance),Music & Dance (dance)
+402,Dancing singing coding,dancing singing coding,"Music & Dance (singing), Technology & Coding (coding)","Music & Dance (singing), Technology & Coding (coding)"
+403,Swimming,swimming,Sports (swim),Sports (swim)
+404,Reading books and drawing ,reading books and drawing,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+405,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+406,Travelling Watching Movies ,travelling watching movies,"Travel & Adventure (travel), Entertainment (movie)","Entertainment (movie), Travel & Adventure (travel)"
+407,Exercise Running cricket football volleyball Swimming ,exercise running cricket football volleyball swimming,"Sports (cricket), Fitness & Gym (exercise)","Fitness & Gym (exercise), Sports (cricket)"
+408,Playing Bandminton ,playing bandminton,Sports (playing fallback),Sports (playing fallback)
+409,Driving cars ,driving cars,"Travel & Adventure (driving), Automotive & Racing (car)","Automotive & Racing (car), Travel & Adventure (driving)"
+410,Dancing listening music create new things interior designing ,dancing listening music create new things interior designing,"Music & Dance (music), Design (design), Mind & Wellness (listening)","Design (design), Mind & Wellness (listening), Music & Dance (music)"
+411,Listening music,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+412,Playing cricket and swimming ,playing cricket and swimming,Sports (cricket),Sports (cricket)
+413,Swimming playing cricket football music etc,swimming playing cricket football music etc,"Sports (cricket), Music & Dance (music)","Music & Dance (music), Sports (cricket)"
+414,cooking,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+415,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+416,Reading and listening music and I love nature ,reading and listening music and i love nature,"Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+417,ART AND CRAFT,art and craft,Arts & Crafts (craft),Arts & Crafts (craft)
+418,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+419,Coding ,coding,Technology & Coding (coding),Technology & Coding (coding)
+420,Traveling  Reading  Dancing.,traveling  reading  dancing,"Music & Dance (dancing), Reading & Writing (read), Travel & Adventure (travel)","Music & Dance (dancing), Reading & Writing (read), Travel & Adventure (travel)"
+421,My hobbies and interests include dancing drawing painting sketching and sports. I enjoy communicating with people offering advice and helping them solve issues in their lives. I also have a keen interest in cooking and experimenting with new dishes as well as exploring opportunities in communication-related fields,my hobbies and interests include dancing drawing painting sketching and sports  i enjoy communicating with people offering advice and helping them solve issues in their lives  i also have a keen interest in cooking and experimenting with new dishes as well as exploring opportunities in communication related fields,"Sports (sport), Arts & Crafts (drawing), Music & Dance (dancing), Travel & Adventure (exploring), Cooking & Baking (cook), Design (new)","Arts & Crafts (drawing), Cooking & Baking (cook), Design (new), Music & Dance (dancing), Sports (sport), Travel & Adventure (exploring)"
+422,Health & music,health   music,Music & Dance (music),Music & Dance (music)
+423,Cricket and basketball ,cricket and basketball,Sports (cricket),Sports (cricket)
+424,Cricket,cricket,Sports (cricket),Sports (cricket)
+425,Listening music ,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+426,I want to take my family on word toor ,i want to take my family on word toor,"Travel & Adventure (toor), Mind & Wellness (family)","Mind & Wellness (family), Travel & Adventure (toor)"
+427,Reading,reading,Reading & Writing (read),Reading & Writing (read)
+428,Music dance outdoor games,music dance outdoor games,"Music & Dance (music), Gaming (game)","Gaming (game), Music & Dance (music)"
+429,Gaming playing travelling ,gaming playing travelling,"Travel & Adventure (travel), Gaming (gaming)","Gaming (gaming), Travel & Adventure (travel)"
+430,Art and Craft,art and craft,Arts & Crafts (craft),Arts & Crafts (craft)
+431,I like to write songs and poems and talking to older experienced people ,i like to write songs and poems and talking to older experienced people,"Music & Dance (song), Reading & Writing (poem)","Music & Dance (song), Reading & Writing (poem)"
+432,Reading listening to music Badminton watching movies editing sudoku,reading listening to music badminton watching movies editing sudoku,"Sports (badminton), Music & Dance (music), Reading & Writing (read), Entertainment (movie), Mind & Wellness (listening)","Entertainment (movie), Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read), Sports (badminton)"
+433,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+434,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+435,Sketching ,sketching,Arts & Crafts (sketching),Arts & Crafts (sketching)
+436,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+437,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+438,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+439,drawing random things,drawing random things,Arts & Crafts (drawing),Arts & Crafts (drawing)
+440,Volunteering watching series ,volunteering watching series,"Social & Volunteering (volunteer), Entertainment (watching)","Entertainment (watching), Social & Volunteering (volunteer)"
+441,Read books ,read books,Reading & Writing (read),Reading & Writing (read)
+442,writing  playing games,writing  playing games,"Reading & Writing (writing), Gaming (game)","Gaming (game), Reading & Writing (writing)"
+443,Cricket ,cricket,Sports (cricket),Sports (cricket)
+444,I love Sketchingmusictravel ,i love sketchingmusictravel,"Arts & Crafts (sketching), Music & Dance (music), Travel & Adventure (travel)","Arts & Crafts (sketching), Music & Dance (music), Travel & Adventure (travel)"
+445,Basketball ,basketball,Sports (basketball),Sports (basketball)
+446,Swimming dance travel,swimming dance travel,"Sports (swim), Music & Dance (dance), Travel & Adventure (travel)","Music & Dance (dance), Sports (swim), Travel & Adventure (travel)"
+447,chess,chess,Sports (chess),Sports (chess)
+448,Reading...,reading,Reading & Writing (read),Reading & Writing (read)
+449,Reading program language entrepreneur ,reading program language entrepreneur,"Reading & Writing (read), Education & Study (language)","Education & Study (language), Reading & Writing (read)"
+450,Web development and designing ,web development and designing,"Technology & Coding (web development), Design (design)","Design (design), Technology & Coding (web development)"
+451,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+452,Dancing listening music ,dancing listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+453,In Gaming ,in gaming,Gaming (gaming),Gaming (gaming)
+454,Singing playing guitar etc,singing playing guitar etc,Music & Dance (singing),Music & Dance (singing)
+455,Sports Gaming Rides,sports gaming rides,"Sports (sport), Gaming (gaming)","Gaming (gaming), Sports (sport)"
+456,Reading Books Playing Cricket Coding ,reading books playing cricket coding,"Sports (cricket), Reading & Writing (read), Technology & Coding (coding)","Reading & Writing (read), Sports (cricket), Technology & Coding (coding)"
+457,Books,books,Reading & Writing (book),Reading & Writing (book)
+458,Swimming  Chess Travelling Learn new things about networking subject ,swimming  chess travelling learn new things about networking subject,"Sports (chess), Reading & Writing (learn), Travel & Adventure (travel), Social & Volunteering (networking), Design (new)","Design (new), Reading & Writing (learn), Social & Volunteering (networking), Sports (chess), Travel & Adventure (travel)"
+459,Solving Cubes,solving cubes,Puzzles (cube),Puzzles (cube)
+460,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+461,Cooking Learning,cooking learning,"Reading & Writing (learn), Cooking & Baking (cook), Education & Study (learning)","Cooking & Baking (cook), Education & Study (learning), Reading & Writing (learn)"
+462,Reading books  travelling ,reading books  travelling,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+463,Dance and book reading ,dance and book reading,"Music & Dance (dance), Reading & Writing (read)","Music & Dance (dance), Reading & Writing (read)"
+464,Drawing Reading Books,drawing reading books,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+465,Listening Music ,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+466,Eager to learn new things,eager to learn new things,"Reading & Writing (learn), Design (new)","Design (new), Reading & Writing (learn)"
+467,Coding,coding,Technology & Coding (coding),Technology & Coding (coding)
+468,Cricket ,cricket,Sports (cricket),Sports (cricket)
+469,travling with friends,travling with friends,,None (no matches)
+470,Dance. Read books ,dance  read books,"Music & Dance (dance), Reading & Writing (read)","Music & Dance (dance), Reading & Writing (read)"
+471,Comedy,comedy,Entertainment (comedy),Entertainment (comedy)
+472,Singing crafting sketching and reading ,singing crafting sketching and reading,"Arts & Crafts (sketching), Music & Dance (singing), Reading & Writing (read)","Arts & Crafts (sketching), Music & Dance (singing), Reading & Writing (read)"
+473,Cricket ,cricket,Sports (cricket),Sports (cricket)
+474,Playing football and chess  video editing ,playing football and chess  video editing,"Sports (chess), Design (video editing)","Design (video editing), Sports (chess)"
+475,Swimming ,swimming,Sports (swim),Sports (swim)
+476,Read books play games ,read books play games,"Reading & Writing (read), Gaming (game)","Gaming (game), Reading & Writing (read)"
+477,Hobbie is to play volleyball and I am a dhol vadak,hobbie is to play volleyball and i am a dhol vadak,Sports (volley),Sports (volley)
+478,Dancing  and writing ,dancing  and writing,"Music & Dance (dancing), Reading & Writing (writing)","Music & Dance (dancing), Reading & Writing (writing)"
+479,GYMLearning new Skills,gymlearning new skills,"Reading & Writing (learn), Fitness & Gym (gym), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Fitness & Gym (gym), Reading & Writing (learn)"
+480,Cooking dancing ,cooking dancing,"Music & Dance (dancing), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (dancing)"
+481,Study sport music  reading ,study sport music  reading,"Sports (sport), Music & Dance (music), Reading & Writing (read), Education & Study (study)","Education & Study (study), Music & Dance (music), Reading & Writing (read), Sports (sport)"
+482,My hobby is reading books listening songs,my hobby is reading books listening songs,"Music & Dance (song), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song), Reading & Writing (read)"
+483,CricketSinging and Music,cricketsinging and music,"Sports (cricket), Music & Dance (music)","Music & Dance (music), Sports (cricket)"
+484,Coding ,coding,Technology & Coding (coding),Technology & Coding (coding)
+485,Cricket Music Reading ,cricket music reading,"Sports (cricket), Music & Dance (music), Reading & Writing (read)","Music & Dance (music), Reading & Writing (read), Sports (cricket)"
+486,  stay busy Work Reading listening song ,stay busy work reading listening song,"Music & Dance (song), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song), Reading & Writing (read)"
+487,Painting and music ,painting and music,"Arts & Crafts (painting), Music & Dance (music)","Arts & Crafts (painting), Music & Dance (music)"
+488,Games Cricket ,games cricket,"Sports (cricket), Gaming (game)","Gaming (game), Sports (cricket)"
+489,Playing cricket and football+ coding +reading ,playing cricket and football  coding  reading,"Sports (cricket), Reading & Writing (read), Technology & Coding (coding)","Reading & Writing (read), Sports (cricket), Technology & Coding (coding)"
+490,None,none,,None (explicit none match)
+491,Cricket and gym ,cricket and gym,"Sports (cricket), Fitness & Gym (gym)","Fitness & Gym (gym), Sports (cricket)"
+492,Dancing,dancing,Music & Dance (dancing),Music & Dance (dancing)
+493,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+494,Playing  outdoor game's ,playing  outdoor game s,Gaming (game),Gaming (game)
+495,Cricket kabaddi ,cricket kabaddi,Sports (cricket),Sports (cricket)
+496,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+497,Creativity ,creativity,Arts & Crafts (creativity),Arts & Crafts (creativity)
+498,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+499,Doing farm work swimming exercise reading ,doing farm work swimming exercise reading,"Sports (swim), Reading & Writing (read), Technology & Coding (doing), Fitness & Gym (exercise)","Fitness & Gym (exercise), Reading & Writing (read), Sports (swim), Technology & Coding (doing)"
+500,Singing ,singing,Music & Dance (singing),Music & Dance (singing)
+501,Hobbies playing games intrest cyber security ,hobbies playing games intrest cyber security,"Technology & Coding (cyber), Gaming (game)","Gaming (game), Technology & Coding (cyber)"
+502,Listening music  spending time with family and friends,listening music  spending time with family and friends,"Music & Dance (music), Mind & Wellness (family)","Mind & Wellness (family), Music & Dance (music)"
+503,Reading books playing games ,reading books playing games,"Reading & Writing (read), Gaming (game)","Gaming (game), Reading & Writing (read)"
+504,Sports,sports,Sports (sport),Sports (sport)
+505,Acting,acting,Arts & Crafts (acting),Arts & Crafts (acting)
+506,Conding and Body Building ,conding and body building,Technology & Coding (conding),Technology & Coding (conding)
+507,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+508,Playing flute,playing flute,Music & Dance (flute),Music & Dance (flute)
+509,Reading books & travelling ,reading books   travelling,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+510,Cricket ,cricket,Sports (cricket),Sports (cricket)
+511,Sketching playing outside games dancing,sketching playing outside games dancing,"Arts & Crafts (sketching), Music & Dance (dancing), Gaming (game)","Arts & Crafts (sketching), Gaming (game), Music & Dance (dancing)"
+512,Painting and Art . Interest is in art where it always bring out my creative skills.,painting and art   interest is in art where it always bring out my creative skills,Arts & Crafts (painting),Arts & Crafts (painting)
+513,Playing and learn something new like any skill or work in any industry .,playing and learn something new like any skill or work in any industry,"Reading & Writing (learn), Design (new)","Design (new), Reading & Writing (learn)"
+514,Football and pubg,football and pubg,Sports (football),Sports (football)
+515,I like to play Cricket in my free time.,i like to play cricket in my free time,Sports (cricket),Sports (cricket)
+516,Listing song try for new things ,listing song try for new things,"Music & Dance (song), Design (new)","Design (new), Music & Dance (song)"
+517,Stock Market and trading space  and reading books. ,stock market and trading space  and reading books,"Reading & Writing (read), Business & Finance (stock market)","Business & Finance (stock market), Reading & Writing (read)"
+518,Chess cricket online video games,chess cricket online video games,"Sports (chess), Gaming (game)","Gaming (game), Sports (chess)"
+519,Reading  chess  art ,reading  chess  art,"Sports (chess), Arts & Crafts (art), Reading & Writing (read)","Arts & Crafts (art), Reading & Writing (read), Sports (chess)"
+520,Drawings and trekking and travelling ,drawings and trekking and travelling,"Arts & Crafts (drawing), Travel & Adventure (travel)","Arts & Crafts (drawing), Travel & Adventure (travel)"
+521,Travelling Dancing,travelling dancing,"Music & Dance (dancing), Travel & Adventure (travel)","Music & Dance (dancing), Travel & Adventure (travel)"
+522,Doing something special for my parents ,doing something special for my parents,"Technology & Coding (doing), Mind & Wellness (parents)","Mind & Wellness (parents), Technology & Coding (doing)"
+523,Singing and Reading,singing and reading,"Music & Dance (singing), Reading & Writing (read)","Music & Dance (singing), Reading & Writing (read)"
+524,Dancing watching movies ,dancing watching movies,"Music & Dance (dancing), Entertainment (movie)","Entertainment (movie), Music & Dance (dancing)"
+525,Driving and traveling ,driving and traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+526,Cricket ,cricket,Sports (cricket),Sports (cricket)
+527,Music ,music,Music & Dance (music),Music & Dance (music)
+528,Hobby is singing and reading books,hobby is singing and reading books,"Music & Dance (singing), Reading & Writing (read)","Music & Dance (singing), Reading & Writing (read)"
+529,Playing Chess and Cricket ,playing chess and cricket,Sports (chess),Sports (chess)
+530,Cricket Gaming Coding ,cricket gaming coding,"Sports (cricket), Technology & Coding (coding), Gaming (gaming)","Gaming (gaming), Sports (cricket), Technology & Coding (coding)"
+531,Swimming,swimming,Sports (swim),Sports (swim)
+532,Swimming ,swimming,Sports (swim),Sports (swim)
+533,Playing sports,playing sports,Sports (sport),Sports (sport)
+534,Drawingplaying long tennis cycling,drawingplaying long tennis cycling,"Sports (tennis), Arts & Crafts (drawing)","Arts & Crafts (drawing), Sports (tennis)"
+535,Games ,games,Gaming (game),Gaming (game)
+536,Driving research & teaching ,driving research   teaching,"Travel & Adventure (driving), Education & Study (teaching)","Education & Study (teaching), Travel & Adventure (driving)"
+537,Basketball football ,basketball football,Sports (football),Sports (football)
+538,Gym for healthy physic ,gym for healthy physic,Fitness & Gym (gym),Fitness & Gym (gym)
+539,Travel ,travel,Travel & Adventure (travel),Travel & Adventure (travel)
+540,Exploring new things ,exploring new things,"Travel & Adventure (exploring), Design (new)","Design (new), Travel & Adventure (exploring)"
+541,Designingart dancing ,designingart dancing,"Arts & Crafts (art), Music & Dance (dancing), Design (design)","Arts & Crafts (art), Design (design), Music & Dance (dancing)"
+542,Sports,sports,Sports (sport),Sports (sport)
+543,Can play each and every sports.. An athleteâ€¦ good leadership qualityâ€¦ volleyball district player.. ,can play each and every sports   an athleteâ   good leadership qualityâ   volleyball district player,Sports (sport),Sports (sport)
+544,Football,football,Sports (football),Sports (football)
+545,Sports ,sports,Sports (sport),Sports (sport)
+546,Travel ,travel,Travel & Adventure (travel),Travel & Adventure (travel)
+547,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+548,Playing cricket reading novels ,playing cricket reading novels,"Sports (cricket), Reading & Writing (read)","Reading & Writing (read), Sports (cricket)"
+549,Building circuits playing football basketball ,building circuits playing football basketball,Sports (football),Sports (football)
+550,Cricket  Badminton  Gym,cricket  badminton  gym,"Sports (cricket), Fitness & Gym (gym)","Fitness & Gym (gym), Sports (cricket)"
+551,Gymnasium ,gymnasium,Fitness & Gym (gym),Fitness & Gym (gym)
+552,Travellingdancingcookinginteracting new peopleexploring new thingslearning everything which is difficultshopping,travellingdancingcookinginteracting new peopleexploring new thingslearning everything which is difficultshopping,"Arts & Crafts (acting), Music & Dance (dancing), Reading & Writing (learn), Travel & Adventure (travel), Cooking & Baking (cook), Design (new), Education & Study (learning)","Arts & Crafts (acting), Cooking & Baking (cook), Design (new), Education & Study (learning), Music & Dance (dancing), Reading & Writing (learn), Travel & Adventure (travel)"
+553,Designing ,designing,Design (design),Design (design)
+554,Playing sports ,playing sports,Sports (sport),Sports (sport)
+555,Watching movies Gardening. ,watching movies gardening,"Entertainment (movie), Gardening (gardening)","Entertainment (movie), Gardening (gardening)"
+556,I like to play cricket ,i like to play cricket,Sports (cricket),Sports (cricket)
+557,Learning new skills ,learning new skills,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+558,Dancing and singing ,dancing and singing,Music & Dance (singing),Music & Dance (singing)
+559,Football and chess,football and chess,Sports (chess),Sports (chess)
+560,Reading Books and Drawing or Painting ,reading books and drawing or painting,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+561,Playing outdoor games & love to watch sports competitions,playing outdoor games   love to watch sports competitions,"Sports (sport), Gaming (game), Entertainment (watch)","Entertainment (watch), Gaming (game), Sports (sport)"
+562,Reading bookstrecking ,reading bookstrecking,Reading & Writing (read),Reading & Writing (read)
+563,Problem Solving,problem solving,Puzzles (problem solving),Puzzles (problem solving)
+564,Many ,many,,None (no matches)
+565,Cricket  travel ,cricket  travel,"Sports (cricket), Travel & Adventure (travel)","Sports (cricket), Travel & Adventure (travel)"
+566,Playing cricket  web developement and personality development ,playing cricket  web developement and personality development,Sports (cricket),Sports (cricket)
+567,Singing  experiencing new work  reading ,singing  experiencing new work  reading,"Music & Dance (singing), Reading & Writing (read), Design (new)","Design (new), Music & Dance (singing), Reading & Writing (read)"
+568,Drawing & playing Badminton ,drawing   playing badminton,"Sports (badminton), Arts & Crafts (drawing)","Arts & Crafts (drawing), Sports (badminton)"
+569,Gaming ,gaming,Gaming (gaming),Gaming (gaming)
+570,1) I like to play Guitar 2) I love to Travel 3) I love to speak with new people,1  i like to play guitar 2  i love to travel 3  i love to speak with new people,"Music & Dance (guitar), Travel & Adventure (travel), Design (new)","Design (new), Music & Dance (guitar), Travel & Adventure (travel)"
+571,To do something new,to do something new,Design (new),Design (new)
+572,Dance travel ,dance travel,"Music & Dance (dance), Travel & Adventure (travel)","Music & Dance (dance), Travel & Adventure (travel)"
+573,Movies,movies,Entertainment (movie),Entertainment (movie)
+574,Cricket ,cricket,Sports (cricket),Sports (cricket)
+575,Watching movies and watch collections,watching movies and watch collections,Entertainment (movie),Entertainment (movie)
+576,Gaming Sports,gaming sports,"Sports (sport), Gaming (gaming)","Gaming (gaming), Sports (sport)"
+577,Gym ,gym,Fitness & Gym (gym),Fitness & Gym (gym)
+578,Playing badminton and listening songs,playing badminton and listening songs,"Sports (badminton), Music & Dance (song), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song), Sports (badminton)"
+579,Sports and reading ,sports and reading,"Sports (sport), Reading & Writing (read)","Reading & Writing (read), Sports (sport)"
+580,Playing guitar Reading,playing guitar reading,"Music & Dance (guitar), Reading & Writing (read)","Music & Dance (guitar), Reading & Writing (read)"
+581,Cricket ,cricket,Sports (cricket),Sports (cricket)
+582,Listening musicreading sci-fi novels watching documentariespc games,listening musicreading sci fi novels watching documentariespc games,"Music & Dance (music), Reading & Writing (read), Gaming (game), Entertainment (watching), Mind & Wellness (listening)","Entertainment (watching), Gaming (game), Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+583,Music and reading ,music and reading,"Music & Dance (music), Reading & Writing (read)","Music & Dance (music), Reading & Writing (read)"
+584,My hobbies are drawing like to swim and travel (explore new places) with friends,my hobbies are drawing like to swim and travel  explore new places  with friends,"Sports (swim), Arts & Crafts (drawing), Travel & Adventure (travel), Design (new)","Arts & Crafts (drawing), Design (new), Sports (swim), Travel & Adventure (travel)"
+585,Playing football athleticsarts,playing football athleticsarts,"Sports (football), Arts & Crafts (art)","Arts & Crafts (art), Sports (football)"
+586,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+587,-,,,None (explicit none match)
+588,Dancing ,dancing,Music & Dance (dancing),Music & Dance (dancing)
+589,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+590,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+591,Aeromodelling music,aeromodelling music,Music & Dance (music),Music & Dance (music)
+592,Participate in any extra curricular activities,participate in any extra curricular activities,Arts & Crafts (art),Arts & Crafts (art)
+593,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+594,Dance and travel ,dance and travel,"Music & Dance (dance), Travel & Adventure (travel)","Music & Dance (dance), Travel & Adventure (travel)"
+595,Listening music ,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+596,Automobile ,automobile,Automotive & Racing (automobile),Automotive & Racing (automobile)
+597,Drawing and painting ,drawing and painting,Arts & Crafts (drawing),Arts & Crafts (drawing)
+598,Swimming sketching playing badminton,swimming sketching playing badminton,"Sports (badminton), Arts & Crafts (sketching)","Arts & Crafts (sketching), Sports (badminton)"
+599,Music guitar working out cleaning ,music guitar working out cleaning,Music & Dance (music),Music & Dance (music)
+600,Cooking & travelling ,cooking   travelling,"Travel & Adventure (travel), Cooking & Baking (cook)","Cooking & Baking (cook), Travel & Adventure (travel)"
+601,No,no,,None (explicit none match)
+602,Watching web series Travel bike riding ,watching web series travel bike riding,"Travel & Adventure (travel), Entertainment (web series), Automotive & Racing (bike)","Automotive & Racing (bike), Entertainment (web series), Travel & Adventure (travel)"
+603,Studying cooking ,studying cooking,"Cooking & Baking (cook), Education & Study (studying)","Cooking & Baking (cook), Education & Study (studying)"
+604,Writing and traveling,writing and traveling,"Reading & Writing (writing), Travel & Adventure (travel)","Reading & Writing (writing), Travel & Adventure (travel)"
+605,Rifel Shooting ,rifel shooting,Sports (rifel shooting),Sports (rifel shooting)
+606,Cooking,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+607,Cooking and planning trips,cooking and planning trips,Cooking & Baking (cook),Cooking & Baking (cook)
+608,Play games,play games,Gaming (game),Gaming (game)
+609,Reading books trekking cooking playing cricket etc.,reading books trekking cooking playing cricket etc,"Sports (cricket), Reading & Writing (read), Travel & Adventure (trek), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read), Sports (cricket), Travel & Adventure (trek)"
+610,Understanding mechanism and Repairing electronics devices.,understanding mechanism and repairing electronics devices,Technology & Coding (electronics),Technology & Coding (electronics)
+611,I Like Playing Instruments And Dancingalso Loves To Play All sports Games Doing Volunteering Of Various Events Activitiesetc.,i like playing instruments and dancingalso loves to play all sports games doing volunteering of various events activitiesetc,"Sports (sport), Music & Dance (dancing), Technology & Coding (doing), Gaming (game), Social & Volunteering (volunteer)","Gaming (game), Music & Dance (dancing), Social & Volunteering (volunteer), Sports (sport), Technology & Coding (doing)"
+612,Reading books watching movies travelling and exploring different places listening music ,reading books watching movies travelling and exploring different places listening music,"Music & Dance (music), Reading & Writing (read), Travel & Adventure (travel), Entertainment (movie), Mind & Wellness (listening)","Entertainment (movie), Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read), Travel & Adventure (travel)"
+613,Karate Chess Swimming Badminton and Cricket ,karate chess swimming badminton and cricket,Sports (chess),Sports (chess)
+614,Volley Ball ,volley ball,Sports (volley ball),Sports (volley ball)
+615,Dancing and reading books,dancing and reading books,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+616,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+617,Reading books singing ,reading books singing,"Music & Dance (singing), Reading & Writing (read)","Music & Dance (singing), Reading & Writing (read)"
+618,Sketching ,sketching,Arts & Crafts (sketching),Arts & Crafts (sketching)
+619,Dancing  listening to music etc,dancing  listening to music etc,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+620,Listening to music and going for trekking. ,listening to music and going for trekking,"Music & Dance (music), Travel & Adventure (trek), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (trek)"
+621,Sketching reading novels singing playing guitar  badminton ,sketching reading novels singing playing guitar  badminton,"Sports (badminton), Arts & Crafts (sketching), Music & Dance (singing), Reading & Writing (read)","Arts & Crafts (sketching), Music & Dance (singing), Reading & Writing (read), Sports (badminton)"
+622,Learning new things and technology,learning new things and technology,"Reading & Writing (learn), Technology & Coding (tech), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn), Technology & Coding (tech)"
+623,Health and fitness ,health and fitness,Fitness & Gym (fitness),Fitness & Gym (fitness)
+624,Reading story books ,reading story books,Reading & Writing (read),Reading & Writing (read)
+625,Traking traveling listening music ,traking traveling listening music,"Music & Dance (music), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (travel)"
+626,F1 and Books,f1 and books,Reading & Writing (book),Reading & Writing (book)
+627,Reading story books and photography ,reading story books and photography,"Reading & Writing (read), Design (photography)","Design (photography), Reading & Writing (read)"
+628,Physical fitness and watching podcast of army veteran,physical fitness and watching podcast of army veteran,"Fitness & Gym (fitness), Entertainment (watching)","Entertainment (watching), Fitness & Gym (fitness)"
+629,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+630,Travelinggaming,travelinggaming,"Travel & Adventure (travel), Gaming (gaming)","Gaming (gaming), Travel & Adventure (travel)"
+631,Arts and drawing ,arts and drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+632,Basketball,basketball,Sports (basketball),Sports (basketball)
+633,Playing outdoor games  learning new things ,playing outdoor games  learning new things,"Reading & Writing (learn), Gaming (game), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Gaming (game), Reading & Writing (learn)"
+634,Reading sketchingmoviesmusic,reading sketchingmoviesmusic,"Arts & Crafts (sketching), Music & Dance (music), Reading & Writing (read), Entertainment (movie)","Arts & Crafts (sketching), Entertainment (movie), Music & Dance (music), Reading & Writing (read)"
+635,Reading and exploring,reading and exploring,"Reading & Writing (read), Travel & Adventure (exploring)","Reading & Writing (read), Travel & Adventure (exploring)"
+636,Sports ,sports,Sports (sport),Sports (sport)
+637,Music traveling singing ,music traveling singing,"Music & Dance (music), Travel & Adventure (travel)","Music & Dance (music), Travel & Adventure (travel)"
+638,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+639,Sports,sports,Sports (sport),Sports (sport)
+640,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+641,Drawing,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+642,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+643,Reading books treking farming and coding. ,reading books treking farming and coding,"Reading & Writing (read), Travel & Adventure (trek), Technology & Coding (coding)","Reading & Writing (read), Technology & Coding (coding), Travel & Adventure (trek)"
+644,Play draw swim Love being in farm travel,play draw swim love being in farm travel,"Sports (swim), Travel & Adventure (travel)","Sports (swim), Travel & Adventure (travel)"
+645,Painting travelling ,painting travelling,"Arts & Crafts (painting), Travel & Adventure (travel)","Arts & Crafts (painting), Travel & Adventure (travel)"
+646,Reading books exercising studying ,reading books exercising studying,"Reading & Writing (read), Fitness & Gym (exercising), Education & Study (studying)","Education & Study (studying), Fitness & Gym (exercising), Reading & Writing (read)"
+647,Travelling and adventure ,travelling and adventure,Travel & Adventure (travel),Travel & Adventure (travel)
+648,Cooking Travelling reading ,cooking travelling reading,"Reading & Writing (read), Travel & Adventure (travel), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read), Travel & Adventure (travel)"
+649,Playing Sports Hiking Travelling ,playing sports hiking travelling,"Sports (sport), Travel & Adventure (travel)","Sports (sport), Travel & Adventure (travel)"
+650,Finance future cricket practical ,finance future cricket practical,"Sports (cricket), Business & Finance (finance)","Business & Finance (finance), Sports (cricket)"
+651,Photography treks ,photography treks,"Travel & Adventure (trek), Design (photography)","Design (photography), Travel & Adventure (trek)"
+652,Football ,football,Sports (football),Sports (football)
+653,.,,,None (explicit none match)
+654,Playing games and sports,playing games and sports,"Sports (sport), Gaming (game)","Gaming (game), Sports (sport)"
+655,Traveling and playing football badminton ,traveling and playing football badminton,"Sports (football), Travel & Adventure (travel)","Sports (football), Travel & Adventure (travel)"
+656,Reading books bike riding ,reading books bike riding,"Reading & Writing (read), Automotive & Racing (bike)","Automotive & Racing (bike), Reading & Writing (read)"
+657,Trekking swimming karate painting reading ,trekking swimming karate painting reading,"Sports (swim), Arts & Crafts (painting), Reading & Writing (read), Travel & Adventure (trek)","Arts & Crafts (painting), Reading & Writing (read), Sports (swim), Travel & Adventure (trek)"
+658,Dancing  reading,dancing  reading,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+659,Aquarium,aquarium,Mind & Wellness (aquarium),Mind & Wellness (aquarium)
+660,Do study in different technology ,do study in different technology,"Technology & Coding (tech), Education & Study (study)","Education & Study (study), Technology & Coding (tech)"
+661,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+662,Trading and Swimming ,trading and swimming,"Sports (swim), Business & Finance (trading)","Business & Finance (trading), Sports (swim)"
+663,Listening Songs,listening songs,"Music & Dance (song), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song)"
+664,Dance travel,dance travel,"Music & Dance (dance), Travel & Adventure (travel)","Music & Dance (dance), Travel & Adventure (travel)"
+665,Badminton ,badminton,Sports (badminton),Sports (badminton)
+666,Nothing,nothing,,None (explicit none match)
+667,Sports ,sports,Sports (sport),Sports (sport)
+668,Swimming Drawing Trecking ,swimming drawing trecking,"Sports (swim), Arts & Crafts (drawing)","Arts & Crafts (drawing), Sports (swim)"
+669,Adventure ,adventure,Travel & Adventure (adventure),Travel & Adventure (adventure)
+670,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+671,.,,,None (explicit none match)
+672,Football Reading Swimming Listening to music Travelling,football reading swimming listening to music travelling,"Sports (football), Music & Dance (music), Reading & Writing (read), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read), Sports (football), Travel & Adventure (travel)"
+673,Dancing and learning english ,dancing and learning english,"Music & Dance (dancing), Reading & Writing (learn), Education & Study (learning)","Education & Study (learning), Music & Dance (dancing), Reading & Writing (learn)"
+674,Playing games,playing games,Gaming (game),Gaming (game)
+675,Travelling ,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+676,Drawing dancing ,drawing dancing,"Arts & Crafts (drawing), Music & Dance (dancing)","Arts & Crafts (drawing), Music & Dance (dancing)"
+677,My hobbies is to take knowledge of different technology and to go outside at different places in nature. ,my hobbies is to take knowledge of different technology and to go outside at different places in nature,"Technology & Coding (tech), Education & Study (knowledge)","Education & Study (knowledge), Technology & Coding (tech)"
+678,Coding watching movies ,coding watching movies,"Technology & Coding (coding), Entertainment (movie)","Entertainment (movie), Technology & Coding (coding)"
+679,Reading swimming & playing badminton ,reading swimming   playing badminton,"Sports (badminton), Reading & Writing (read)","Reading & Writing (read), Sports (badminton)"
+680,Long Walks with friends & Bike Rides,long walks with friends   bike rides,Automotive & Racing (bike),Automotive & Racing (bike)
+681,Playing games reading books,playing games reading books,"Reading & Writing (read), Gaming (game)","Gaming (game), Reading & Writing (read)"
+682,Travelling trekking reading Books,travelling trekking reading books,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+683,Reading books playing mobile/pc games cooking & singing,reading books playing mobile pc games cooking   singing,"Music & Dance (singing), Reading & Writing (read), Cooking & Baking (cook), Gaming (game)","Cooking & Baking (cook), Gaming (game), Music & Dance (singing), Reading & Writing (read)"
+684,Football Gaming Singing,football gaming singing,"Sports (football), Music & Dance (singing), Gaming (gaming)","Gaming (gaming), Music & Dance (singing), Sports (football)"
+685,Photography ,photography,Design (photography),Design (photography)
+686,I enjoy painting travelling and reading books,i enjoy painting travelling and reading books,"Arts & Crafts (painting), Reading & Writing (read), Travel & Adventure (travel)","Arts & Crafts (painting), Reading & Writing (read), Travel & Adventure (travel)"
+687,Reading Singing Travelling ,reading singing travelling,"Music & Dance (singing), Reading & Writing (read), Travel & Adventure (travel)","Music & Dance (singing), Reading & Writing (read), Travel & Adventure (travel)"
+688,Grading Fitness Activities Travelling ,grading fitness activities travelling,"Travel & Adventure (travel), Fitness & Gym (fitness)","Fitness & Gym (fitness), Travel & Adventure (travel)"
+689,Badminton ,badminton,Sports (badminton),Sports (badminton)
+690,trekking,trekking,Travel & Adventure (trek),Travel & Adventure (trek)
+691,Reading Games Music Learning ,reading games music learning,"Music & Dance (music), Reading & Writing (read), Gaming (game), Education & Study (learning)","Education & Study (learning), Gaming (game), Music & Dance (music), Reading & Writing (read)"
+692,Dancing & art,dancing   art,"Arts & Crafts (art), Music & Dance (dancing)","Arts & Crafts (art), Music & Dance (dancing)"
+693,Sports like kabbadi cricket. Hobbies are dancing reading gardening. ,sports like kabbadi cricket  hobbies are dancing reading gardening,"Sports (cricket), Music & Dance (dancing), Reading & Writing (read), Gardening (gardening)","Gardening (gardening), Music & Dance (dancing), Reading & Writing (read), Sports (cricket)"
+694,Gardening Cooking Reading.,gardening cooking reading,"Reading & Writing (read), Cooking & Baking (cook), Gardening (gardening)","Cooking & Baking (cook), Gardening (gardening), Reading & Writing (read)"
+695,Esports,esports,"Sports (sport), Gaming (esports)","Gaming (esports), Sports (sport)"
+696,Sports ,sports,Sports (sport),Sports (sport)
+697,Travelling Playing Cricket Table Tennis Singing,travelling playing cricket table tennis singing,"Sports (cricket), Music & Dance (singing), Travel & Adventure (travel)","Music & Dance (singing), Sports (cricket), Travel & Adventure (travel)"
+698,Cricket Reading Novels,cricket reading novels,"Sports (cricket), Reading & Writing (read)","Reading & Writing (read), Sports (cricket)"
+699,Sports,sports,Sports (sport),Sports (sport)
+700,Online gaming drawing  sweeming ,online gaming drawing  sweeming,"Arts & Crafts (drawing), Gaming (gaming)","Arts & Crafts (drawing), Gaming (gaming)"
+701,Gaming,gaming,Gaming (gaming),Gaming (gaming)
+702,Reading CookingCrocheting,reading cookingcrocheting,"Reading & Writing (read), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read)"
+703,Meditation Cooking diary writing playing badminton drawing conversation with peers,meditation cooking diary writing playing badminton drawing conversation with peers,"Sports (badminton), Arts & Crafts (drawing), Reading & Writing (writing), Cooking & Baking (cook), Mind & Wellness (meditation)","Arts & Crafts (drawing), Cooking & Baking (cook), Mind & Wellness (meditation), Reading & Writing (writing), Sports (badminton)"
+704,Sketching and painting riding bikes,sketching and painting riding bikes,"Arts & Crafts (painting), Automotive & Racing (bike)","Arts & Crafts (painting), Automotive & Racing (bike)"
+705,Travelling ,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+706,Singing and Paino Player,singing and paino player,Music & Dance (singing),Music & Dance (singing)
+707,Singing and listening Songs travelling reading self- help books,singing and listening songs travelling reading self  help books,"Music & Dance (singing), Reading & Writing (read), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (singing), Reading & Writing (read), Travel & Adventure (travel)"
+708,Physical sports trekking ,physical sports trekking,"Sports (sport), Travel & Adventure (trek)","Sports (sport), Travel & Adventure (trek)"
+709,Chess,chess,Sports (chess),Sports (chess)
+710,Cinema ,cinema,Entertainment (cinema),Entertainment (cinema)
+711,.,,,None (explicit none match)
+712,Playing Badminton ,playing badminton,Sports (badminton),Sports (badminton)
+713,Football and reading ,football and reading,"Sports (football), Reading & Writing (read)","Reading & Writing (read), Sports (football)"
+714,No such hobbies. I loke to do what I am doing nicely and perfectly.,no such hobbies  i loke to do what i am doing nicely and perfectly,Technology & Coding (doing),Technology & Coding (doing)
+715,Hobbies - Dance  Intrest- Trekking ,hobbies   dance  intrest  trekking,"Music & Dance (dance), Travel & Adventure (trek)","Music & Dance (dance), Travel & Adventure (trek)"
+716,Drawing and playing games ,drawing and playing games,"Arts & Crafts (drawing), Gaming (game)","Arts & Crafts (drawing), Gaming (game)"
+717,Playing kabaddi ,playing kabaddi,Sports (kabaddi),Sports (kabaddi)
+718,Dancing and watching movies,dancing and watching movies,"Music & Dance (dancing), Entertainment (movie)","Entertainment (movie), Music & Dance (dancing)"
+719,Like to play video games,like to play video games,Gaming (game),Gaming (game)
+720,Doodling  drawing,doodling  drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+721,Drawing reading ,drawing reading,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+722,Chess  reading novels kabaddi,chess  reading novels kabaddi,"Sports (chess), Reading & Writing (read)","Reading & Writing (read), Sports (chess)"
+723,Art and playing games,art and playing games,"Arts & Crafts (art), Gaming (game)","Arts & Crafts (art), Gaming (game)"
+724,MusicSongs,musicsongs,Music & Dance (music),Music & Dance (music)
+725,Dancing swimming singing,dancing swimming singing,"Sports (swim), Music & Dance (singing)","Music & Dance (singing), Sports (swim)"
+726,Listening to Music ,listening to music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+727,Sketching ,sketching,Arts & Crafts (sketching),Arts & Crafts (sketching)
+728,Making mechanical projects,making mechanical projects,"Technology & Coding (mechanical), Business & Finance (project)","Business & Finance (project), Technology & Coding (mechanical)"
+729,Interested in playing games ,interested in playing games,Gaming (game),Gaming (game)
+730,Guitar singing travelling on motorcycle.,guitar singing travelling on motorcycle,"Music & Dance (singing), Travel & Adventure (travel), Automotive & Racing (motorcycle)","Automotive & Racing (motorcycle), Music & Dance (singing), Travel & Adventure (travel)"
+731,Music Gaming Basketball Running,music gaming basketball running,"Sports (basketball), Music & Dance (music), Gaming (gaming), Fitness & Gym (running)","Fitness & Gym (running), Gaming (gaming), Music & Dance (music), Sports (basketball)"
+732,Art ,art,Arts & Crafts (art),Arts & Crafts (art)
+733,Coding Reading,coding reading,"Reading & Writing (read), Technology & Coding (coding)","Reading & Writing (read), Technology & Coding (coding)"
+734,Badminton sketching drawing,badminton sketching drawing,"Sports (badminton), Arts & Crafts (drawing)","Arts & Crafts (drawing), Sports (badminton)"
+735,Reading and listening to music,reading and listening to music,"Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+736,Playing chess,playing chess,Sports (chess),Sports (chess)
+737,Teaching ,teaching,Education & Study (teaching),Education & Study (teaching)
+738,I like to visit new places . I like to learn new things.,i like to visit new places   i like to learn new things,"Reading & Writing (learn), Design (new)","Design (new), Reading & Writing (learn)"
+739,Music movies,music movies,"Music & Dance (music), Entertainment (movie)","Entertainment (movie), Music & Dance (music)"
+740,Playing badminton ,playing badminton,Sports (badminton),Sports (badminton)
+741,MusicDanceSleepTravel,musicdancesleeptravel,"Music & Dance (music), Travel & Adventure (travel), Mind & Wellness (sleep)","Mind & Wellness (sleep), Music & Dance (music), Travel & Adventure (travel)"
+742,Trying new things ,trying new things,Design (new),Design (new)
+743,Travel painting playing badminton photography ,travel painting playing badminton photography,"Sports (badminton), Arts & Crafts (painting), Travel & Adventure (travel), Design (photography)","Arts & Crafts (painting), Design (photography), Sports (badminton), Travel & Adventure (travel)"
+744,Photography ,photography,Design (photography),Design (photography)
+745,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+746,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+747,Sketching Dancing,sketching dancing,"Arts & Crafts (sketching), Music & Dance (dancing)","Arts & Crafts (sketching), Music & Dance (dancing)"
+748,FootballAthletics and badminton and solving maths calculations,footballathletics and badminton and solving maths calculations,"Sports (football), Education & Study (math)","Education & Study (math), Sports (football)"
+749,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+750,Travelling,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+751,Gameing  listening music watching movies  talking with friends ,gameing  listening music watching movies  talking with friends,"Music & Dance (music), Gaming (game), Entertainment (movie), Mind & Wellness (listening)","Entertainment (movie), Gaming (game), Mind & Wellness (listening), Music & Dance (music)"
+752,playing badminton,playing badminton,Sports (badminton),Sports (badminton)
+753,Reading  playing cricket coding ,reading  playing cricket coding,"Sports (cricket), Reading & Writing (read), Technology & Coding (coding)","Reading & Writing (read), Sports (cricket), Technology & Coding (coding)"
+754,I like cooking and singing songs. I like coding and I am work passionate.,i like cooking and singing songs  i like coding and i am work passionate,"Music & Dance (singing), Cooking & Baking (cook), Technology & Coding (coding)","Cooking & Baking (cook), Music & Dance (singing), Technology & Coding (coding)"
+755,CodingPlaying gamesreading,codingplaying gamesreading,"Reading & Writing (read), Technology & Coding (coding), Gaming (game)","Gaming (game), Reading & Writing (read), Technology & Coding (coding)"
+756,Photography ,photography,Design (photography),Design (photography)
+757,Singing ,singing,Music & Dance (singing),Music & Dance (singing)
+758,Reading news and articles related to current affairs,reading news and articles related to current affairs,"Arts & Crafts (art), Reading & Writing (read), Design (new)","Arts & Crafts (art), Design (new), Reading & Writing (read)"
+759,Singing songs campaign teamwork cooking ,singing songs campaign teamwork cooking,"Music & Dance (singing), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (singing)"
+760,Reading books astronomy sports,reading books astronomy sports,"Sports (sport), Reading & Writing (read), Occult & Astrology (astronomy)","Occult & Astrology (astronomy), Reading & Writing (read), Sports (sport)"
+761,Volleyball Reading Books,volleyball reading books,"Sports (volley), Reading & Writing (read)","Reading & Writing (read), Sports (volley)"
+762,Listening to music  reading ,listening to music  reading,"Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+763,motorcycle,motorcycle,Automotive & Racing (motorcycle),Automotive & Racing (motorcycle)
+764,Playing football event management etc,playing football event management etc,"Sports (football), Social & Volunteering (event)","Social & Volunteering (event), Sports (football)"
+765,Exercising ,exercising,Fitness & Gym (exercising),Fitness & Gym (exercising)
+766,Drawing,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+767,Trekking swimming football ,trekking swimming football,"Sports (football), Travel & Adventure (trek)","Sports (football), Travel & Adventure (trek)"
+768,Swimming Travelling Art & Craft Farming ,swimming travelling art   craft farming,"Sports (swim), Arts & Crafts (craft), Travel & Adventure (travel)","Arts & Crafts (craft), Sports (swim), Travel & Adventure (travel)"
+769,I have interest in learning new things ,i have interest in learning new things,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+770,playing games,playing games,Gaming (game),Gaming (game)
+771,Cooking and reading,cooking and reading,"Reading & Writing (read), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read)"
+772,Reading Writing poems listening songs,reading writing poems listening songs,"Music & Dance (song), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song), Reading & Writing (read)"
+773,Cricket swimming ,cricket swimming,Sports (cricket),Sports (cricket)
+774,Archery,archery,Sports (archery),Sports (archery)
+775,Drawing writing shayari,drawing writing shayari,"Arts & Crafts (drawing), Reading & Writing (writing)","Arts & Crafts (drawing), Reading & Writing (writing)"
+776,Reading and watching webseries ,reading and watching webseries,"Reading & Writing (read), Entertainment (watching)","Entertainment (watching), Reading & Writing (read)"
+777,Playing Kabbadi,playing kabbadi,Sports (kabbadi),Sports (kabbadi)
+778,Nope ,nope,,None (no matches)
+779,Music Sports Theatre,music sports theatre,"Sports (sport), Music & Dance (music)","Music & Dance (music), Sports (sport)"
+780,Travelling ,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+781,Capturing the picture of naturedrawing playing.,capturing the picture of naturedrawing playing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+782,Web development ,web development,Technology & Coding (web development),Technology & Coding (web development)
+783,I m interested in occult sciences like palmistry astrology numerology.,i m interested in occult sciences like palmistry astrology numerology,Occult & Astrology (occult),Occult & Astrology (occult)
+784,Workout cricket,workout cricket,"Sports (cricket), Fitness & Gym (workout)","Fitness & Gym (workout), Sports (cricket)"
+785,Sketching reading ,sketching reading,"Arts & Crafts (sketching), Reading & Writing (read)","Arts & Crafts (sketching), Reading & Writing (read)"
+786,Social service  Design  Event Mangement  Adventure activity ,social service  design  event mangement  adventure activity,"Travel & Adventure (adventure), Social & Volunteering (social), Design (design)","Design (design), Social & Volunteering (social), Travel & Adventure (adventure)"
+787,Football,football,Sports (football),Sports (football)
+788,Hobbies: reading yoga  interests: Badminton ,hobbies  reading yoga  interests  badminton,"Sports (badminton), Reading & Writing (read), Mind & Wellness (yoga)","Mind & Wellness (yoga), Reading & Writing (read), Sports (badminton)"
+789,Making creativitywatching movie,making creativitywatching movie,"Arts & Crafts (creativity), Entertainment (movie)","Arts & Crafts (creativity), Entertainment (movie)"
+790,Anime Cricket Defence ,anime cricket defence,Sports (cricket),Sports (cricket)
+791,Reading books Playing badminton listening songs,reading books playing badminton listening songs,"Sports (badminton), Music & Dance (song), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song), Reading & Writing (read), Sports (badminton)"
+792,Dancing,dancing,Music & Dance (dancing),Music & Dance (dancing)
+793,Chess cricket badminton,chess cricket badminton,Sports (chess),Sports (chess)
+794,Reading and table tennis ,reading and table tennis,"Sports (tennis), Reading & Writing (read)","Reading & Writing (read), Sports (tennis)"
+795,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+796,Playing cricket and other outdoor activities ,playing cricket and other outdoor activities,Sports (cricket),Sports (cricket)
+797,Painting travelling ,painting travelling,"Arts & Crafts (painting), Travel & Adventure (travel)","Arts & Crafts (painting), Travel & Adventure (travel)"
+798,Watching movies and painting ,watching movies and painting,"Arts & Crafts (painting), Entertainment (movie)","Arts & Crafts (painting), Entertainment (movie)"
+799,Playing Cricket ,playing cricket,Sports (cricket),Sports (cricket)
+800,I like to read novels,i like to read novels,Reading & Writing (read),Reading & Writing (read)
+801,Basketball ,basketball,Sports (basketball),Sports (basketball)
+802,Gaming,gaming,Gaming (gaming),Gaming (gaming)
+803,Playing Football ,playing football,Sports (football),Sports (football)
+804,Reading cooking sketching ,reading cooking sketching,"Arts & Crafts (sketching), Reading & Writing (read), Cooking & Baking (cook)","Arts & Crafts (sketching), Cooking & Baking (cook), Reading & Writing (read)"
+805,Playing sports ,playing sports,Sports (sport),Sports (sport)
+806,Cooking dancing reading ,cooking dancing reading,"Music & Dance (dancing), Reading & Writing (read), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (dancing), Reading & Writing (read)"
+807,Dance ,dance,Music & Dance (dance),Music & Dance (dance)
+808,Basketball ,basketball,Sports (basketball),Sports (basketball)
+809,Dancing reading,dancing reading,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+810,Travelling and playing mobile games ,travelling and playing mobile games,"Travel & Adventure (travel), Gaming (game)","Gaming (game), Travel & Adventure (travel)"
+811,.,,,None (explicit none match)
+812,learning new skills playing sports(outdoor),learning new skills playing sports outdoor,"Sports (sport), Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn), Sports (sport)"
+813,Traveling,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+814,Elocution ,elocution,Education & Study (elocution),Education & Study (elocution)
+815,Guitar and Sketching,guitar and sketching,"Arts & Crafts (sketching), Music & Dance (guitar)","Arts & Crafts (sketching), Music & Dance (guitar)"
+816,1)GYM 2)Cricket 3)Taking care of my appearance,1 gym 2 cricket 3 taking care of my appearance,"Sports (cricket), Fitness & Gym (gym), Automotive & Racing (car)","Automotive & Racing (car), Fitness & Gym (gym), Sports (cricket)"
+817,Travelling watching TV and phone ,travelling watching tv and phone,"Travel & Adventure (travel), Entertainment (tv)","Entertainment (tv), Travel & Adventure (travel)"
+818,Music,music,Music & Dance (music),Music & Dance (music)
+819,Playing outdoor game's ,playing outdoor game s,Gaming (game),Gaming (game)
+820,Dance travel reading listening music,dance travel reading listening music,"Music & Dance (music), Reading & Writing (read), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read), Travel & Adventure (travel)"
+821,Trading and weight training ,trading and weight training,"Fitness & Gym (weight training), Business & Finance (trading)","Business & Finance (trading), Fitness & Gym (weight training)"
+822,Reading books ,reading books,Reading & Writing (read),Reading & Writing (read)
+823,Listening music ,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+824,Watch sports tinkering,watch sports tinkering,"Sports (sport), Entertainment (watch)","Entertainment (watch), Sports (sport)"
+825,Playing cricket and badminton ,playing cricket and badminton,Sports (cricket),Sports (cricket)
+826,Sports and entrepreneurship ,sports and entrepreneurship,"Sports (sport), Business & Finance (entrepreneurship)","Business & Finance (entrepreneurship), Sports (sport)"
+827,Playing Treaking,playing treaking,Travel & Adventure (treaking),Travel & Adventure (treaking)
+828,Drawing n reading ,drawing n reading,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+829,Music ,music,Music & Dance (music),Music & Dance (music)
+830,Listening musicDrawing ,listening musicdrawing,"Arts & Crafts (drawing), Music & Dance (music), Mind & Wellness (listening)","Arts & Crafts (drawing), Mind & Wellness (listening), Music & Dance (music)"
+831,Drawingarts ,drawingarts,Arts & Crafts (drawing),Arts & Crafts (drawing)
+832,Playing games ,playing games,Gaming (game),Gaming (game)
+833,Singing and traveling ,singing and traveling,"Music & Dance (singing), Travel & Adventure (travel)","Music & Dance (singing), Travel & Adventure (travel)"
+834,Studingplayingartcooking ,studingplayingartcooking,"Arts & Crafts (art), Cooking & Baking (cook)","Arts & Crafts (art), Cooking & Baking (cook)"
+835,Reading books listening to music,reading books listening to music,"Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+836,Skating and swimming ,skating and swimming,Sports (skating),Sports (skating)
+837,Painting ,painting,Arts & Crafts (painting),Arts & Crafts (painting)
+838,Football  gym freak,football  gym freak,"Sports (football), Fitness & Gym (gym)","Fitness & Gym (gym), Sports (football)"
+839,Spending time with loved ones,spending time with loved ones,Mind & Wellness (loved),Mind & Wellness (loved)
+840,Reading book,reading book,Reading & Writing (read),Reading & Writing (read)
+841,Space research and traveling ,space research and traveling,"Travel & Adventure (travel), Education & Study (research)","Education & Study (research), Travel & Adventure (travel)"
+842,MUSIC AND TRAVELLING ,music and travelling,"Music & Dance (music), Travel & Adventure (travel)","Music & Dance (music), Travel & Adventure (travel)"
+843,Travelling and Reading ,travelling and reading,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+844,Gym  cycling listening Music ,gym  cycling listening music,"Music & Dance (music), Fitness & Gym (gym), Mind & Wellness (listening)","Fitness & Gym (gym), Mind & Wellness (listening), Music & Dance (music)"
+845,Dancing Travelling ,dancing travelling,"Music & Dance (dancing), Travel & Adventure (travel)","Music & Dance (dancing), Travel & Adventure (travel)"
+846,Poetry writing and sketching ,poetry writing and sketching,"Arts & Crafts (sketching), Reading & Writing (poetry)","Arts & Crafts (sketching), Reading & Writing (poetry)"
+847,Cooking ,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+848,Swimming playing sports travelling ,swimming playing sports travelling,"Sports (sport), Travel & Adventure (travel)","Sports (sport), Travel & Adventure (travel)"
+849,Sports ,sports,Sports (sport),Sports (sport)
+850,Nature Drawing and Nature Photography ,nature drawing and nature photography,"Arts & Crafts (drawing), Design (photography)","Arts & Crafts (drawing), Design (photography)"
+851,Singing dancing daily kitchen works and... I love to read books ,singing dancing daily kitchen works and    i love to read books,"Music & Dance (singing), Reading & Writing (read), Cooking & Baking (kitchen)","Cooking & Baking (kitchen), Music & Dance (singing), Reading & Writing (read)"
+852,Sports ,sports,Sports (sport),Sports (sport)
+853,Like to play karate ,like to play karate,Sports (karate),Sports (karate)
+854,Playing karate ,playing karate,Sports (karate),Sports (karate)
+855,I like to travelling and see the most very good  and different places,i like to travelling and see the most very good  and different places,Travel & Adventure (travel),Travel & Adventure (travel)
+856,Reading booksCricket,reading bookscricket,"Sports (cricket), Reading & Writing (read)","Reading & Writing (read), Sports (cricket)"
+857,Reading sketching listening to music,reading sketching listening to music,"Arts & Crafts (sketching), Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Arts & Crafts (sketching), Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+858,Reading books playing games listening music,reading books playing games listening music,"Music & Dance (music), Reading & Writing (read), Gaming (game), Mind & Wellness (listening)","Gaming (game), Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+859,1. Talking with elder people and their experiences. 2. Listening music 3. Reading ,1  talking with elder people and their experiences  2  listening music 3  reading,"Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+860,Reading Hard work for better future ,reading hard work for better future,Reading & Writing (read),Reading & Writing (read)
+861,Photography And VFX,photography and vfx,Design (vfx),Design (vfx)
+862,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+863,Gamingsketching,gamingsketching,"Arts & Crafts (sketching), Gaming (gaming)","Arts & Crafts (sketching), Gaming (gaming)"
+864,Art and craft,art and craft,Arts & Crafts (craft),Arts & Crafts (craft)
+865,Cricket ,cricket,Sports (cricket),Sports (cricket)
+866,Business finance stock markets forex and real estate ,business finance stock markets forex and real estate,Business & Finance (business),Business & Finance (business)
+867,Listening to music and dance ,listening to music and dance,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+868,Basketball and music ,basketball and music,"Sports (basketball), Music & Dance (music)","Music & Dance (music), Sports (basketball)"
+869,Acting Sports Travelling & Riding Dance Cooking,acting sports travelling   riding dance cooking,"Sports (sport), Arts & Crafts (acting), Music & Dance (dance), Travel & Adventure (travel), Cooking & Baking (cook), Automotive & Racing (riding)","Arts & Crafts (acting), Automotive & Racing (riding), Cooking & Baking (cook), Music & Dance (dance), Sports (sport), Travel & Adventure (travel)"
+870,reading books  writing singing coding ,reading books  writing singing coding,"Music & Dance (singing), Reading & Writing (read), Technology & Coding (coding)","Music & Dance (singing), Reading & Writing (read), Technology & Coding (coding)"
+871,Reading,reading,Reading & Writing (read),Reading & Writing (read)
+872,Acting  Dancing,acting  dancing,"Arts & Crafts (acting), Music & Dance (dancing)","Arts & Crafts (acting), Music & Dance (dancing)"
+873,Communicate with frnds and prof. For chemical industries and projects ,communicate with frnds and prof  for chemical industries and projects,"Social & Volunteering (communicate), Business & Finance (project)","Business & Finance (project), Social & Volunteering (communicate)"
+874,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+875,Dance and singing ,dance and singing,Music & Dance (singing),Music & Dance (singing)
+876,Photographygaming,photographygaming,"Gaming (gaming), Design (photography)","Design (photography), Gaming (gaming)"
+877,Dance  music,dance  music,Music & Dance (music),Music & Dance (music)
+878,Singing drawing ,singing drawing,"Arts & Crafts (drawing), Music & Dance (singing)","Arts & Crafts (drawing), Music & Dance (singing)"
+879,Photography ,photography,Design (photography),Design (photography)
+880,.,,,None (explicit none match)
+881,Cars travel  Tv  Cartoonsbikesfoodtime spending with family ,cars travel  tv  cartoonsbikesfoodtime spending with family,"Arts & Crafts (art), Travel & Adventure (travel), Cooking & Baking (food), Entertainment (tv), Automotive & Racing (car), Mind & Wellness (family)","Arts & Crafts (art), Automotive & Racing (car), Cooking & Baking (food), Entertainment (tv), Mind & Wellness (family), Travel & Adventure (travel)"
+882,Interest in listing song ,interest in listing song,Music & Dance (song),Music & Dance (song)
+883, I like singing  and dancing,i like singing  and dancing,Music & Dance (singing),Music & Dance (singing)
+884,Reading Music drawing dance ,reading music drawing dance,"Arts & Crafts (drawing), Music & Dance (music), Reading & Writing (read)","Arts & Crafts (drawing), Music & Dance (music), Reading & Writing (read)"
+885,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+886,product videography ,product videography,Design (videography),Design (videography)
+887,Cricket ,cricket,Sports (cricket),Sports (cricket)
+888,Dancing writing listening music travelling shopping ,dancing writing listening music travelling shopping,"Music & Dance (music), Reading & Writing (writing), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (writing), Travel & Adventure (travel)"
+889,Cricket,cricket,Sports (cricket),Sports (cricket)
+890,Swimming,swimming,Sports (swim),Sports (swim)
+891,Watching cricketplaying videogamesacting,watching cricketplaying videogamesacting,"Sports (cricket), Arts & Crafts (acting), Gaming (game), Entertainment (watching)","Arts & Crafts (acting), Entertainment (watching), Gaming (game), Sports (cricket)"
+892,Dancing singing acting ,dancing singing acting,"Arts & Crafts (acting), Music & Dance (singing)","Arts & Crafts (acting), Music & Dance (singing)"
+893,Interested in music a good singer and artist good creative skills ,interested in music a good singer and artist good creative skills,"Arts & Crafts (art), Music & Dance (music)","Arts & Crafts (art), Music & Dance (music)"
+894,Knowing about politics and watching science frictional movies,knowing about politics and watching science frictional movies,Entertainment (movie),Entertainment (movie)
+895,Music Production Volleyball Game development ,music production volleyball game development,"Sports (volley), Music & Dance (music), Gaming (game)","Gaming (game), Music & Dance (music), Sports (volley)"
+896,Watching sitcoms or web series ,watching sitcoms or web series,Entertainment (web series),Entertainment (web series)
+897,Playing cricket travelling exploring ,playing cricket travelling exploring,"Sports (cricket), Travel & Adventure (travel)","Sports (cricket), Travel & Adventure (travel)"
+898,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+899,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+900,Travelling ,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+901,Playing games,playing games,Gaming (game),Gaming (game)
+902,Not any specific.,not any specific,,None (no matches)
+903,.,,,None (explicit none match)
+904,Ho learn new technologies ,ho learn new technologies,"Reading & Writing (learn), Technology & Coding (tech), Design (new)","Design (new), Reading & Writing (learn), Technology & Coding (tech)"
+905,Learning new skills and interested in volunteering teamwork ,learning new skills and interested in volunteering teamwork,"Reading & Writing (learn), Social & Volunteering (volunteer), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn), Social & Volunteering (volunteer)"
+906,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+907,Watching movies and listening music,watching movies and listening music,"Music & Dance (music), Entertainment (movie), Mind & Wellness (listening)","Entertainment (movie), Mind & Wellness (listening), Music & Dance (music)"
+908,I just like to play cricket.,i just like to play cricket,Sports (cricket),Sports (cricket)
+909,Reading fiction books watching netflix,reading fiction books watching netflix,"Reading & Writing (read), Entertainment (watching)","Entertainment (watching), Reading & Writing (read)"
+910,..,,,None (explicit none match)
+911,Watching Movies ,watching movies,Entertainment (movie),Entertainment (movie)
+912,Listening music observing things.,listening music observing things,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+913,Cars,cars,Automotive & Racing (car),Automotive & Racing (car)
+914,Travelling ,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+915,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+916,Miniature design Classical Basari Instrument Playing ,miniature design classical basari instrument playing,Design (design),Design (design)
+917,Drawing painting doing mehndi art,drawing painting doing mehndi art,"Arts & Crafts (drawing), Technology & Coding (doing)","Arts & Crafts (drawing), Technology & Coding (doing)"
+918,Playing and watching cricket ,playing and watching cricket,"Sports (cricket), Entertainment (watching)","Entertainment (watching), Sports (cricket)"
+919,Singing  drawing,singing  drawing,"Arts & Crafts (drawing), Music & Dance (singing)","Arts & Crafts (drawing), Music & Dance (singing)"
+920,Badminton,badminton,Sports (badminton),Sports (badminton)
+921,Swimming ,swimming,Sports (swim),Sports (swim)
+922,Gym cricket,gym cricket,"Sports (cricket), Fitness & Gym (gym)","Fitness & Gym (gym), Sports (cricket)"
+923,Cricket,cricket,Sports (cricket),Sports (cricket)
+924,..,,,None (explicit none match)
+925,Sky watching and Sports,sky watching and sports,"Sports (sport), Entertainment (watching)","Entertainment (watching), Sports (sport)"
+926,Sports ,sports,Sports (sport),Sports (sport)
+927,Swimming Taekwondo tracking ,swimming taekwondo tracking,"Sports (taekwondo), Travel & Adventure (tracking)","Sports (taekwondo), Travel & Adventure (tracking)"
+928,Football music,football music,"Sports (football), Music & Dance (music)","Music & Dance (music), Sports (football)"
+929,Swimming and Event Managing ,swimming and event managing,"Sports (swim), Social & Volunteering (event)","Social & Volunteering (event), Sports (swim)"
+930,Writing poems ,writing poems,Reading & Writing (writing),Reading & Writing (writing)
+931,Arts craft singing sketching ,arts craft singing sketching,"Arts & Crafts (sketching), Music & Dance (singing)","Arts & Crafts (sketching), Music & Dance (singing)"
+932,Sketching  Cooking ,sketching  cooking,"Arts & Crafts (sketching), Cooking & Baking (cook)","Arts & Crafts (sketching), Cooking & Baking (cook)"
+933,Reading booksdancing singing karate ,reading booksdancing singing karate,"Sports (karate), Music & Dance (singing), Reading & Writing (read)","Music & Dance (singing), Reading & Writing (read), Sports (karate)"
+934,Sketching ,sketching,Arts & Crafts (sketching),Arts & Crafts (sketching)
+935,Dancing reading,dancing reading,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+936,Dancing and reading ,dancing and reading,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+937,Geopolitical study,geopolitical study,Education & Study (study),Education & Study (study)
+938,Badminton and dancing ,badminton and dancing,"Sports (badminton), Music & Dance (dancing)","Music & Dance (dancing), Sports (badminton)"
+939,Gaming ,gaming,Gaming (gaming),Gaming (gaming)
+940,Nothing ,nothing,,None (explicit none match)
+941,Paintings ,paintings,Arts & Crafts (painting),Arts & Crafts (painting)
+942,Dancing,dancing,Music & Dance (dancing),Music & Dance (dancing)
+943,Reading exploring,reading exploring,"Reading & Writing (read), Travel & Adventure (exploring)","Reading & Writing (read), Travel & Adventure (exploring)"
+944,I play badminton and swim ,i play badminton and swim,Sports (badminton),Sports (badminton)
+945,Playing cricket,playing cricket,Sports (cricket),Sports (cricket)
+946,Dance ,dance,Music & Dance (dance),Music & Dance (dance)
+947,Learning New Things Playing Cricket Traveling Eating ,learning new things playing cricket traveling eating,"Sports (cricket), Reading & Writing (learn), Travel & Adventure (travel), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn), Sports (cricket), Travel & Adventure (travel)"
+948,No option ,no option,,None (no matches)
+949,Coding  cricket,coding  cricket,"Sports (cricket), Technology & Coding (coding)","Sports (cricket), Technology & Coding (coding)"
+950,Acquiring information about social activities and current affairs helps in staying informed,acquiring information about social activities and current affairs helps in staying informed,Social & Volunteering (social),Social & Volunteering (social)
+951,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+952,Nothing ,nothing,,None (explicit none match)
+953,athletics,athletics,Sports (athletics),Sports (athletics)
+954,No,no,,None (explicit none match)
+955,Travel  Dance ,travel  dance,"Music & Dance (dance), Travel & Adventure (travel)","Music & Dance (dance), Travel & Adventure (travel)"
+956,Capturing pictures  ,capturing pictures,Arts & Crafts (pictures),Arts & Crafts (pictures)
+957,Ny hobby is reading listening songs cleanliness ,ny hobby is reading listening songs cleanliness,"Music & Dance (song), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song), Reading & Writing (read)"
+958,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+959,Running,running,Fitness & Gym (running),Fitness & Gym (running)
+960,Some special do for family ,some special do for family,Mind & Wellness (family),Mind & Wellness (family)
+961,Swimming,swimming,Sports (swim),Sports (swim)
+962,LISTENING MUSIC,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+963,Sport,sport,Sports (sport),Sports (sport)
+964,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+965,Yes,yes,,None (no matches)
+966,Dancing listening music create new things ,dancing listening music create new things,"Music & Dance (music), Design (new), Mind & Wellness (listening)","Design (new), Mind & Wellness (listening), Music & Dance (music)"
+967,Reading books Listening music,reading books listening music,"Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+968,Gaming ,gaming,Gaming (gaming),Gaming (gaming)
+969,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+970,I'm athlete,i m athlete,Sports (athlete),Sports (athlete)
+971,Traveling   cooking ,traveling   cooking,"Travel & Adventure (travel), Cooking & Baking (cook)","Cooking & Baking (cook), Travel & Adventure (travel)"
+972,Traveling and playing cricket,traveling and playing cricket,"Sports (cricket), Travel & Adventure (travel)","Sports (cricket), Travel & Adventure (travel)"
+973,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+974,Painting listining music ,painting listining music,"Arts & Crafts (painting), Music & Dance (music)","Arts & Crafts (painting), Music & Dance (music)"
+975,Spending time with pets  colouring trying something new .,spending time with pets  colouring trying something new,"Arts & Crafts (colouring), Design (new)","Arts & Crafts (colouring), Design (new)"
+976,Like to learn more languages ,like to learn more languages,"Reading & Writing (learn), Education & Study (language)","Education & Study (language), Reading & Writing (learn)"
+977,Dancing and sports ,dancing and sports,"Sports (sport), Music & Dance (dancing)","Music & Dance (dancing), Sports (sport)"
+978,Learning ,learning,"Reading & Writing (learn), Education & Study (learning)","Education & Study (learning), Reading & Writing (learn)"
+979,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+980,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+981,Reading and listening online story ,reading and listening online story,"Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Reading & Writing (read)"
+982,Not exactly a specific hobby ,not exactly a specific hobby,,None (no matches)
+983,Learning management skills & organizing events,learning management skills   organizing events,"Reading & Writing (learn), Social & Volunteering (event), Education & Study (learning)","Education & Study (learning), Reading & Writing (learn), Social & Volunteering (event)"
+984,Playing volleyball ,playing volleyball,Sports (volley),Sports (volley)
+985,Fitness and Driving,fitness and driving,"Travel & Adventure (driving), Fitness & Gym (fitness)","Fitness & Gym (fitness), Travel & Adventure (driving)"
+986,Travelling ,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+987,Book reading and Crafting,book reading and crafting,"Arts & Crafts (craft), Reading & Writing (read)","Arts & Crafts (craft), Reading & Writing (read)"
+988,I love playing chess,i love playing chess,Sports (chess),Sports (chess)
+989,Like to travel and making creative things ,like to travel and making creative things,Travel & Adventure (travel),Travel & Adventure (travel)
+990,Reading learning new thingssite work playing kabbadi,reading learning new thingssite work playing kabbadi,"Sports (kabbadi), Reading & Writing (read), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (read), Sports (kabbadi)"
+991,New Innovative Entrepreneurship Research ,new innovative entrepreneurship research,"Design (new), Business & Finance (entrepreneurship), Education & Study (research)","Business & Finance (entrepreneurship), Design (new), Education & Study (research)"
+992,Data Analytics ,data analytics,Education & Study (data analytics),Education & Study (data analytics)
+993,Sports ,sports,Sports (sport),Sports (sport)
+994,Travelling & Playing Games ,travelling   playing games,"Travel & Adventure (travel), Gaming (game)","Gaming (game), Travel & Adventure (travel)"
+995,Swimming chess travelling ,swimming chess travelling,"Sports (chess), Travel & Adventure (travel)","Sports (chess), Travel & Adventure (travel)"
+996,Listening,listening,Mind & Wellness (listening),Mind & Wellness (listening)
+997,Drawing painting ,drawing painting,Arts & Crafts (drawing),Arts & Crafts (drawing)
+998,Design field ,design field,Design (design),Design (design)
+999,Paintings  designing and organizing home  interest in trying new things,paintings  designing and organizing home  interest in trying new things,"Arts & Crafts (painting), Design (design)","Arts & Crafts (painting), Design (design)"
+1000,Sketching painting reading learning new skills makes mi excited ,sketching painting reading learning new skills makes mi excited,"Arts & Crafts (painting), Reading & Writing (read), Design (new), Education & Study (learning)","Arts & Crafts (painting), Design (new), Education & Study (learning), Reading & Writing (read)"
+1001,Reading carrier oriented Books and businessmen biography ,reading carrier oriented books and businessmen biography,"Reading & Writing (read), Business & Finance (business), Automotive & Racing (car)","Automotive & Racing (car), Business & Finance (business), Reading & Writing (read)"
+1002,Painting dancing ,painting dancing,"Arts & Crafts (painting), Music & Dance (dancing)","Arts & Crafts (painting), Music & Dance (dancing)"
+1003,Music ,music,Music & Dance (music),Music & Dance (music)
+1004,Reading driving ,reading driving,"Reading & Writing (read), Travel & Adventure (driving)","Reading & Writing (read), Travel & Adventure (driving)"
+1005,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+1006,Playing chess  listening music travelling ,playing chess  listening music travelling,"Sports (chess), Music & Dance (music), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Sports (chess), Travel & Adventure (travel)"
+1007,Watching TV Reading news paper,watching tv reading news paper,"Reading & Writing (read), Design (new), Entertainment (tv)","Design (new), Entertainment (tv), Reading & Writing (read)"
+1008,Traveling songs listening ,traveling songs listening,"Music & Dance (song), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song), Travel & Adventure (travel)"
+1009,Graphic design  video editing Ms office works,graphic design  video editing ms office works,Design (design),Design (design)
+1010, sports and courses,sports and courses,Sports (sport),Sports (sport)
+1011,Cricketchess reading books.,cricketchess reading books,"Sports (chess), Reading & Writing (read)","Reading & Writing (read), Sports (chess)"
+1012,Trading and investing. And reading self help books GK and biographies etc. Playing football. ,trading and investing  and reading self help books gk and biographies etc  playing football,"Sports (football), Reading & Writing (read), Business & Finance (trading)","Business & Finance (trading), Reading & Writing (read), Sports (football)"
+1013,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+1014,Listing song ,listing song,Music & Dance (song),Music & Dance (song)
+1015,Cricket  football  coding and reading ,cricket  football  coding and reading,"Sports (cricket), Reading & Writing (read), Technology & Coding (coding)","Reading & Writing (read), Sports (cricket), Technology & Coding (coding)"
+1016,Playing chess ,playing chess,Sports (chess),Sports (chess)
+1017,Listening Song,listening song,"Music & Dance (song), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song)"
+1018,Designcoding,designcoding,"Technology & Coding (coding), Design (design)","Design (design), Technology & Coding (coding)"
+1019,I am part time cricketer for club ,i am part time cricketer for club,"Sports (cricket), Arts & Crafts (art)","Arts & Crafts (art), Sports (cricket)"
+1020,Reading novels books playing game,reading novels books playing game,"Reading & Writing (read), Gaming (game)","Gaming (game), Reading & Writing (read)"
+1021,Reading a book sleeping and dancing ,reading a book sleeping and dancing,"Music & Dance (dancing), Reading & Writing (read), Mind & Wellness (sleep)","Mind & Wellness (sleep), Music & Dance (dancing), Reading & Writing (read)"
+1022,Book reading ,book reading,Reading & Writing (read),Reading & Writing (read)
+1023,I like to read books ,i like to read books,Reading & Writing (read),Reading & Writing (read)
+1024,Exploring new places ,exploring new places,"Travel & Adventure (exploring), Design (new)","Design (new), Travel & Adventure (exploring)"
+1025,Cricket,cricket,Sports (cricket),Sports (cricket)
+1026,Reading books and playing outdoor sports,reading books and playing outdoor sports,"Sports (sport), Reading & Writing (read)","Reading & Writing (read), Sports (sport)"
+1027,Reading Checking out new devices,reading checking out new devices,"Reading & Writing (read), Design (new)","Design (new), Reading & Writing (read)"
+1028,Cricket,cricket,Sports (cricket),Sports (cricket)
+1029,Playing Cricket ðŸ,playing cricket ðÿ,Sports (cricket),Sports (cricket)
+1030,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+1031,Traveling and Driving,traveling and driving,Travel & Adventure (travel),Travel & Adventure (travel)
+1032,Painting and travel ðŸ§³,painting and travel ðÿ ³,"Arts & Crafts (painting), Travel & Adventure (travel)","Arts & Crafts (painting), Travel & Adventure (travel)"
+1033,Games ,games,Gaming (game),Gaming (game)
+1034,Singing dancing ,singing dancing,Music & Dance (singing),Music & Dance (singing)
+1035,Art & Craft,art   craft,Arts & Crafts (craft),Arts & Crafts (craft)
+1036,Physical activities like sports (basketball soccer baseball) outdoor adventures (hiking camping fishing) creative pursuits (drawing painting playing a musical instrument) building and collecting (model cars Lego) gaming (video games board games) martial arts coding photography cooking and even gardening depending on their interests and age. ,physical activities like sports  basketball soccer baseball  outdoor adventures  hiking camping fishing  creative pursuits  drawing painting playing a musical instrument  building and collecting  model cars lego  gaming  video games board games  martial arts coding photography cooking and even gardening depending on their interests and age,"Sports (soccer), Arts & Crafts (drawing), Music & Dance (music), Travel & Adventure (hiking), Cooking & Baking (cook), Technology & Coding (coding), Gaming (game), Design (photography), Automotive & Racing (car), Gardening (gardening)","Arts & Crafts (drawing), Automotive & Racing (car), Cooking & Baking (cook), Design (photography), Gaming (game), Gardening (gardening), Music & Dance (music), Sports (soccer), Technology & Coding (coding), Travel & Adventure (hiking)"
+1037,Reading books and government exams ,reading books and government exams,Reading & Writing (read),Reading & Writing (read)
+1038,Gaming,gaming,Gaming (gaming),Gaming (gaming)
+1039,Reading Danching Travelling etc.,reading danching travelling etc,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+1040,Cricket ,cricket,Sports (cricket),Sports (cricket)
+1041,Study ,study,Education & Study (study),Education & Study (study)
+1042,Reading Dancing Error solving ,reading dancing error solving,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+1043,Trekking & Sports,trekking   sports,"Sports (sport), Travel & Adventure (trek)","Sports (sport), Travel & Adventure (trek)"
+1044,Watching cricket and playing cricket Listening Music ,watching cricket and playing cricket listening music,"Sports (cricket), Music & Dance (music), Entertainment (watching), Mind & Wellness (listening)","Entertainment (watching), Mind & Wellness (listening), Music & Dance (music), Sports (cricket)"
+1045,Tracking watching phone and TV,tracking watching phone and tv,"Travel & Adventure (tracking), Entertainment (tv)","Entertainment (tv), Travel & Adventure (tracking)"
+1046,Singing and dancing ,singing and dancing,Music & Dance (singing),Music & Dance (singing)
+1047,drawing,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+1048,Love cooking ,love cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+1049,yoga and meditation ,yoga and meditation,Mind & Wellness (meditation),Mind & Wellness (meditation)
+1050,Playing cricket kabbadi ,playing cricket kabbadi,Sports (cricket),Sports (cricket)
+1051,Travelling sketching ,travelling sketching,"Arts & Crafts (sketching), Travel & Adventure (travel)","Arts & Crafts (sketching), Travel & Adventure (travel)"
+1052,Dancing and cooking ,dancing and cooking,"Music & Dance (dancing), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (dancing)"
+1053,Playing Basketball ,playing basketball,Sports (basketball),Sports (basketball)
+1054,Cricket ,cricket,Sports (cricket),Sports (cricket)
+1055,Singing Reading,singing reading,"Music & Dance (singing), Reading & Writing (read)","Music & Dance (singing), Reading & Writing (read)"
+1056,Coding ,coding,Technology & Coding (coding),Technology & Coding (coding)
+1057,Cricket ,cricket,Sports (cricket),Sports (cricket)
+1058,Armed Forces but some reason I'm not allowed in armed forces. ,armed forces but some reason i m not allowed in armed forces,Fitness & Gym (forces),Fitness & Gym (forces)
+1059,Playing outdoor games and coding,playing outdoor games and coding,"Technology & Coding (coding), Gaming (game)","Gaming (game), Technology & Coding (coding)"
+1060,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+1061,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+1062,Swimming ,swimming,Sports (swim),Sports (swim)
+1063,My hobbies are to ride on bikes watching you tube I have interest in helping people and also sometimes in earning new things..,my hobbies are to ride on bikes watching you tube i have interest in helping people and also sometimes in earning new things,"Design (new), Entertainment (watching), Automotive & Racing (bike)","Automotive & Racing (bike), Design (new), Entertainment (watching)"
+1064,Coding ,coding,Technology & Coding (coding),Technology & Coding (coding)
+1065,Cooking ,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+1066,Movie swimming dancing,movie swimming dancing,"Sports (swim), Music & Dance (dancing), Entertainment (movie)","Entertainment (movie), Music & Dance (dancing), Sports (swim)"
+1067,For many activities which is homeless ,for many activities which is homeless,Mind & Wellness (homeless),Mind & Wellness (homeless)
+1068,Sports,sports,Sports (sport),Sports (sport)
+1069,Playing games,playing games,Gaming (game),Gaming (game)
+1070,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+1071,Listening music drawingsurfing internet. ,listening music drawingsurfing internet,"Arts & Crafts (drawing), Music & Dance (music), Mind & Wellness (listening)","Arts & Crafts (drawing), Mind & Wellness (listening), Music & Dance (music)"
+1072,Drawing bakingcooking rangoli making etc,drawing bakingcooking rangoli making etc,"Arts & Crafts (drawing), Cooking & Baking (cook)","Arts & Crafts (drawing), Cooking & Baking (cook)"
+1073,Workout ,workout,Fitness & Gym (workout),Fitness & Gym (workout)
+1074,SPORTS ,sports,Sports (sport),Sports (sport)
+1075,Learning new things ,learning new things,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+1076,Wicket keeper ,wicket keeper,Sports (wicket),Sports (wicket)
+1077,foot ball ,foot ball,Sports (foot ball),Sports (foot ball)
+1078,-,,,None (explicit none match)
+1079,Driving ,driving,Travel & Adventure (driving),Travel & Adventure (driving)
+1080,Sleeping ,sleeping,Mind & Wellness (sleep),Mind & Wellness (sleep)
+1081,Cricket,cricket,Sports (cricket),Sports (cricket)
+1082,.,,,None (explicit none match)
+1083,Riding bike,riding bike,Automotive & Racing (bike),Automotive & Racing (bike)
+1084,Motorsports,motorsports,Sports (sport),Sports (sport)
+1085,Reading watching movies photography trying different foods items.,reading watching movies photography trying different foods items,"Reading & Writing (read), Cooking & Baking (food), Design (photography), Entertainment (movie)","Cooking & Baking (food), Design (photography), Entertainment (movie), Reading & Writing (read)"
+1086,Traveling and sports ,traveling and sports,"Sports (sport), Travel & Adventure (travel)","Sports (sport), Travel & Adventure (travel)"
+1087,Interest in vehicles design & manufacturing ,interest in vehicles design   manufacturing,Design (design),Design (design)
+1088,Watching Movie ,watching movie,Entertainment (movie),Entertainment (movie)
+1089,Dancing and drawing ,dancing and drawing,"Arts & Crafts (drawing), Music & Dance (dancing)","Arts & Crafts (drawing), Music & Dance (dancing)"
+1090,Good interactioncommunication cricket ,good interactioncommunication cricket,Sports (cricket),Sports (cricket)
+1091,air rifle shooting ,air rifle shooting,Sports (shooting),Sports (shooting)
+1092,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+1093,Playing volleyball ,playing volleyball,Sports (volley),Sports (volley)
+1094,Reading listening music dancing art and craft,reading listening music dancing art and craft,"Arts & Crafts (craft), Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Arts & Crafts (craft), Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read)"
+1095,Painting and photography ,painting and photography,"Arts & Crafts (painting), Design (photography)","Arts & Crafts (painting), Design (photography)"
+1096,Exercise ,exercise,Fitness & Gym (exercise),Fitness & Gym (exercise)
+1097,Animation,animation,Design (animation),Design (animation)
+1098,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+1099,Cricket and games ,cricket and games,"Sports (cricket), Gaming (game)","Gaming (game), Sports (cricket)"
+1100,Coding tech field dance cricket tennis interest in buisness and finance ,coding tech field dance cricket tennis interest in buisness and finance,"Sports (cricket), Music & Dance (dance), Technology & Coding (coding), Business & Finance (finance)","Business & Finance (finance), Music & Dance (dance), Sports (cricket), Technology & Coding (coding)"
+1101,Playing Games ,playing games,Gaming (game),Gaming (game)
+1102,Playing cricket and baseball,playing cricket and baseball,Sports (cricket),Sports (cricket)
+1103,Learning new things ,learning new things,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+1104,Reading novels webnovels fiction and non fiction gaming chess,reading novels webnovels fiction and non fiction gaming chess,"Sports (chess), Reading & Writing (read), Gaming (gaming)","Gaming (gaming), Reading & Writing (read), Sports (chess)"
+1105,Singing dancing,singing dancing,Music & Dance (singing),Music & Dance (singing)
+1106,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+1107,My hobbies is mehandi rangoli sports and dance,my hobbies is mehandi rangoli sports and dance,"Sports (sport), Music & Dance (dance)","Music & Dance (dance), Sports (sport)"
+1108,Drawing and designing,drawing and designing,"Arts & Crafts (drawing), Design (design)","Arts & Crafts (drawing), Design (design)"
+1109,Join the MNC,join the mnc,Business & Finance (mnc),Business & Finance (mnc)
+1110,playing games reading crafting new things,playing games reading crafting new things,"Arts & Crafts (craft), Reading & Writing (read), Gaming (game), Design (new)","Arts & Crafts (craft), Design (new), Gaming (game), Reading & Writing (read)"
+1111,Painting and crafting,painting and crafting,Arts & Crafts (painting),Arts & Crafts (painting)
+1112,Sports game ,sports game,"Sports (sport), Gaming (game)","Gaming (game), Sports (sport)"
+1113,Playing cricketusing net browsing etc,playing cricketusing net browsing etc,Sports (cricket),Sports (cricket)
+1114,Outing dancing etc,outing dancing etc,Music & Dance (dancing),Music & Dance (dancing)
+1115,Listening to songs gym workout exploring nature etc.,listening to songs gym workout exploring nature etc,"Music & Dance (song), Travel & Adventure (exploring), Fitness & Gym (gym), Mind & Wellness (listening)","Fitness & Gym (gym), Mind & Wellness (listening), Music & Dance (song), Travel & Adventure (exploring)"
+1116,Reading fantasy books as well as biographies,reading fantasy books as well as biographies,Reading & Writing (read),Reading & Writing (read)
+1117,Don't know ,don t know,,None (no matches)
+1118,Sketching travelling,sketching travelling,"Arts & Crafts (sketching), Travel & Adventure (travel)","Arts & Crafts (sketching), Travel & Adventure (travel)"
+1119,Watching movies ,watching movies,Entertainment (movie),Entertainment (movie)
+1120,Creativity ,creativity,Arts & Crafts (creativity),Arts & Crafts (creativity)
+1121,Learn new language ,learn new language,"Reading & Writing (learn), Design (new), Education & Study (language)","Design (new), Education & Study (language), Reading & Writing (learn)"
+1122,Karate and listening music ,karate and listening music,"Sports (karate), Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Sports (karate)"
+1123,Coding & Programming â€“ Building projects solving coding challenges or exploring new languages.,coding   programming â   building projects solving coding challenges or exploring new languages,"Travel & Adventure (exploring), Technology & Coding (coding), Design (new), Business & Finance (project), Education & Study (language)","Business & Finance (project), Design (new), Education & Study (language), Technology & Coding (coding), Travel & Adventure (exploring)"
+1124,Exploring new things ,exploring new things,"Travel & Adventure (exploring), Design (new)","Design (new), Travel & Adventure (exploring)"
+1125,Data analytics playing team games ,data analytics playing team games,"Gaming (game), Education & Study (data analytics)","Education & Study (data analytics), Gaming (game)"
+1126,Playing cricket  mobile & computer games ,playing cricket  mobile   computer games,"Sports (cricket), Technology & Coding (computer), Gaming (game)","Gaming (game), Sports (cricket), Technology & Coding (computer)"
+1127,Watching movies ,watching movies,Entertainment (movie),Entertainment (movie)
+1128,Writing listening songs gaming ,writing listening songs gaming,"Music & Dance (song), Reading & Writing (writing), Gaming (gaming), Mind & Wellness (listening)","Gaming (gaming), Mind & Wellness (listening), Music & Dance (song), Reading & Writing (writing)"
+1129,Listening music coding online games,listening music coding online games,"Music & Dance (music), Technology & Coding (coding), Gaming (game), Mind & Wellness (listening)","Gaming (game), Mind & Wellness (listening), Music & Dance (music), Technology & Coding (coding)"
+1130,Gaming Cricket football  Spending time with friends and family ,gaming cricket football  spending time with friends and family,"Sports (cricket), Gaming (gaming), Mind & Wellness (family)","Gaming (gaming), Mind & Wellness (family), Sports (cricket)"
+1131,Dancing ,dancing,Music & Dance (dancing),Music & Dance (dancing)
+1132,Reading a books ,reading a books,Reading & Writing (read),Reading & Writing (read)
+1133,Reading books  ,reading books,Reading & Writing (read),Reading & Writing (read)
+1134,To watch funny videos ,to watch funny videos,Entertainment (watch),Entertainment (watch)
+1135,Dancingcooking ,dancingcooking,"Music & Dance (dancing), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (dancing)"
+1136,Drawing,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+1137,Making reels photoholic,making reels photoholic,Entertainment (reels),Entertainment (reels)
+1138,Photography Editing Traveling,photography editing traveling,"Travel & Adventure (travel), Design (photography)","Design (photography), Travel & Adventure (travel)"
+1139,Dancing and playing ,dancing and playing,Music & Dance (dancing),Music & Dance (dancing)
+1140,Riding Horses ,riding horses,Automotive & Racing (riding),Automotive & Racing (riding)
+1141,Listening Music Travelling ,listening music travelling,"Music & Dance (music), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (travel)"
+1142,Listening music watching series/YouTube ,listening music watching series youtube,"Music & Dance (music), Entertainment (youtube), Mind & Wellness (listening)","Entertainment (youtube), Mind & Wellness (listening), Music & Dance (music)"
+1143,Innovative new ideas into projects and gaming in free time,innovative new ideas into projects and gaming in free time,"Gaming (gaming), Design (new), Business & Finance (project)","Business & Finance (project), Design (new), Gaming (gaming)"
+1144,I like reading drawing,i like reading drawing,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+1145,Drawing Digital Illustration 2D Animation,drawing digital illustration 2d animation,"Arts & Crafts (drawing), Design (illustration)","Arts & Crafts (drawing), Design (illustration)"
+1146,Drivingreading ,drivingreading,"Reading & Writing (read), Travel & Adventure (driving)","Reading & Writing (read), Travel & Adventure (driving)"
+1147,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+1148,Reading travel,reading travel,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+1149,Reading  watching serial ,reading  watching serial,"Reading & Writing (read), Entertainment (watching)","Entertainment (watching), Reading & Writing (read)"
+1150,Sports,sports,Sports (sport),Sports (sport)
+1151,Woking Hard Playing Cricket ,woking hard playing cricket,Sports (cricket),Sports (cricket)
+1152,Writing Reading,writing reading,Reading & Writing (read),Reading & Writing (read)
+1153,Read novel and books,read novel and books,Reading & Writing (read),Reading & Writing (read)
+1154,Reading,reading,Reading & Writing (read),Reading & Writing (read)
+1155,Trekking ,trekking,Travel & Adventure (trek),Travel & Adventure (trek)
+1156,Make a Best Software engineer,make a best software engineer,Technology & Coding (software),Technology & Coding (software)
+1157,Writing Listening Music Cooking ,writing listening music cooking,"Music & Dance (music), Reading & Writing (writing), Cooking & Baking (cook), Mind & Wellness (listening)","Cooking & Baking (cook), Mind & Wellness (listening), Music & Dance (music), Reading & Writing (writing)"
+1158,Reading cooking ,reading cooking,"Reading & Writing (read), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read)"
+1159,Playing cricket trekking ,playing cricket trekking,"Sports (cricket), Travel & Adventure (trek)","Sports (cricket), Travel & Adventure (trek)"
+1160,Traveling Listening Music ,traveling listening music,"Music & Dance (music), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (travel)"
+1161,Traveling ,traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+1162,Playing any sports ,playing any sports,Sports (sport),Sports (sport)
+1163,Dancingplaying ,dancingplaying,Music & Dance (dancing),Music & Dance (dancing)
+1164,Cricket,cricket,Sports (cricket),Sports (cricket)
+1165,Dancing and reading ,dancing and reading,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+1166,Cricket travelling kabaddi listening music etc.,cricket travelling kabaddi listening music etc,"Sports (cricket), Music & Dance (music), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Sports (cricket), Travel & Adventure (travel)"
+1167,Reading and drawing ,reading and drawing,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+1168,Business ,business,Business & Finance (business),Business & Finance (business)
+1169,Cycling listen music,cycling listen music,Music & Dance (music),Music & Dance (music)
+1170,Waching novel ,waching novel,Reading & Writing (novel),Reading & Writing (novel)
+1171,Love to express thoughts by writing Singing ,love to express thoughts by writing singing,"Music & Dance (singing), Reading & Writing (writing)","Music & Dance (singing), Reading & Writing (writing)"
+1172,Swimming watching movies Coding ,swimming watching movies coding,"Sports (swim), Technology & Coding (coding), Entertainment (movie)","Entertainment (movie), Sports (swim), Technology & Coding (coding)"
+1173,Interest is learning new things ,interest is learning new things,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+1174,Solo Traveling,solo traveling,Travel & Adventure (travel),Travel & Adventure (travel)
+1175,Sports dancing  bike riding and tracking ,sports dancing  bike riding and tracking,"Sports (sport), Music & Dance (dancing), Travel & Adventure (tracking), Automotive & Racing (bike)","Automotive & Racing (bike), Music & Dance (dancing), Sports (sport), Travel & Adventure (tracking)"
+1176,reading books and watching thriller movies and cricket,reading books and watching thriller movies and cricket,"Sports (cricket), Reading & Writing (read), Entertainment (movie)","Entertainment (movie), Reading & Writing (read), Sports (cricket)"
+1177,Reading novels,reading novels,Reading & Writing (read),Reading & Writing (read)
+1178,To being an Cricketer ,to being an cricketer,Sports (cricket),Sports (cricket)
+1179,Gym Trekking Discussion on politics and world affairs Technology farming,gym trekking discussion on politics and world affairs technology farming,"Travel & Adventure (trek), Technology & Coding (tech), Fitness & Gym (gym)","Fitness & Gym (gym), Technology & Coding (tech), Travel & Adventure (trek)"
+1180,Walking,walking,Fitness & Gym (walking),Fitness & Gym (walking)
+1181,NA,na,,None (explicit none match)
+1182,Reading books and exploring the new things ,reading books and exploring the new things,"Reading & Writing (read), Travel & Adventure (exploring), Design (new)","Design (new), Reading & Writing (read), Travel & Adventure (exploring)"
+1183,Making designs Drawing dancing reading travelling cooking,making designs drawing dancing reading travelling cooking,"Arts & Crafts (drawing), Music & Dance (dancing), Reading & Writing (read), Travel & Adventure (travel), Cooking & Baking (cook), Design (design)","Arts & Crafts (drawing), Cooking & Baking (cook), Design (design), Music & Dance (dancing), Reading & Writing (read), Travel & Adventure (travel)"
+1184,Singing Coding ,singing coding,"Music & Dance (singing), Technology & Coding (coding)","Music & Dance (singing), Technology & Coding (coding)"
+1185,Learning new things playing an harmonium reading books  teamwork ,learning new things playing an harmonium reading books  teamwork,"Music & Dance (harmonium), Reading & Writing (read), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Music & Dance (harmonium), Reading & Writing (read)"
+1186,Drawing playing cricket listening songs,drawing playing cricket listening songs,"Sports (cricket), Arts & Crafts (drawing), Music & Dance (song), Mind & Wellness (listening)","Arts & Crafts (drawing), Mind & Wellness (listening), Music & Dance (song), Sports (cricket)"
+1187,My hobbies are watching movies/webseries playing cricket travelling tracking ,my hobbies are watching movies webseries playing cricket travelling tracking,"Sports (cricket), Travel & Adventure (travel), Entertainment (movie)","Entertainment (movie), Sports (cricket), Travel & Adventure (travel)"
+1188,Cricket and road trip ,cricket and road trip,"Sports (cricket), Travel & Adventure (road trip)","Sports (cricket), Travel & Adventure (road trip)"
+1189,Dancing playing Drawing ,dancing playing drawing,"Arts & Crafts (drawing), Music & Dance (dancing)","Arts & Crafts (drawing), Music & Dance (dancing)"
+1190,Dancing and Learning ,dancing and learning,"Music & Dance (dancing), Reading & Writing (learn), Education & Study (learning)","Education & Study (learning), Music & Dance (dancing), Reading & Writing (learn)"
+1191,Imagination dancing writing interest in software testing IT or non IT,imagination dancing writing interest in software testing it or non it,"Music & Dance (dancing), Reading & Writing (writing), Technology & Coding (software)","Music & Dance (dancing), Reading & Writing (writing), Technology & Coding (software)"
+1192,Listening music ,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+1193,Playing cricketvollyball,playing cricketvollyball,"Sports (cricket), Entertainment (tv)","Entertainment (tv), Sports (cricket)"
+1194,Reading,reading,Reading & Writing (read),Reading & Writing (read)
+1195,Sports General knowledge question solving,sports general knowledge question solving,"Sports (sport), Education & Study (knowledge)","Education & Study (knowledge), Sports (sport)"
+1196,Singing,singing,Music & Dance (singing),Music & Dance (singing)
+1197,Drawing playing sports ,drawing playing sports,"Sports (sport), Arts & Crafts (drawing)","Arts & Crafts (drawing), Sports (sport)"
+1198,Singing,singing,Music & Dance (singing),Music & Dance (singing)
+1199,Playing a Cricket Making interesting new thing or projects,playing a cricket making interesting new thing or projects,"Sports (cricket), Design (new), Business & Finance (project)","Business & Finance (project), Design (new), Sports (cricket)"
+1200,Dancing,dancing,Music & Dance (dancing),Music & Dance (dancing)
+1201,Learning New skills ,learning new skills,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+1202,Work-out ,work out,Fitness & Gym (work out),Fitness & Gym (work out)
+1203,Nothing ,nothing,,None (explicit none match)
+1204,Reading writing coding etc,reading writing coding etc,"Reading & Writing (read), Technology & Coding (coding)","Reading & Writing (read), Technology & Coding (coding)"
+1205,Video Editing Coding Cricket Volleyball Etc.,video editing coding cricket volleyball etc,"Sports (cricket), Technology & Coding (coding), Design (video editing)","Design (video editing), Sports (cricket), Technology & Coding (coding)"
+1206,Playing outdoor games web development ,playing outdoor games web development,"Technology & Coding (web development), Gaming (game)","Gaming (game), Technology & Coding (web development)"
+1207,Writing singingsolve problems ,writing singingsolve problems,"Music & Dance (singing), Reading & Writing (writing)","Music & Dance (singing), Reading & Writing (writing)"
+1208,Islamic studies ,islamic studies,Education & Study (studies),Education & Study (studies)
+1209,Gym ,gym,Fitness & Gym (gym),Fitness & Gym (gym)
+1210,Sleeping ,sleeping,Mind & Wellness (sleep),Mind & Wellness (sleep)
+1211,Singing dancing playing sports,singing dancing playing sports,"Sports (sport), Music & Dance (singing)","Music & Dance (singing), Sports (sport)"
+1212,Learning new technology playing badminton,learning new technology playing badminton,"Sports (badminton), Reading & Writing (learn), Technology & Coding (tech), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn), Sports (badminton), Technology & Coding (tech)"
+1213,Watching and playing sportswatching movies and web series,watching and playing sportswatching movies and web series,"Sports (sport), Entertainment (movie)","Entertainment (movie), Sports (sport)"
+1214,I like to binge watch movies ,i like to binge watch movies,Entertainment (movie),Entertainment (movie)
+1215,Tennis Reading ,tennis reading,"Sports (tennis), Reading & Writing (read)","Reading & Writing (read), Sports (tennis)"
+1216,Cyclinggym,cyclinggym,Fitness & Gym (gym),Fitness & Gym (gym)
+1217,Still figuring out,still figuring out,,None (no matches)
+1218,Playing E-Games Gym ,playing e games gym,"Gaming (game), Fitness & Gym (gym)","Fitness & Gym (gym), Gaming (game)"
+1219,Playing chess problem solving,playing chess problem solving,"Sports (chess), Puzzles (problem solving)","Puzzles (problem solving), Sports (chess)"
+1220,Playing football chess swimming mind related games and also listening to music ,playing football chess swimming mind related games and also listening to music,"Sports (chess), Music & Dance (music), Gaming (game), Mind & Wellness (listening)","Gaming (game), Mind & Wellness (listening), Music & Dance (music), Sports (chess)"
+1221,PaintingReading,paintingreading,"Arts & Crafts (painting), Reading & Writing (read)","Arts & Crafts (painting), Reading & Writing (read)"
+1222,Reading History Geography Geo Political ,reading history geography geo political,Reading & Writing (read),Reading & Writing (read)
+1223,Cooking and listening to music ,cooking and listening to music,"Music & Dance (music), Cooking & Baking (cook), Mind & Wellness (listening)","Cooking & Baking (cook), Mind & Wellness (listening), Music & Dance (music)"
+1224,Drawing Mandalas listening to music watching movies and web series playing any sport in general ,drawing mandalas listening to music watching movies and web series playing any sport in general,"Sports (sport), Arts & Crafts (drawing), Music & Dance (music), Entertainment (movie), Mind & Wellness (listening)","Arts & Crafts (drawing), Entertainment (movie), Mind & Wellness (listening), Music & Dance (music), Sports (sport)"
+1225,Listening songs,listening songs,"Music & Dance (song), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (song)"
+1226,Hobbies is to play musical instruments and interest is in aws cloud,hobbies is to play musical instruments and interest is in aws cloud,Music & Dance (music),Music & Dance (music)
+1227,Playing ,playing,Sports (playing fallback),Sports (playing fallback)
+1228,Learning new things ,learning new things,"Reading & Writing (learn), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Reading & Writing (learn)"
+1229,Playing Football,playing football,Sports (football),Sports (football)
+1230,Basketball non-fictional reading ,basketball non fictional reading,"Sports (basketball), Reading & Writing (read)","Reading & Writing (read), Sports (basketball)"
+1231,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+1232,Playing cricket and watching podcasts.,playing cricket and watching podcasts,"Sports (cricket), Entertainment (watching)","Entertainment (watching), Sports (cricket)"
+1233,Reading Gaming Graphic Designing,reading gaming graphic designing,"Reading & Writing (read), Gaming (gaming), Design (design)","Design (design), Gaming (gaming), Reading & Writing (read)"
+1234,Sports ,sports,Sports (sport),Sports (sport)
+1235,Listening to music singingtrekking playing cricketetc,listening to music singingtrekking playing cricketetc,"Sports (cricket), Music & Dance (music), Travel & Adventure (trek), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Sports (cricket), Travel & Adventure (trek)"
+1236,Art,art,Arts & Crafts (art),Arts & Crafts (art)
+1237,Singing reading dancing,singing reading dancing,"Music & Dance (singing), Reading & Writing (read)","Music & Dance (singing), Reading & Writing (read)"
+1238,Badminton and Exercise and Listening to Music ,badminton and exercise and listening to music,"Sports (badminton), Music & Dance (music), Fitness & Gym (exercise), Mind & Wellness (listening)","Fitness & Gym (exercise), Mind & Wellness (listening), Music & Dance (music), Sports (badminton)"
+1239,Meditation ,meditation,Mind & Wellness (meditation),Mind & Wellness (meditation)
+1240,Don't know ,don t know,,None (no matches)
+1241,Social work,social work,Social & Volunteering (social),Social & Volunteering (social)
+1242,Listening songsGym,listening songsgym,"Music & Dance (song), Fitness & Gym (gym), Mind & Wellness (listening)","Fitness & Gym (gym), Mind & Wellness (listening), Music & Dance (song)"
+1243,READING BOOKS AND DRAWING,reading books and drawing,"Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read)"
+1244,Badminton carrom and music,badminton carrom and music,"Sports (badminton), Music & Dance (music), Automotive & Racing (car)","Automotive & Racing (car), Music & Dance (music), Sports (badminton)"
+1245,No,no,,None (explicit none match)
+1246,Chilling ,chilling,Mind & Wellness (chilling),Mind & Wellness (chilling)
+1247,Kabaddi Dance  Travelling ,kabaddi dance  travelling,"Sports (kabaddi), Music & Dance (dance), Travel & Adventure (travel)","Music & Dance (dance), Sports (kabaddi), Travel & Adventure (travel)"
+1248,Sports ,sports,Sports (sport),Sports (sport)
+1249,Cricket singing travelling ,cricket singing travelling,"Sports (cricket), Music & Dance (singing), Travel & Adventure (travel)","Music & Dance (singing), Sports (cricket), Travel & Adventure (travel)"
+1250,SPORTS,sports,Sports (sport),Sports (sport)
+1251,listening music watching movies talk to parent and friend ,listening music watching movies talk to parent and friend,"Music & Dance (music), Entertainment (movie), Mind & Wellness (listening)","Entertainment (movie), Mind & Wellness (listening), Music & Dance (music)"
+1252,READING BOOKS GARDENING CINEMATOGRAPHYPAINTING.,reading books gardening cinematographypainting,"Arts & Crafts (painting), Reading & Writing (read), Entertainment (cinema), Gardening (gardening)","Arts & Crafts (painting), Entertainment (cinema), Gardening (gardening), Reading & Writing (read)"
+1253,Dramatics,dramatics,Entertainment (dramatics),Entertainment (dramatics)
+1254,Basketball ,basketball,Sports (basketball),Sports (basketball)
+1255,Watching listening music,watching listening music,"Music & Dance (music), Entertainment (watching), Mind & Wellness (listening)","Entertainment (watching), Mind & Wellness (listening), Music & Dance (music)"
+1256,Reading story books ,reading story books,Reading & Writing (read),Reading & Writing (read)
+1257,Movies,movies,Entertainment (movie),Entertainment (movie)
+1258,Designing templates UI using figma and Canva sketchingdoodle art ,designing templates ui using figma and canva sketchingdoodle art,"Arts & Crafts (sketching), Design (design)","Arts & Crafts (sketching), Design (design)"
+1259,Watching a movie,watching a movie,Entertainment (movie),Entertainment (movie)
+1260,BASKETBALL WATCHING REELS AND YOUTUBE,basketball watching reels and youtube,"Sports (basketball), Entertainment (youtube)","Entertainment (youtube), Sports (basketball)"
+1261,Sports eSports ,sports esports,"Sports (sport), Gaming (esports)","Gaming (esports), Sports (sport)"
+1262,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+1263,Drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+1264,Gardening ,gardening,Gardening (gardening),Gardening (gardening)
+1265,Drawing reading travelling ,drawing reading travelling,"Arts & Crafts (drawing), Reading & Writing (read), Travel & Adventure (travel)","Arts & Crafts (drawing), Reading & Writing (read), Travel & Adventure (travel)"
+1266,Crying,crying,Mind & Wellness (crying),Mind & Wellness (crying)
+1267,reading Books,reading books,Reading & Writing (read),Reading & Writing (read)
+1268,Playing Sports drawing reading ,playing sports drawing reading,"Sports (sport), Arts & Crafts (drawing), Reading & Writing (read)","Arts & Crafts (drawing), Reading & Writing (read), Sports (sport)"
+1269,art and craft sports reading ,art and craft sports reading,"Sports (sport), Arts & Crafts (craft), Reading & Writing (read)","Arts & Crafts (craft), Reading & Writing (read), Sports (sport)"
+1270,gym,gym,Fitness & Gym (gym),Fitness & Gym (gym)
+1271,Playing badminton listening music  walking ,playing badminton listening music  walking,"Sports (badminton), Music & Dance (music), Fitness & Gym (walking), Mind & Wellness (listening)","Fitness & Gym (walking), Mind & Wellness (listening), Music & Dance (music), Sports (badminton)"
+1272,Watching and playing cricket,watching and playing cricket,"Sports (cricket), Entertainment (watching)","Entertainment (watching), Sports (cricket)"
+1273,Cricket editing ,cricket editing,Sports (cricket),Sports (cricket)
+1274,Theatre scripting,theatre scripting,Reading & Writing (script),Reading & Writing (script)
+1275,Money making ,money making,Business & Finance (money making),Business & Finance (money making)
+1276,drawing ,drawing,Arts & Crafts (drawing),Arts & Crafts (drawing)
+1277,Coding ,coding,Technology & Coding (coding),Technology & Coding (coding)
+1278,Cooking and dancing,cooking and dancing,"Music & Dance (dancing), Cooking & Baking (cook)","Cooking & Baking (cook), Music & Dance (dancing)"
+1279,Basketball and watching F1,basketball and watching f1,"Sports (basketball), Entertainment (watching)","Entertainment (watching), Sports (basketball)"
+1280,Basketball ,basketball,Sports (basketball),Sports (basketball)
+1281,Listening music,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+1282,Cooking playing kabadi ,cooking playing kabadi,Cooking & Baking (cook),Cooking & Baking (cook)
+1283,Movies and video games,movies and video games,"Gaming (game), Entertainment (movie)","Entertainment (movie), Gaming (game)"
+1284,Art fashion ,art fashion,Arts & Crafts (art),Arts & Crafts (art)
+1285,Playing virtual games badminton.,playing virtual games badminton,"Sports (badminton), Gaming (game)","Gaming (game), Sports (badminton)"
+1286,Web crawling playing sports reading books trekking ,web crawling playing sports reading books trekking,"Sports (sport), Reading & Writing (read), Travel & Adventure (trek)","Reading & Writing (read), Sports (sport), Travel & Adventure (trek)"
+1287,Playing Computer games Reading books Learning new Skills,playing computer games reading books learning new skills,"Reading & Writing (read), Technology & Coding (computer), Gaming (game), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Gaming (game), Reading & Writing (read), Technology & Coding (computer)"
+1288,I love to play and watch cricket. ,i love to play and watch cricket,"Sports (cricket), Entertainment (watch)","Entertainment (watch), Sports (cricket)"
+1289,Dancingsingingartplaying instrumentsetc,dancingsingingartplaying instrumentsetc,"Arts & Crafts (art), Music & Dance (singing)","Arts & Crafts (art), Music & Dance (singing)"
+1290,Playing Table Tennis and listening podcast,playing table tennis and listening podcast,"Sports (tennis), Mind & Wellness (listening)","Mind & Wellness (listening), Sports (tennis)"
+1291,CRICKET ðŸ,cricket ðÿ,Sports (cricket),Sports (cricket)
+1292,Cricket and music,cricket and music,"Sports (cricket), Music & Dance (music)","Music & Dance (music), Sports (cricket)"
+1293,Learning new things everday watching sunrise and sunset,learning new things everday watching sunrise and sunset,"Reading & Writing (learn), Design (new), Education & Study (learning), Entertainment (watching)","Design (new), Education & Study (learning), Entertainment (watching), Reading & Writing (learn)"
+1294,None,none,,None (explicit none match)
+1295,Cooking,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+1296,Playing Volleyball Hangout With Friends at Night ,playing volleyball hangout with friends at night,Sports (volley),Sports (volley)
+1297,Workout at GYM,workout at gym,Fitness & Gym (gym),Fitness & Gym (gym)
+1298,Travelling with Family and friends Solving Mathematical problems Dancing,travelling with family and friends solving mathematical problems dancing,"Music & Dance (dancing), Travel & Adventure (travel), Education & Study (math), Mind & Wellness (family)","Education & Study (math), Mind & Wellness (family), Music & Dance (dancing), Travel & Adventure (travel)"
+1299,Travelling ,travelling,Travel & Adventure (travel),Travel & Adventure (travel)
+1300,Reading and cooking.,reading and cooking,"Reading & Writing (read), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read)"
+1301,Cooking,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+1302,Railfanning ,railfanning,Automotive & Racing (railfanning),Automotive & Racing (railfanning)
+1303,Gym,gym,Fitness & Gym (gym),Fitness & Gym (gym)
+1304,Cooking ,cooking,Cooking & Baking (cook),Cooking & Baking (cook)
+1305,Playing Chess,playing chess,Sports (chess),Sports (chess)
+1306,Music,music,Music & Dance (music),Music & Dance (music)
+1307,Trying new places  organizing  cooking  watching shows and movies  making entertaining videos etc.video,trying new places  organizing  cooking  watching shows and movies  making entertaining videos etc video,"Cooking & Baking (cook), Design (new), Entertainment (movie)","Cooking & Baking (cook), Design (new), Entertainment (movie)"
+1308,Reading and playing cricket ,reading and playing cricket,"Sports (cricket), Reading & Writing (read)","Reading & Writing (read), Sports (cricket)"
+1309,Gym,gym,Fitness & Gym (gym),Fitness & Gym (gym)
+1310,Music dance eager to learn new things or gain knowledge. ,music dance eager to learn new things or gain knowledge,"Music & Dance (music), Reading & Writing (learn), Design (new), Education & Study (knowledge)","Design (new), Education & Study (knowledge), Music & Dance (music), Reading & Writing (learn)"
+1311,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+1312,Playing games,playing games,Gaming (game),Gaming (game)
+1313,playing video games and learning new languages ,playing video games and learning new languages,"Reading & Writing (learn), Gaming (game), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Gaming (game), Reading & Writing (learn)"
+1314,football,football,Sports (football),Sports (football)
+1315,Gym cricket ,gym cricket,"Sports (cricket), Fitness & Gym (gym)","Fitness & Gym (gym), Sports (cricket)"
+1316,Reading Gardening Travelling,reading gardening travelling,"Reading & Writing (read), Travel & Adventure (travel), Gardening (gardening)","Gardening (gardening), Reading & Writing (read), Travel & Adventure (travel)"
+1317,Reading History Cooking ,reading history cooking,"Reading & Writing (read), Cooking & Baking (cook)","Cooking & Baking (cook), Reading & Writing (read)"
+1318,Travelling reading ,travelling reading,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+1319,Reading ,reading,Reading & Writing (read),Reading & Writing (read)
+1320,Travelling cooking listening music,travelling cooking listening music,"Music & Dance (music), Travel & Adventure (travel), Cooking & Baking (cook), Mind & Wellness (listening)","Cooking & Baking (cook), Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (travel)"
+1321,Video Games Watching Anime,video games watching anime,"Gaming (game), Entertainment (watching)","Entertainment (watching), Gaming (game)"
+1322,Badminton and Reading ,badminton and reading,"Sports (badminton), Reading & Writing (read)","Reading & Writing (read), Sports (badminton)"
+1323,Music,music,Music & Dance (music),Music & Dance (music)
+1324,reading traveling ,reading traveling,"Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Travel & Adventure (travel)"
+1325,Sports ,sports,Sports (sport),Sports (sport)
+1326,Cricket ,cricket,Sports (cricket),Sports (cricket)
+1327,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+1328,Gaming,gaming,Gaming (gaming),Gaming (gaming)
+1329,Playing Sports,playing sports,Sports (sport),Sports (sport)
+1330,Dance  reading  travelling ,dance  reading  travelling,"Music & Dance (dance), Reading & Writing (read), Travel & Adventure (travel)","Music & Dance (dance), Reading & Writing (read), Travel & Adventure (travel)"
+1331,Cricket listening music reading story books,cricket listening music reading story books,"Sports (cricket), Music & Dance (music), Reading & Writing (read), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Reading & Writing (read), Sports (cricket)"
+1332,Hiking swimming,hiking swimming,"Sports (swim), Travel & Adventure (hiking)","Sports (swim), Travel & Adventure (hiking)"
+1333,Cricket ,cricket,Sports (cricket),Sports (cricket)
+1334,Dancing  Reading,dancing  reading,"Music & Dance (dancing), Reading & Writing (read)","Music & Dance (dancing), Reading & Writing (read)"
+1335,Tennis,tennis,Sports (tennis),Sports (tennis)
+1336,Listening music ,listening music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+1337,Playing online games traveling ,playing online games traveling,"Travel & Adventure (travel), Gaming (game)","Gaming (game), Travel & Adventure (travel)"
+1338,Music Reading,music reading,"Music & Dance (music), Reading & Writing (read)","Music & Dance (music), Reading & Writing (read)"
+1339,Learning about computersprogrammingvideo games,learning about computersprogrammingvideo games,"Reading & Writing (learn), Technology & Coding (programming), Gaming (game), Education & Study (learning)","Education & Study (learning), Gaming (game), Reading & Writing (learn), Technology & Coding (programming)"
+1340,I like to spend time with my friend  playing badminton  watch series for entertainment,i like to spend time with my friend  playing badminton  watch series for entertainment,"Sports (badminton), Entertainment (watch)","Entertainment (watch), Sports (badminton)"
+1341,Volleyball ,volleyball,Sports (volley),Sports (volley)
+1342,Gaming,gaming,Gaming (gaming),Gaming (gaming)
+1343,playing Basketball  Interested in GEOPOLITICS ,playing basketball  interested in geopolitics,Sports (basketball),Sports (basketball)
+1344,Sports  Book readingtraveling,sports  book readingtraveling,"Sports (sport), Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Sports (sport), Travel & Adventure (travel)"
+1345,Like to swim ,like to swim,Sports (swim),Sports (swim)
+1346,Reading books and exploring life ,reading books and exploring life,"Reading & Writing (read), Travel & Adventure (exploring)","Reading & Writing (read), Travel & Adventure (exploring)"
+1347,Gardening Reading books,gardening reading books,"Reading & Writing (read), Gardening (gardening)","Gardening (gardening), Reading & Writing (read)"
+1348,Sports watching movies and listening to songs,sports watching movies and listening to songs,"Sports (sport), Music & Dance (song), Entertainment (movie), Mind & Wellness (listening)","Entertainment (movie), Mind & Wellness (listening), Music & Dance (song), Sports (sport)"
+1349,Waching online shows and reading books,waching online shows and reading books,Reading & Writing (read),Reading & Writing (read)
+1350,Drawing painting ,drawing painting,Arts & Crafts (drawing),Arts & Crafts (drawing)
+1351,Book reading skating and travelling ,book reading skating and travelling,"Sports (skating), Reading & Writing (read), Travel & Adventure (travel)","Reading & Writing (read), Sports (skating), Travel & Adventure (travel)"
+1352,I like dancing drawing ,i like dancing drawing,"Arts & Crafts (drawing), Music & Dance (dancing)","Arts & Crafts (drawing), Music & Dance (dancing)"
+1353,Swimming  Travelling ,swimming  travelling,"Sports (swim), Travel & Adventure (travel)","Sports (swim), Travel & Adventure (travel)"
+1354,cooking  reading painting ,cooking  reading painting,"Arts & Crafts (painting), Reading & Writing (read), Cooking & Baking (cook)","Arts & Crafts (painting), Cooking & Baking (cook), Reading & Writing (read)"
+1355,Playing cricket ,playing cricket,Sports (cricket),Sports (cricket)
+1356,Playing video games editing and learning new things,playing video games editing and learning new things,"Reading & Writing (learn), Gaming (game), Design (new), Education & Study (learning)","Design (new), Education & Study (learning), Gaming (game), Reading & Writing (learn)"
+1357,Computers and sports,computers and sports,"Sports (sport), Technology & Coding (computer)","Sports (sport), Technology & Coding (computer)"
+1358,Coding gaming,coding gaming,"Technology & Coding (coding), Gaming (gaming)","Gaming (gaming), Technology & Coding (coding)"
+1359,Painting,painting,Arts & Crafts (painting),Arts & Crafts (painting)
+1360,Dance,dance,Music & Dance (dance),Music & Dance (dance)
+1361,Sports ,sports,Sports (sport),Sports (sport)
+1362,Reading book ,reading book,Reading & Writing (read),Reading & Writing (read)
+1363,Gilli danda   hide and seek,gilli danda   hide and seek,Sports (gilli danda),Sports (gilli danda)
+1364,Driving listening music,driving listening music,"Music & Dance (music), Travel & Adventure (driving), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (driving)"
+1365,Watching movies and playing game,watching movies and playing game,"Gaming (game), Entertainment (movie)","Entertainment (movie), Gaming (game)"
+1366,Listening to Music ,listening to music,"Music & Dance (music), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music)"
+1367,Singing and playing cricket ,singing and playing cricket,"Sports (cricket), Music & Dance (singing)","Music & Dance (singing), Sports (cricket)"
+1368,Listening music Travel ,listening music travel,"Music & Dance (music), Travel & Adventure (travel), Mind & Wellness (listening)","Mind & Wellness (listening), Music & Dance (music), Travel & Adventure (travel)"
+1369,Reading different books interests in web development. ,reading different books interests in web development,"Reading & Writing (read), Technology & Coding (web development)","Reading & Writing (read), Technology & Coding (web development)"
+1370,Creativity ,creativity,Arts & Crafts (creativity),Arts & Crafts (creativity)
+1371,Dancing and sports ,dancing and sports,"Sports (sport), Music & Dance (dancing)","Music & Dance (dancing), Sports (sport)"
+1372,Painting reading books ,painting reading books,"Arts & Crafts (painting), Reading & Writing (read)","Arts & Crafts (painting), Reading & Writing (read)"
+1373,I like to read and write stories and listen to music,i like to read and write stories and listen to music,"Music & Dance (music), Reading & Writing (read)","Music & Dance (music), Reading & Writing (read)"
+1374,Video editing ,video editing,Design (video editing),Design (video editing)
+1375,Sketchingsinginggaming,sketchingsinginggaming,"Arts & Crafts (sketching), Music & Dance (singing), Gaming (gaming)","Arts & Crafts (sketching), Gaming (gaming), Music & Dance (singing)"
+1376,no,no,,None (explicit none match)
+1377,Writting ,writting,Reading & Writing (writting),Reading & Writing (writting)
+1378,If I write about my hobbies I am actually yet to find the perfect hobby but I have a huge interest in robotics  Artificial intelligence since my childhood ,if i write about my hobbies i am actually yet to find the perfect hobby but i have a huge interest in robotics  artificial intelligence since my childhood,"Arts & Crafts (art), Technology & Coding (robotics)","Arts & Crafts (art), Technology & Coding (robotics)"
+1379,Badminton ,badminton,Sports (badminton),Sports (badminton)

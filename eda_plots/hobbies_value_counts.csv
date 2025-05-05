@@ -1,0 +1,271 @@
+hobbies,Counts
+Sports,201
+Reading & Writing,84
+Music & Dance,69
+Arts & Crafts,55
+Travel & Adventure,50
+,45
+Gaming,31
+"Music & Dance, Reading & Writing",28
+"Mind & Wellness, Music & Dance",26
+"Sports, Travel & Adventure",23
+"Arts & Crafts, Reading & Writing",22
+Entertainment,22
+"Music & Dance, Sports",21
+"Arts & Crafts, Music & Dance",21
+Fitness & Gym,21
+"Reading & Writing, Travel & Adventure",20
+"Entertainment, Sports",20
+Design,19
+"Reading & Writing, Sports",18
+"Gaming, Sports",15
+Technology & Coding,15
+"Arts & Crafts, Sports",13
+Cooking & Baking,13
+Mind & Wellness,12
+"Music & Dance, Travel & Adventure",12
+"Mind & Wellness, Music & Dance, Reading & Writing",12
+"Design, Education & Study, Reading & Writing",11
+"Mind & Wellness, Music & Dance, Travel & Adventure",10
+Education & Study,9
+Automotive & Racing,9
+"Arts & Crafts, Design",9
+"Fitness & Gym, Sports",8
+"Cooking & Baking, Music & Dance",8
+"Arts & Crafts, Travel & Adventure",8
+"Design, Reading & Writing",7
+"Cooking & Baking, Reading & Writing",7
+"Arts & Crafts, Gaming",7
+"Gaming, Reading & Writing",6
+"Gaming, Travel & Adventure",6
+"Design, Travel & Adventure",6
+"Reading & Writing, Sports, Travel & Adventure",6
+"Business & Finance, Sports",6
+"Music & Dance, Sports, Travel & Adventure",6
+"Cooking & Baking, Travel & Adventure",6
+"Arts & Crafts, Cooking & Baking",5
+"Arts & Crafts, Mind & Wellness, Music & Dance",5
+Business & Finance,5
+"Entertainment, Mind & Wellness, Music & Dance",5
+"Gaming, Music & Dance, Sports",5
+"Entertainment, Travel & Adventure",5
+"Music & Dance, Reading & Writing, Sports",4
+"Arts & Crafts, Technology & Coding",4
+"Reading & Writing, Technology & Coding",4
+"Design, Education & Study, Music & Dance, Reading & Writing",4
+"Arts & Crafts, Reading & Writing, Sports",4
+"Music & Dance, Technology & Coding",4
+"Entertainment, Gaming",4
+"Entertainment, Reading & Writing",4
+"Gaming, Technology & Coding",4
+"Reading & Writing, Sports, Technology & Coding",4
+"Education & Study, Reading & Writing",3
+"Design, Education & Study, Gaming, Reading & Writing",3
+"Arts & Crafts, Design, Sports, Travel & Adventure",3
+"Mind & Wellness, Music & Dance, Reading & Writing, Travel & Adventure",3
+"Entertainment, Music & Dance",3
+"Arts & Crafts, Entertainment",3
+"Music & Dance, Reading & Writing, Travel & Adventure",3
+"Design, Sports",3
+"Mind & Wellness, Music & Dance, Sports, Travel & Adventure",3
+"Arts & Crafts, Mind & Wellness, Music & Dance, Sports",3
+"Education & Study, Technology & Coding",3
+Puzzles,3
+"Fitness & Gym, Travel & Adventure",3
+"Arts & Crafts, Music & Dance, Reading & Writing",3
+"Arts & Crafts, Cooking & Baking, Reading & Writing",3
+"Mind & Wellness, Music & Dance, Sports",3
+"Gaming, Reading & Writing, Sports",3
+"Education & Study, Sports",3
+"Automotive & Racing, Travel & Adventure",3
+"Sports, Technology & Coding",3
+"Fitness & Gym, Gaming, Music & Dance, Sports",2
+"Automotive & Racing, Sports",2
+"Music & Dance, Reading & Writing, Technology & Coding",2
+"Design, Mind & Wellness, Music & Dance",2
+Social & Volunteering,2
+"Arts & Crafts, Design, Reading & Writing",2
+"Entertainment, Gaming, Sports",2
+"Entertainment, Sports, Travel & Adventure",2
+"Entertainment, Mind & Wellness, Music & Dance, Sports",2
+Occult & Astrology,2
+"Gaming, Mind & Wellness, Music & Dance, Sports",2
+"Design, Technology & Coding",2
+"Gaming, Mind & Wellness, Music & Dance, Reading & Writing",2
+"Design, Music & Dance, Travel & Adventure",2
+"Arts & Crafts, Mind & Wellness, Music & Dance, Reading & Writing",2
+"Fitness & Gym, Mind & Wellness, Music & Dance",2
+"Arts & Crafts, Gaming, Music & Dance",2
+"Design, Education & Study, Reading & Writing, Sports",2
+"Cooking & Baking, Music & Dance, Reading & Writing",2
+"Fitness & Gym, Technology & Coding",2
+"Gaming, Sports, Technology & Coding",2
+"Education & Study, Travel & Adventure",2
+"Mind & Wellness, Music & Dance, Reading & Writing, Sports",2
+"Social & Volunteering, Sports",2
+"Business & Finance, Education & Study, Reading & Writing",2
+"Arts & Crafts, Reading & Writing, Travel & Adventure",2
+"Fitness & Gym, Sports, Technology & Coding",2
+"Arts & Crafts, Music & Dance, Reading & Writing, Sports",2
+"Education & Study, Music & Dance, Reading & Writing",2
+"Cooking & Baking, Music & Dance, Sports, Travel & Adventure",2
+"Arts & Crafts, Design, Education & Study, Reading & Writing",2
+"Business & Finance, Reading & Writing",2
+"Gaming, Mind & Wellness, Music & Dance",2
+"Fitness & Gym, Mind & Wellness, Music & Dance, Sports",2
+"Business & Finance, Education & Study",2
+"Cooking & Baking, Gardening, Reading & Writing",1
+"Entertainment, Reading & Writing, Sports",1
+"Cooking & Baking, Mind & Wellness, Music & Dance, Travel & Adventure",1
+"Gaming, Mind & Wellness, Sports",1
+"Entertainment, Technology & Coding",1
+"Business & Finance, Design, Gaming",1
+"Cooking & Baking, Mind & Wellness, Music & Dance, Reading & Writing",1
+"Design, Education & Study, Reading & Writing, Sports, Technology & Coding",1
+"Business & Finance, Fitness & Gym",1
+"Cooking & Baking, Gaming, Music & Dance, Reading & Writing",1
+"Automotive & Racing, Fitness & Gym, Sports",1
+"Design, Sports, Technology & Coding",1
+"Entertainment, Sports, Technology & Coding",1
+"Business & Finance, Design, Sports",1
+"Automotive & Racing, Music & Dance, Sports, Travel & Adventure",1
+"Education & Study, Gaming, Music & Dance, Reading & Writing",1
+"Arts & Crafts, Cooking & Baking, Mind & Wellness, Reading & Writing, Sports",1
+"Arts & Crafts, Cooking & Baking, Design, Music & Dance, Reading & Writing, Travel & Adventure",1
+"Mind & Wellness, Reading & Writing, Sports",1
+"Arts & Crafts, Automotive & Racing, Cooking & Baking, Music & Dance, Sports, Travel & Adventure",1
+"Arts & Crafts, Sports, Travel & Adventure",1
+"Design, Reading & Writing, Travel & Adventure",1
+"Occult & Astrology, Reading & Writing, Sports",1
+"Gaming, Reading & Writing, Technology & Coding",1
+"Cooking & Baking, Music & Dance, Technology & Coding",1
+"Entertainment, Gaming, Mind & Wellness, Music & Dance",1
+"Automotive & Racing, Music & Dance, Travel & Adventure",1
+"Business & Finance, Technology & Coding",1
+"Gardening, Music & Dance, Reading & Writing, Sports",1
+"Education & Study, Gaming, Reading & Writing, Technology & Coding",1
+"Arts & Crafts, Automotive & Racing",1
+"Design, Social & Volunteering, Travel & Adventure",1
+"Arts & Crafts, Design, Gaming, Reading & Writing",1
+"Fitness & Gym, Gaming",1
+"Mind & Wellness, Sports",1
+Gardening,1
+"Fitness & Gym, Mind & Wellness, Music & Dance, Travel & Adventure",1
+"Business & Finance, Design, Education & Study",1
+"Automotive & Racing, Business & Finance, Reading & Writing",1
+"Arts & Crafts, Entertainment, Gardening, Reading & Writing",1
+"Automotive & Racing, Music & Dance, Sports",1
+"Design, Entertainment, Reading & Writing",1
+"Business & Finance, Reading & Writing, Sports",1
+"Arts & Crafts, Automotive & Racing, Cooking & Baking, Design, Gaming, Gardening, Music & Dance, Sports, Technology & Coding, Travel & Adventure",1
+"Arts & Crafts, Entertainment, Mind & Wellness, Music & Dance, Sports",1
+"Automotive & Racing, Design, Entertainment",1
+"Entertainment, Music & Dance, Sports",1
+"Cooking & Baking, Design, Entertainment, Reading & Writing",1
+"Business & Finance, Music & Dance, Sports, Technology & Coding",1
+"Design, Gaming, Reading & Writing",1
+"Design, Education & Study, Gaming, Reading & Writing, Technology & Coding",1
+"Business & Finance, Design, Education & Study, Technology & Coding, Travel & Adventure",1
+"Design, Gaming",1
+"Design, Education & Study, Entertainment, Reading & Writing",1
+"Arts & Crafts, Automotive & Racing, Cooking & Baking, Entertainment, Mind & Wellness, Travel & Adventure",1
+"Arts & Crafts, Entertainment, Gaming, Sports",1
+"Gardening, Reading & Writing, Travel & Adventure",1
+"Gaming, Mind & Wellness, Music & Dance, Technology & Coding",1
+"Design, Reading & Writing, Technology & Coding",1
+"Design, Education & Study, Reading & Writing, Social & Volunteering",1
+"Puzzles, Sports",1
+"Design, Education & Study, Reading & Writing, Sports, Travel & Adventure",1
+"Cooking & Baking, Design, Entertainment",1
+"Education & Study, Mind & Wellness, Music & Dance, Travel & Adventure",1
+"Education & Study, Gaming",1
+"Mind & Wellness, Reading & Writing",1
+"Cooking & Baking, Mind & Wellness, Music & Dance",1
+"Fitness & Gym, Technology & Coding, Travel & Adventure",1
+"Education & Study, Reading & Writing, Social & Volunteering",1
+"Business & Finance, Social & Volunteering",1
+"Business & Finance, Education & Study, Sports",1
+"Mind & Wellness, Music & Dance, Reading & Writing, Sports, Travel & Adventure",1
+"Design, Gaming, Mind & Wellness",1
+"Arts & Crafts, Education & Study, Mind & Wellness, Music & Dance, Reading & Writing",1
+"Business & Finance, Entertainment, Sports",1
+"Arts & Crafts, Automotive & Racing, Travel & Adventure",1
+"Entertainment, Gaming, Music & Dance, Reading & Writing, Travel & Adventure",1
+"Education & Study, Mind & Wellness, Music & Dance",1
+"Business & Finance, Cooking & Baking, Sports, Travel & Adventure",1
+"Automotive & Racing, Gaming, Mind & Wellness, Sports",1
+"Arts & Crafts, Automotive & Racing, Education & Study, Sports",1
+"Arts & Crafts, Design, Travel & Adventure",1
+"Arts & Crafts, Reading & Writing, Sports, Travel & Adventure",1
+"Cooking & Baking, Sports, Travel & Adventure",1
+"Design, Sports, Travel & Adventure",1
+"Arts & Crafts, Entertainment, Sports",1
+"Design, Fitness & Gym",1
+"Arts & Crafts, Mind & Wellness",1
+"Entertainment, Technology & Coding, Travel & Adventure",1
+"Arts & Crafts, Social & Volunteering",1
+"Business & Finance, Design, Gaming, Travel & Adventure",1
+"Design, Education & Study, Technology & Coding",1
+"Automotive & Racing, Education & Study, Sports",1
+"Gaming, Sports, Travel & Adventure",1
+"Arts & Crafts, Music & Dance, Sports, Technology & Coding",1
+"Arts & Crafts, Cooking & Baking, Sports, Travel & Adventure",1
+"Cooking & Baking, Sports",1
+"Arts & Crafts, Education & Study, Occult & Astrology, Travel & Adventure",1
+"Education & Study, Reading & Writing, Travel & Adventure",1
+"Automotive & Racing, Gaming, Sports",1
+"Cooking & Baking, Design, Education & Study, Reading & Writing, Sports, Travel & Adventure",1
+"Mind & Wellness, Social & Volunteering, Sports",1
+"Design, Education & Study, Entertainment, Gaming, Reading & Writing",1
+"Fitness & Gym, Reading & Writing",1
+"Arts & Crafts, Cooking & Baking, Music & Dance",1
+"Arts & Crafts, Cooking & Baking, Music & Dance, Reading & Writing",1
+"Design, Education & Study, Music & Dance, Reading & Writing, Travel & Adventure",1
+"Automotive & Racing, Design, Education & Study, Gaming, Reading & Writing, Social & Volunteering, Sports",1
+"Arts & Crafts, Music & Dance, Technology & Coding",1
+"Technology & Coding, Travel & Adventure",1
+"Arts & Crafts, Gaming, Sports, Technology & Coding",1
+"Business & Finance, Design, Education & Study, Fitness & Gym, Reading & Writing, Sports, Technology & Coding",1
+"Design, Music & Dance, Technology & Coding",1
+"Entertainment, Mind & Wellness, Music & Dance, Sports, Travel & Adventure",1
+"Sports, Technology & Coding, Travel & Adventure",1
+"Design, Music & Dance",1
+"Arts & Crafts, Design, Music & Dance",1
+"Arts & Crafts, Cooking & Baking, Design, Education & Study, Music & Dance, Reading & Writing, Travel & Adventure",1
+"Entertainment, Gardening",1
+"Design, Music & Dance, Reading & Writing",1
+"Entertainment, Gaming, Mind & Wellness, Music & Dance, Reading & Writing",1
+"Automotive & Racing, Entertainment, Travel & Adventure",1
+"Cooking & Baking, Education & Study",1
+"Cooking & Baking, Reading & Writing, Sports, Travel & Adventure",1
+"Gaming, Music & Dance, Social & Volunteering, Sports, Technology & Coding",1
+"Entertainment, Mind & Wellness, Music & Dance, Reading & Writing, Travel & Adventure",1
+"Design, Education & Study, Reading & Writing, Technology & Coding",1
+"Entertainment, Fitness & Gym",1
+"Arts & Crafts, Entertainment, Music & Dance, Reading & Writing",1
+"Reading & Writing, Technology & Coding, Travel & Adventure",1
+"Education & Study, Fitness & Gym, Reading & Writing",1
+"Cooking & Baking, Reading & Writing, Travel & Adventure",1
+"Automotive & Racing, Reading & Writing",1
+"Mind & Wellness, Technology & Coding",1
+"Fitness & Gym, Reading & Writing, Sports, Technology & Coding",1
+"Design, Music & Dance, Reading & Writing, Travel & Adventure",1
+"Education & Study, Music & Dance, Reading & Writing, Sports",1
+"Cooking & Baking, Education & Study, Mind & Wellness, Reading & Writing, Social & Volunteering",1
+"Business & Finance, Gaming",1
+"Design, Fitness & Gym, Reading & Writing, Sports",1
+"Arts & Crafts, Cooking & Baking, Design, Travel & Adventure",1
+"Design, Education & Study, Music & Dance, Reading & Writing, Sports, Technology & Coding",1
+"Education & Study, Mind & Wellness, Music & Dance, Reading & Writing",1
+"Automotive & Racing, Music & Dance",1
+"Arts & Crafts, Design, Mind & Wellness, Music & Dance, Travel & Adventure",1
+"Arts & Crafts, Cooking & Baking, Design, Music & Dance, Sports, Travel & Adventure",1
+"Mind & Wellness, Travel & Adventure",1
+"Gaming, Music & Dance",1
+"Entertainment, Mind & Wellness, Music & Dance, Reading & Writing, Sports",1
+"Entertainment, Social & Volunteering",1
+"Arts & Crafts, Music & Dance, Travel & Adventure",1
+"Design, Reading & Writing, Social & Volunteering, Sports, Travel & Adventure",1
+"Cooking & Baking, Education & Study, Reading & Writing",1
+"Design, Education & Study, Fitness & Gym, Reading & Writing",1
+"Gardening, Reading & Writing",1
